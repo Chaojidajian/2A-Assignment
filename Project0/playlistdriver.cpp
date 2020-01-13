@@ -2,9 +2,6 @@
 #include "playlist.h"
 #include <string>
 using namespace std;
-Playlist::Playlist(){
-    this->Songs=new Song[1];
-}
 int Playlist::add_Song(Song q)
 {
     if (this->empty == this->list_length)
@@ -83,6 +80,7 @@ int Playlist::remove_Song(int n)
             if (a == "m")
             {
                 cin >> num;
+                new_list.Songs=new Song[num];
                 new_list.list_length = num;
                 new_list.empty = 0;
                 cout << "success" << endl;

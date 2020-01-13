@@ -1,2 +1,35 @@
 success
 success
+success
+success
+success
+played 1  Mamma Mia;Abba
+played 2  Daniel;Elton John
+can not play 3
+can not play 4
+can not play 5
+can not play 6
+can not play 7
+can not insert Daniel;Elton John
+success
+played 1  Mamma Mia;Abba
+played 2  Daniel;Elton John
+played 3  We Will Rock You;Queen
+can not play 4
+can not play 5
+success
+success
+can not insert 66;77
+can not insert 77;88
+played 1  Mamma Mia;Abba
+played 2  Daniel;Elton John
+played 3  We Will Rock You;Queen
+played 4  22;33
+played 5  44;55
+success
+can not erase 5
+played 1  Mamma Mia;Abba
+played 2  Daniel;Elton John
+played 3  We Will Rock You;Queen
+played 4  22;33
+can not play 5

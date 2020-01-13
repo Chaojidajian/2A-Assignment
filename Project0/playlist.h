@@ -16,7 +16,7 @@ class Playlist{
     size_t list_length;
     int add_Song(Song a);
     int remove_Song(int n);
-    Playlist();
+    Playlist()=default;
     ~Playlist()=default;
 };
 
