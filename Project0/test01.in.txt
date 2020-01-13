@@ -1,0 +1,36 @@
+m 5
+i Mamma Mia;Abba
+i We Will Rock You;Queen
+i Daniel;Elton John
+e 2
+p 1
+p 2
+p 3
+p 4
+p 5
+p 6
+p 7
+i Daniel;Elton John
+i We Will Rock You;Queen
+p 1
+p 2
+p 3
+p 4
+p 5
+i 22;33
+i 44;55
+i 66;77
+i 77;88
+p 1
+p 2
+p 3
+p 4
+p 5
+e 5
+e 5
+p 1
+p 2
+p 3
+p 4
+p 5
+
