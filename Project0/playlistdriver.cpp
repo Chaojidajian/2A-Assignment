@@ -74,11 +74,12 @@ int Playlist::remove_Song(int n)
     {
         Playlist new_list;
         string a;
-        int num;
+        
         while (cin >> a)
         {
             if (a == "m")
-            {
+            {   
+                int num;
                 cin >> num;
                 new_list.Songs=new Song[num];
                 new_list.list_length = num;
