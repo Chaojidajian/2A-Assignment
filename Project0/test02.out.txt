@@ -8,6 +8,7 @@ success
 success
 success
 success
+success
 played 3 Dancing Queen;Abba
 played 5 We Will Rock You;Queen
 played 1 Mamma Mia;Abba
@@ -21,6 +22,6 @@ success
 success
 success
 success
-played 18 Candle in thw wind;Elton John
+played 18 Candle in the wind;Elton John
 played 20 That is what friends are for;Elton John
-could not play 25
+can not play 25

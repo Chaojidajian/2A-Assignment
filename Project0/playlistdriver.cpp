@@ -105,7 +105,7 @@ int Playlist::remove_Song(int n)
                 }
                 else
                 {
-                    cout << "played " << n << " " << (new_list.Songs + n - 1)->get_name()<< ";" << (new_list.Songs + n-1)->get_artist()<< endl;
+                    cout << "played " << n<< (new_list.Songs + n - 1)->get_name()<< ";" << (new_list.Songs + n-1)->get_artist()<< endl;
                 }
 
             }
@@ -116,4 +116,5 @@ int Playlist::remove_Song(int n)
                 new_list.remove_Song(n);
             }
         }
+        return 0;
     }

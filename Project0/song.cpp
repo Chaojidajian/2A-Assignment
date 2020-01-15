@@ -18,7 +18,7 @@ Song::Song(){
 }
 bool Song::operator==(const Song &a)
 {   
-    return (a.name == this-> name); // true if a is the same as b; false otherwise
+    return (a.name == this-> name);
 }
 string Song::get_name(){
     return this->name;
