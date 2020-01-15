@@ -1,4 +1,4 @@
-m 20
+m 100
 i Mamma Mia;Abba
 i The Winner Takes it All;Abba
 i Dancing Queen;Abba
