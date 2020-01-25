@@ -17,6 +17,6 @@ class Playlist{
     int add_Song(Song a);
     int remove_Song(int n);
     Playlist()=default;
-    ~Playlist()=default;
+    ~Playlist();
 };
 
