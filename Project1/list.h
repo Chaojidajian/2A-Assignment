@@ -10,6 +10,7 @@ class linked_list{
     private:
     Node *head,*tail;
     int length;
+    class deque_empty{};
     public:
     linked_list();
     ~linked_list();

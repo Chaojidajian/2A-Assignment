@@ -21,11 +21,11 @@ void extract_input(string input,string&command,string&parameter){
         }
 }
 int main(){
-    string s;
+    string s="";
     linked_list mylist;
     while(getline(cin, s)){
-        string command;
-        string parameter;
+        string command="";
+        string parameter="";
         extract_input(s,command,parameter);
         if(command=="enqueue_front"){
             int data=stoi(parameter);
@@ -39,7 +39,7 @@ int main(){
             mylist.dequeue_back();
         }else if(command=="clear"){
             mylist.~linked_list();
-            cout<<"success";
+            cout<<"success"<<endl;
         }else if(command=="front"){
             int data=stoi(parameter);
             mylist.front(data);
@@ -53,9 +53,7 @@ int main(){
         }else if(command=="print"){
             mylist.print();
         }else{
-            cout<<"please give a valid command"<<endl;
+            ;
         }
-        
-
     }
 }

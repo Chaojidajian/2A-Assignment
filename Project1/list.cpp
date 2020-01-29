@@ -12,12 +12,16 @@ linked_list::linked_list(){
     length=0;
 }
 linked_list::~linked_list(){
-    Node *next;
-    while(head!=nullptr){
-        next=head->next;
-        delete head;
-        head=next;
-   } 
+    while(length>1){
+        Node *temp1=head;
+        head=head->next;
+        delete temp1;
+        temp1=nullptr;
+        length--;
+   }
+   delete head;
+   head=nullptr; 
+   length--;
 }
 void linked_list::enqueue_front(int i){
     Node *temp1=new Node(i);
@@ -31,7 +35,7 @@ void linked_list::enqueue_front(int i){
         head=temp1;
     }
     length++;
-    cout<<"failure"<<endl;
+    cout<<"success"<<endl;
 }
 void linked_list::enqueue_back(int i){
     Node *temp1=new Node(i);
@@ -45,45 +49,79 @@ void linked_list::enqueue_back(int i){
         tail=temp1;
     }
     length++;
-    cout<<"failure"<<endl;
+    cout<<"success"<<endl;
 }
 void linked_list::dequeue_front(){
-    if(head==nullptr){
+    try{
+        if(head==nullptr){
+            throw deque_empty();
+        }else{
+            if(length>1){
+                Node *temp1=head;
+                head->next->prev=nullptr;
+                head=head->next;
+                delete temp1;
+                temp1=nullptr;
+                length--;  
+            }else{
+                delete head;
+                head=nullptr;
+                tail=nullptr;
+                length--;  
+            }
+            cout<<"success"<<endl;
+        }
+    }
+    catch(deque_empty i){
         cout<<"failure"<<endl;
-    }else{
-        Node *temp1=head;
-        head->next->prev=nullptr;
-        head=head->next;
-        delete temp1;
-        temp1=nullptr;
-        length--;
-        cout<<"success"<<endl;
     }
 }
 void linked_list::dequeue_back(){
-    if(tail==nullptr){
+    try{
+        if(tail==nullptr){
+            throw deque_empty();
+        }else{
+            if(length>1){
+                Node *temp1=tail;
+                tail->prev->next=nullptr;
+                tail=tail->prev;
+                delete temp1;
+                temp1=nullptr;
+                length--;
+            }else{
+                delete tail;
+                tail=nullptr;
+                head=nullptr;
+                length--;  
+            }
+            cout<<"success"<<endl;
+        }
+    }
+    catch(deque_empty i){
         cout<<"failure"<<endl;
-    }else{
-        Node *temp1=tail;
-        tail->prev->next=nullptr;
-        tail=tail->prev;
-        delete temp1;
-        temp1=nullptr;
-        length--;
-        cout<<"success"<<endl;
     }
 }
 void linked_list::front(int i){
-    if(head->data==i){
-        cout<<"success"<<endl;
-    }else{
+    try{
+        if(head->data==i){
+            cout<<"success"<<endl;
+        }else{
+            throw deque_empty();
+        }
+    }
+    catch(deque_empty i){
         cout<<"failure"<<endl;
     }
 }
 void linked_list::back(int i){
-    if(tail->data==i){
-        cout<<"success"<<endl;
-    }else{
+    try{
+        if(tail->data==i){
+            cout<<"success"<<endl;
+        }else{
+            throw deque_empty();
+        }
+    }
+    catch(deque_empty i){
         cout<<"failure"<<endl;
     }
 }
