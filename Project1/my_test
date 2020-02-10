@@ -1,0 +1,25 @@
+size
+enqueue_front 5
+enqueue_front 4
+enqueue_front 3
+enqueue_front 2
+enqueue_front 1
+front 1
+front 2
+front1
+dequeue_back
+dequeue_back
+dequeue_back
+dequeue_back
+dequeue_back
+dequeue_back6
+enqueue_back7
+enqueue_back8 
+enqueue_back9
+enqueue_back10
+print
+empty
+size
+clear
+empty
+size

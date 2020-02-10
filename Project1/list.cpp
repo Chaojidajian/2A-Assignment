@@ -12,16 +12,20 @@ linked_list::linked_list(){
     length=0;
 }
 linked_list::~linked_list(){
-    while(length>1){
-        Node *temp1=head;
-        head=head->next;
-        delete temp1;
-        temp1=nullptr;
+    if(length==0){
+        ;
+    }else{
+        while(length>1){
+            Node *temp1=head;
+            head=head->next;
+            delete temp1;
+            temp1=nullptr;
+            length--;
+        }
+        delete head;
+        head=nullptr; 
         length--;
-   }
-   delete head;
-   head=nullptr; 
-   length--;
+    }
 }
 void linked_list::enqueue_front(int i){
     Node *temp1=new Node(i);
@@ -141,20 +145,24 @@ void linked_list::print(){
     }else{
         Node *temp1=head;
         while(temp1!=nullptr){
-            cout<<temp1->data<<" ";
-            if(temp1->next==nullptr){
-                break;
-            }
-            temp1=temp1->next;
+                cout<<temp1->data;
+                if(temp1->next==nullptr){
+                    break;
+                }else{
+                    cout<<" ";                
+                }
+                temp1=temp1->next;
         }
         cout<<endl;
         temp1=tail;
         while(temp1!=nullptr){
-            cout<<temp1->data<<" ";
-            if(temp1->prev==nullptr){
-                break;
-            }
-            temp1=temp1->prev;
+                cout<<temp1->data;
+                if(temp1->prev==nullptr){
+                    break;
+                }else{
+                    cout<<" ";                
+                }
+                temp1=temp1->prev;
         }
         cout<<endl;
     }
