@@ -34,24 +34,40 @@ int main(){
             int data=stoi(parameter);
             mylist.enqueue_back(data);
         }else if(command=="dequeue_front"){
-            mylist.dequeue_front();
+            if(parameter==""){
+                mylist.dequeue_front();
+            }
         }else if(command=="dequeue_back"){
-            mylist.dequeue_back();
+            if(parameter==""){
+                mylist.dequeue_back();
+            }
         }else if(command=="clear"){
-            mylist.~linked_list();
-            cout<<"success"<<endl;
+            if(parameter==""){
+                mylist.~linked_list();
+                cout<<"success"<<endl;
+            }
         }else if(command=="front"){
             int data=stoi(parameter);
+            if(parameter!=""){
             mylist.front(data);
+            }
         }else if(command=="back"){
             int data=stoi(parameter);
+            if(parameter!=""){
             mylist.back(data);
+            }
         }else if(command=="empty"){
-            mylist.empty();
+            if(parameter==""){
+                mylist.empty();
+            }
         }else if(command=="size"){
-            mylist.size();
+            if(parameter==""){
+                mylist.size();
+            }
         }else if(command=="print"){
-            mylist.print();
+            if(parameter==""){
+                mylist.print();
+            }
         }else{
             ;
         }

@@ -1,3 +1,5 @@
+size 10
+dequeue_front
 enqueue_front 5
 enqueue_front 4
 enqueue_front 3
