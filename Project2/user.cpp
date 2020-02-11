@@ -5,6 +5,10 @@ string user::get_number(){
 string user::get_caller(){
     return this->caller;
 }
+user::user(){
+}
+user::~user(){
+}
 user::user(string number, string name){
     this->number=number;
     this->caller=name;
@@ -22,4 +26,12 @@ user *user::get_prev(){
 }
 void user::set_prev(user *n){
     this->prev_caller=n;
+}
+bool user::operator==(const user &a)
+{   
+    return (a.number == this-> number);
+}
+bool user::operator!=(const user &a)
+{   
+    return (a.number != this-> number);
 }

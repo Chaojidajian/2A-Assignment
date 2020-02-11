@@ -7,6 +7,9 @@ class user{
     user *next_caller;
     user *prev_caller;
     public:
+    user(string number, string name);
+    user();
+    ~user();
     string get_number();
     string get_caller();
     void set_number(string number);
@@ -15,7 +18,6 @@ class user{
     void set_prev(user *n);
     user *get_next();
     user *get_prev();
-    user(string number, string name);
-    user();
-    ~user()=default;
+    bool operator==(const user &a);
+    bool operator!=(const user &a);
 };

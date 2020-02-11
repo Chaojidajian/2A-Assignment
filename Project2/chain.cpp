@@ -3,6 +3,14 @@ chain::chain(){
     this->head=nullptr;
     this->tail=nullptr;
 }
+chain::~chain(){
+    while(this->head!=nullptr){
+        user *temp=head;
+        head=head->get_next();
+        delete temp;
+        temp=nullptr;
+    }
+}
 user *chain::get_head(){
     return this->head;
 }
