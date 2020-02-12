@@ -1,5 +1,5 @@
 #include "open_table.h"
-#include    <iostream>
+#include <iostream>
 using namespace std;
 open_table::~open_table(){
     m=0;
