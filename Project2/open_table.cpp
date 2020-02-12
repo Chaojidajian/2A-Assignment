@@ -8,9 +8,9 @@ open_table::~open_table(){
 vector<user> open_table::get_data(){
     return this->data;
 }
-void open_table::define(int m){
+void open_table::define(string k){
+    m=stoll(k);
     this->data.resize(m);
-    this->m=m;
     user temp;
     for(auto i=0;i<m;i++){
         data.push_back(temp);
@@ -26,11 +26,12 @@ int open_table::insert(string number,string name){
     }
     long long k=stoll(number);
     size_t position=k%m;
+    size_t offset=(k/m)%m;
+    if(offset%2==0){
+            offset++;
+    }
     while(data[position]!=temp1){
-        position=(position/m)%m;
-        if(position%2==0){
-            position++;
-        }
+        position=(position+offset)%m;
     }
     data[position]=temp;
     exists++;
@@ -38,10 +39,20 @@ int open_table::insert(string number,string name){
     return 0;
 }
 int open_table::search(string number){
-    size_t position=0;
+    long long k=stoll(number);
+    int q=0;
+    size_t position=k%m;
+    size_t offset=(k/m)%m;
+    // for(auto i=data.begin();i!=data.end();++i){
+    //     cout<<(*i).get_caller()<<endl;
+    // }
+    if(offset%2==0){
+            offset++;
+    }
     while(data[position].get_number()!=number){
-            position++;
-            if(position>=m){
+            position=(position+offset)%m;
+            q++;
+            if(q>=m){
                 cout<<"not found"<<endl;
                 return 1;
             }
@@ -50,15 +61,21 @@ int open_table::search(string number){
     return 0;
 }
 int open_table::delete_data(string number){
-    size_t position=0;
+    long long k=stoll(number);
+    user temp1;
+    size_t position=k%m;
+    size_t offset=(k/m)%m;
+    if(offset%2==0){
+            offset++;
+    }
     while(data[position].get_number()!=number){
-            position++;
+            position=(position+offset)%m;
             if(position>=m){
                 cout<<"failure"<<endl;
                 return 1;
             }
     }
-    data[position]=user();
+    data[position]=temp1;
     exists--;
     cout<<"success"<<endl;
     return 0;
