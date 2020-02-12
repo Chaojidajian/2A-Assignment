@@ -35,20 +35,35 @@ void chain_table::insert(string number,string name){
         }else{
             bool temp1=true;
             user *temp2=data[position].get_head();
-            if(temp2!=nullptr){
-                do{
-                    if(temp2->get_number()==number){
-                        temp1=false;
-                    }
-                    temp2=temp2->get_next();
-                }while(temp2!=nullptr);
-            }
+            do{
+                if(temp2->get_number()==number){
+                    temp1=false;
+                    break;
+                }
+                if(temp2->get_number()>number){
+                    break;
+                }
+                temp2=temp2->get_next();
+            }while(temp2!=nullptr);
             if(temp1){
-                user *temp3=data[position].get_tail(); //point to tail
-                temp->set_prev(temp3);
-                temp3->set_next(temp);
-                data[position].set_tail(temp);//set new tail
-                std::cout<<"success"<<endl;
+                if(temp2==nullptr){
+                    user *temp3=data[position].get_tail(); //point to tail
+                    temp->set_prev(temp3);
+                    temp3->set_next(temp);
+                    data[position].set_tail(temp);//set new tail
+                    std::cout<<"success"<<endl;
+                }else if(temp2==data[position].get_head()){
+                    temp->set_prev(temp2->get_prev());
+                    temp->set_next(temp2);
+                    temp2->set_prev(temp);
+                    data[position].set_head(temp);
+                    std::cout<<"success"<<endl;
+                }else{
+                    temp->set_prev(temp2->get_prev());
+                    temp->set_next(temp2);
+                    temp2->set_prev(temp);
+                    std::cout<<"success"<<endl;
+                }
             }else{
                 std::cout<<"failure"<<endl;
             }
