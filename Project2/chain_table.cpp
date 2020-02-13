@@ -8,13 +8,15 @@ vector<chain> chain_table::get_data(){
 chain_table::chain_table(){
 }
 chain_table::~chain_table(){
-    m=0;
-    this->data.resize(m);
+    this->data.clear();
 }
 long long chain_table::get_size(){
     return this->m;
 }
 void chain_table::define(string k){
+    this->data.clear();
+    vector <chain> n;
+    this->data=n;
     m=stoll(k);
     this->data.resize(m);
     chain temp;
@@ -36,7 +38,7 @@ void chain_table::insert(string number,string name){
             bool temp1=true;
             user *temp2=data[position].get_head();
             do{
-                if(temp2->get_number()==number){
+                if(temp2->get_number()==temp->get_number()){
                     temp1=false;
                     break;
                 }

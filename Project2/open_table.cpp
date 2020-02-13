@@ -18,6 +18,9 @@ void open_table::define(string k){
     cout<<"success"<<endl;
 }
 int open_table::insert(string number,string name){
+    this->data.clear();
+    vector <user> n;
+    this->data=n;
     user temp(number,name);
     user temp1;
     if(exists==m){
@@ -28,10 +31,10 @@ int open_table::insert(string number,string name){
     size_t position=k%m;
     size_t offset=(k/m)%m;
     if(offset%2==0){
-            offset++;
+        offset++;
     }
     while(data[position]!=temp1){
-        if(data[position]==temp){
+        if((data[position])==temp||(position==(position+offset)%m)){
             cout<<"failure"<<endl;
             return 1;
         }
