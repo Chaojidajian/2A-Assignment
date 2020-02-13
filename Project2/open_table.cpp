@@ -31,6 +31,10 @@ int open_table::insert(string number,string name){
             offset++;
     }
     while(data[position]!=temp1){
+        if(data[position]==temp){
+            cout<<"failure"<<endl;
+            return 1;
+        }
         position=(position+offset)%m;
     }
     data[position]=temp;
@@ -40,19 +44,15 @@ int open_table::insert(string number,string name){
 }
 int open_table::search(string number){
     long long k=stoll(number);
-    int q=0;
     size_t position=k%m;
     size_t offset=(k/m)%m;
-    // for(auto i=data.begin();i!=data.end();++i){
-    //     cout<<(*i).get_caller()<<endl;
-    // }
+    int q=position;
     if(offset%2==0){
             offset++;
     }
     while(data[position].get_number()!=number){
             position=(position+offset)%m;
-            q++;
-            if(q>=m){
+            if(q==position){
                 cout<<"not found"<<endl;
                 return 1;
             }
@@ -65,12 +65,13 @@ int open_table::delete_data(string number){
     user temp1;
     size_t position=k%m;
     size_t offset=(k/m)%m;
+    int q=position;
     if(offset%2==0){
             offset++;
     }
     while(data[position].get_number()!=number){
             position=(position+offset)%m;
-            if(position>=m){
+            if(q==position){
                 cout<<"failure"<<endl;
                 return 1;
             }
