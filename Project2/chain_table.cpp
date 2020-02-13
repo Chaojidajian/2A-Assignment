@@ -125,7 +125,7 @@ int chain_table::delete_data(string number){
     return 1;
 }
 void chain_table::print(string i){
-    size_t k=stoll(i)-1;
+    size_t k=stoll(i);
     if(data[k].get_head()==nullptr){
         ;
     }else{

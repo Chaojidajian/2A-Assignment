@@ -7,10 +7,10 @@ i 5197569209;sum
 i 5197569309;lily
 i 5197569419;lucy
 i 5197569109;henry
-p 10
+p 9
 d 5197569109
 s 5197569109
-p 10
+p 9
 output:
 success
 success

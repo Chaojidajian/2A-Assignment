@@ -46,7 +46,7 @@ int main(){
             }
         }else if(command=="p"){
             int temp=stoll(number);
-            if(mytable.get_size()>=temp){
+            if(mytable.get_size()>temp){
                 mytable.print(number);
             }
         }else{
