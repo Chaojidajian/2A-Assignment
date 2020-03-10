@@ -1,6 +1,6 @@
 #include "city.h"
 //Bingjian Du 20706578
-city::city(string name,double x, double y, long long p,double r, double s){
+city::city(string name,double x, double y, long p,long r, long s){
     this->name=name;
     this->x=x;
     this->y=y;
@@ -21,13 +21,13 @@ double city::get_x(){
 double city::get_y(){
     return this->y;
 }
-long long city::get_population(){
+long city::get_population(){
     return this->p;
 }
-double city::get_cost(){
+long city::get_cost(){
     return this->r;
 }
-double city::get_salary(){
+long city::get_salary(){
     return this->s;
 }
 void city::set_child(string direction,city *child){
@@ -40,8 +40,8 @@ void city::set_child(string direction,city *child){
     if(direction=="NW"){
         this->NW=child;
     }
-    if(direction=="NE"){
-        this->NW=child;
+    if(direction=="SW"){
+        this->SW=child;
     }
 }
 city *city::get_NE(){

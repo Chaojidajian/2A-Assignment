@@ -3,25 +3,27 @@
 #include <string>
 //Bingjian Du 20706578
 using namespace std;
+tree mytree;
 int main(){
     string s;
-    tree mytree;
     while(getline(cin, s)){
         string command,substring;
         extract_input(s,command,substring);
         if(command=="i"){
             string name;
-            double x;
-            double y;
-            long long p;
-            double r;
-            double s;
+            double x,y;
+            long p,r,s;
             if(extract_info(substring,name,x,y,p,r,s)){
                 city *new_city=new city(name,x,y,p,r,s);
-                if(mytree.insert(new_city,mytree.get_root())){
-                    cout<<"success";
+                if (mytree.get_root()==nullptr){
+                        mytree.set_root(new_city);
+                        cout<<"success"<<endl;
                 }else{
-                    cout<<"failure";
+                    if(mytree.insert(new_city,mytree.get_root())){
+                        cout<<"success"<<endl;
+                    }else{
+                        cout<<"failure"<<endl;
+                    }
                 }
             }
         }else if(command=="s"){
@@ -33,29 +35,34 @@ int main(){
         }else if(command=="q_max"){
             double x,y;
             string attr,direction;
-            if(extract_attr(substring,x,y,direction,attr){
+            if(extract_attr(substring,x,y,direction,attr)){
                 mytree.q_max(x,y,direction,attr);
             }
         }else if(command=="q_min"){
             double x,y;
-            string attr;
-            if(extract_attr(substring,x,y,attr){
-                
+            string direction,attr;
+            if(extract_attr(substring,x,y,direction,attr)){
+                // mytree.q_min(x,y,direction,attr);
             }
         }else if(command=="q_total"){
             double x,y;
-            string attr;
-            if(extract_attr(substring,x,y,attr){
-                
+            string attr,direction;
+            if(extract_attr(substring,x,y,direction,attr)){
+                // mytree.q_total(x,y,direction,attr);
             }
         }else if(command=="print"){
-            double x,y;
-            string attr;
+            mytree.print(mytree.get_root());
+            if(mytree.get_root()!=nullptr){
+                cout<<endl;
+            }
         }else if(command=="clear"){
-            double x,y;
-            string attr;
+            mytree.clear(mytree.get_root());
+            city *temp=mytree.get_root();
+            delete temp;
+            mytree.set_root(nullptr);
+            mytree.set_size(0);
         }else if(command=="size"){
-            ;
+            mytree.tree_size();
         }else{
             ;
         }
@@ -78,28 +85,28 @@ void extract_input(string input,string&command,string&substring){
         }
     }
 }
-bool extract_info(string input,string &name,double &x, double &y, long long &p,double &r, double &s){
+bool extract_info(string input,string &name,double &x, double &y, long &p,long &r, long &s){
     int a=0;
     string longtitude,latitude, population, cost, salary;
     for (size_t i = 0; i != input.length(); i++)
     {
-        if (input[i] != ' ' && a==0)
+        if (input[i] != ' ' && a==0&&input[i] != ';')
         {
             name = name + input[i];
         }
-        if(input[i] != ' ' && a==1){
+        if(input[i] != ' ' && a==1&&input[i] != ';'){
             longtitude=longtitude+input[i];
         }
-        if(input[i] != ' ' && a==2){
+        if(input[i] != ' ' && a==2&&input[i] != ';'){
             latitude=latitude+input[i];
         }
-        if(input[i] != ' ' && a==3){
+        if(input[i] != ' ' && a==3&&input[i] != ';'){
             population=population+input[i];
         }
-        if(input[i] != ' ' && a==4){
+        if(input[i] != ' ' && a==4&&input[i] != ';'){
             cost=cost+input[i];
         }
-        if(input[i] != ' ' && a==5){
+        if(input[i] != ' ' && a==5&&input[i] != ';'){
             salary=salary+input[i];
         }
         if (input[i] == ';')
@@ -110,11 +117,12 @@ bool extract_info(string input,string &name,double &x, double &y, long long &p,d
     if(a!=5){
         return false;
     }
+
     x=stod(longtitude);
     y=stod(latitude);
-    p=stoll(population);
-    r=stod(cost);
-    s=stod(salary);
+    p=stol(population);
+    r=stol(cost);
+    s=stol(salary);
     return true;
 } 
 bool extract_search(string input,double &x, double &y){
@@ -122,10 +130,10 @@ bool extract_search(string input,double &x, double &y){
     string longtitude,latitude;
     for (size_t i = 0; i != input.length(); i++)
     {
-        if(input[i] != ' ' && a==1){
+        if(input[i] != ' ' && a==1&&input[i] != ';'){
             longtitude=longtitude+input[i];
         }
-        if(input[i] != ' ' && a==2){
+        if(input[i] != ' ' && a==2&&input[i] != ';'){
             latitude=latitude+input[i];
         }
         if (input[i] == ';')
@@ -145,16 +153,16 @@ bool extract_attr(string input,double &x, double &y,string &dir,string &attr){
     int a=1;
     for (size_t i = 0; i != input.length(); i++)
     {
-        if(input[i] != ' ' && a==1){
+        if(input[i] != ' ' && a==1&&input[i] != ';'){
             longtitude=longtitude+input[i];
         }
-        if(input[i] != ' ' && a==2){
+        if(input[i] != ' ' && a==2&&input[i] != ';'){
             latitude=latitude+input[i];
         }
-        if(input[i] != ' ' && a==3){
+        if(input[i] != ' ' && a==3&&input[i] != ';'){
             dir=dir+input[i];
         }
-        if(input[i] != ' ' && a==4){
+        if(input[i] != ' ' && a==4&&input[i] != ';'){
             attr=attr+input[i];
         }
         if (input[i] == ';')

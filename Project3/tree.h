@@ -7,15 +7,20 @@ class tree{
         int size;
     public:
         bool insert(city *new_city,city *parent); //functions for the corresponding command
-        void const search (double x, double y);
+        void search(double x, double y);
         city *get_root();
-        auto const q_max(double x,double y,string direction,string attr);
-        auto const q_min(double x,double y,string direction,string attr);
-        auto const q_total(double x,double y,string direction,string attr);
-        void print();
-        void clear();
+        void set_root(city *a);
+        void q_max(double x,double y,string direction,string attr) ;
+        void q_min(double x,double y,string direction,string attr) ;
+        void q_total(double x,double y,string direction,string attr) ;
+        void cal_max(city *a,long &result,string attr) ;
+        void cal_min(city *a,long &result,string attr) ;
+        void cal_total(city *a,long &result,string attr) ;
+        void print(city *node) const;
+        void clear(city *node);
         void tree_size();
-        tree()=default;
+        void set_size(int i);
+        tree();
         ~tree()=default;
         city *get_city(double x, double y);
 };
