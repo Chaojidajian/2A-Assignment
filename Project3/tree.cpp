@@ -55,7 +55,7 @@ bool tree::insert(city *n_city,city *parent){//recursive insertion
     }
     return false;
 }
-city *tree::get_root(){
+city *tree::get_root(){//return root
     return this->root;
 }
 city *tree::get_city(double x, double y){ //find the point to the city given specific x,y
@@ -64,20 +64,20 @@ city *tree::get_city(double x, double y){ //find the point to the city given spe
         if(temp->get_x()==x&&temp->get_y()==y){
             return temp;
         }
-        if(temp->get_x()>=x&&temp->get_y()>y){
-            temp=temp->get_NE();
-            continue;
-        }
-        if(temp->get_x()<x&&temp->get_y()>=y){
-            temp=temp->get_NW();
-            continue;
-        }
-        if(temp->get_x()<=x&&temp->get_y()<y){
+        if(x<=temp->get_x()&&y<temp->get_y()){
             temp=temp->get_SW();
             continue;
         }
-        if(temp->get_x()>x&&temp->get_y()<=y){
+        if(x>temp->get_x()&&y<=temp->get_y()){
             temp=temp->get_SE();
+            continue;
+        }
+        if(x>=temp->get_x()&&y>temp->get_y()){
+            temp=temp->get_NE();
+            continue;
+        }
+        if(x<temp->get_x()&&y>=temp->get_y()){
+            temp=temp->get_NW();
             continue;
         }
     }
@@ -102,7 +102,7 @@ void tree::print(city *node) const{ //recursive print
         ;
     }
 }
-void tree::clear(city *node){
+void tree::clear(city *node){//recursive clear
     if(node!=nullptr){
         this->clear(node->get_NE());
         this->clear(node->get_NW());
@@ -123,12 +123,12 @@ void tree::clear(city *node){
     }  
 }
 void tree::tree_size(){
-    cout<<this->size<<endl;
+    cout<<"tree size "<<this->size<<endl;
 }
 void tree::set_size(int i){
     this->size=i;
 }
-void tree::q_max(double x,double y,string direction,string attr) {
+void tree::q_max(double x,double y,string direction,string attr) {//4 cases dependent on the direction
     city *temp=this->get_city(x,y);
     long result=0;
     if(temp==nullptr){
@@ -171,7 +171,7 @@ void tree::q_max(double x,double y,string direction,string attr) {
         }
     }
 }
-void tree::q_min(double x,double y,string direction,string attr) {
+void tree::q_min(double x,double y,string direction,string attr) {//4 cases dependent on the direction
     city *temp=this->get_city(x,y);
     long result=0;
     if(temp==nullptr){
@@ -182,6 +182,15 @@ void tree::q_min(double x,double y,string direction,string attr) {
                 cout<<"failure"<<endl;
             }else{
                 temp=temp->get_NE();
+                if(attr=="p"){
+                    result=temp->get_population();
+                }else if(attr=="r"){
+                    result=temp->get_cost();
+                }else if(attr=="s"){
+                    result=temp->get_salary();
+                }else{
+
+                }
                 cal_min(temp,result,attr);
                 cout<<"min "<<result<<endl;
             }
@@ -190,6 +199,15 @@ void tree::q_min(double x,double y,string direction,string attr) {
                 cout<<"failure"<<endl;
             }else{
                 temp=temp->get_NW();
+                if(attr=="p"){
+                    result=temp->get_population();
+                }else if(attr=="r"){
+                    result=temp->get_cost();
+                }else if(attr=="s"){
+                    result=temp->get_salary();
+                }else{
+                    
+                }
                 cal_min(temp,result,attr);
                 cout<<"min "<<result<<endl;
             }
@@ -198,6 +216,15 @@ void tree::q_min(double x,double y,string direction,string attr) {
                 cout<<"failure"<<endl;
             }else{
                 temp=temp->get_SE();
+                if(attr=="p"){
+                    result=temp->get_population();
+                }else if(attr=="r"){
+                    result=temp->get_cost();
+                }else if(attr=="s"){
+                    result=temp->get_salary();
+                }else{
+                    
+                }
                 cal_min(temp,result,attr);
                 cout<<"min "<<result<<endl;
             }
@@ -206,6 +233,15 @@ void tree::q_min(double x,double y,string direction,string attr) {
                 cout<<"failure"<<endl;
             }else{
                 temp=temp->get_SW();
+                if(attr=="p"){
+                    result=temp->get_population();
+                }else if(attr=="r"){
+                    result=temp->get_cost();
+                }else if(attr=="s"){
+                    result=temp->get_salary();
+                }else{
+                    
+                }
                 cal_min(temp,result,attr);
                 cout<<"min "<<result<<endl;
             }
@@ -214,7 +250,7 @@ void tree::q_min(double x,double y,string direction,string attr) {
         }
     }
 }
-void tree::q_total(double x,double y,string direction,string attr) {
+void tree::q_total(double x,double y,string direction,string attr) {//4 cases dependent on the direction
     city *temp=this->get_city(x,y);
     long result=0;
     if(temp==nullptr){
@@ -257,7 +293,7 @@ void tree::q_total(double x,double y,string direction,string attr) {
         }
     }
 }
-void tree::cal_max(city *a,long &result,string attr){
+void tree::cal_max(city *a,long &result,string attr){//recursive finding max
     if(attr=="p"){
         if(a!=nullptr){
             this->cal_max(a->get_NE(),result,attr);
@@ -292,7 +328,7 @@ void tree::cal_max(city *a,long &result,string attr){
         ;
     }
 }
-void tree::cal_min(city *a,long &result,string attr){
+void tree::cal_min(city *a,long &result,string attr){//recursive finding min
     if(attr=="p"){
         if(a!=nullptr){
             this->cal_min(a->get_NE(),result,attr);
@@ -327,7 +363,7 @@ void tree::cal_min(city *a,long &result,string attr){
         ;
     }
 }
-void tree::cal_total(city *a,long &result,string attr){
+void tree::cal_total(city *a,long &result,string attr){//recursive finding total
     if(attr=="p"){
         if(a!=nullptr){
             this->cal_total(a->get_NE(),result,attr);

@@ -8,12 +8,12 @@ int main(){
     string s;
     while(getline(cin, s)){
         string command,substring;
-        extract_input(s,command,substring);
+        parse_input(s,command,substring);
         if(command=="i"){
             string name;
             double x,y;
             long p,r,s;
-            if(extract_info(substring,name,x,y,p,r,s)){
+            if(parse_info(substring,name,x,y,p,r,s)){
                 city *new_city=new city(name,x,y,p,r,s);
                 if (mytree.get_root()==nullptr){
                         mytree.set_root(new_city);
@@ -29,26 +29,26 @@ int main(){
         }else if(command=="s"){
             double x;
             double y;
-            if(extract_search(substring,x,y)){
+            if(parse_search(substring,x,y)){
                 mytree.search(x,y);
             }
         }else if(command=="q_max"){
             double x,y;
             string attr,direction;
-            if(extract_attr(substring,x,y,direction,attr)){
+            if(parse_attr(substring,x,y,direction,attr)){
                 mytree.q_max(x,y,direction,attr);
             }
         }else if(command=="q_min"){
             double x,y;
             string direction,attr;
-            if(extract_attr(substring,x,y,direction,attr)){
-                // mytree.q_min(x,y,direction,attr);
+            if(parse_attr(substring,x,y,direction,attr)){
+                mytree.q_min(x,y,direction,attr);
             }
         }else if(command=="q_total"){
             double x,y;
             string attr,direction;
-            if(extract_attr(substring,x,y,direction,attr)){
-                // mytree.q_total(x,y,direction,attr);
+            if(parse_attr(substring,x,y,direction,attr)){
+                mytree.q_total(x,y,direction,attr);
             }
         }else if(command=="print"){
             mytree.print(mytree.get_root());
@@ -61,6 +61,7 @@ int main(){
             delete temp;
             mytree.set_root(nullptr);
             mytree.set_size(0);
+            cout<<"success"<<endl;
         }else if(command=="size"){
             mytree.tree_size();
         }else{
@@ -68,7 +69,7 @@ int main(){
         }
     }
 }
-void extract_input(string input,string&command,string&substring){
+void parse_input(string input,string&command,string&substring){
     int a=0;
     for (size_t i = 0; i != input.length(); i++)
     {
@@ -85,7 +86,7 @@ void extract_input(string input,string&command,string&substring){
         }
     }
 }
-bool extract_info(string input,string &name,double &x, double &y, long &p,long &r, long &s){
+bool parse_info(string input,string &name,double &x, double &y, long &p,long &r, long &s){
     int a=0;
     string longtitude,latitude, population, cost, salary;
     for (size_t i = 0; i != input.length(); i++)
@@ -125,7 +126,7 @@ bool extract_info(string input,string &name,double &x, double &y, long &p,long &
     s=stol(salary);
     return true;
 } 
-bool extract_search(string input,double &x, double &y){
+bool parse_search(string input,double &x, double &y){
     int a=1;
     string longtitude,latitude;
     for (size_t i = 0; i != input.length(); i++)
@@ -148,7 +149,7 @@ bool extract_search(string input,double &x, double &y){
     y=stod(latitude);
     return true;
 }
-bool extract_attr(string input,double &x, double &y,string &dir,string &attr){
+bool parse_attr(string input,double &x, double &y,string &dir,string &attr){
     string longtitude,latitude;
     int a=1;
     for (size_t i = 0; i != input.length(); i++)

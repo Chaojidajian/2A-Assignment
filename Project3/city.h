@@ -22,7 +22,7 @@ class city{
         long get_population(); //return population
         long get_cost();//return cost
         long get_salary();//return get_salary
-        void set_child(string direction,city *child);
+        void set_child(string direction,city *child);//set child in a specific dirction
         city *get_NE();
         city *get_NW();
         city *get_SE();
