@@ -1,3 +1,4 @@
+//Bingjian Du 20706578
 class node{
     private:
         int vertex;
@@ -13,4 +14,5 @@ class node{
         void set_next(node *a);
         void set_head(node *a);
         bool operator==(const node &a);
+        bool operator!=(const node &a);
 };
