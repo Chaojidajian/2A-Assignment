@@ -2,7 +2,7 @@
 //Bingjian Du 20706578
 node::node(int vertex){
     this->vertex=vertex;
-    this->head=this;
+    this->head=nullptr;
     this->next=nullptr;
 }
 node *node::get_next(){
