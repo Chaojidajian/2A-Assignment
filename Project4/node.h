@@ -1,18 +1,15 @@
 //Bingjian Du 20706578
-class node{
+class node{//representing a vertex
     private:
         int vertex;
         node *next;
-        node *head;
     public:
         node()=default;
         ~node()=default;
         node(int vertex);
-        int get_vertex();
+        int get_vertex();//accessing private variables
         node *get_next();
-        node *get_head();
         void set_next(node *a);
-        void set_head(node *a);
         bool operator==(const node &a);
         bool operator!=(const node &a);
 };

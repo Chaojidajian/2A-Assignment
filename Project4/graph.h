@@ -5,14 +5,14 @@
 #include <algorithm>
 using namespace std;
 //Bingjian Du 20706578
-class graph{
+class graph{ //this is a graph
     private:
         vector<vector<edge>> matrix;
         int size;
         class illegal_argument{};
         int edge_count;
     public:
-        void set_size(int m);
+        void set_size(int m); //consistent with commands
         int get_size();
         void print_ecount();
         graph();
