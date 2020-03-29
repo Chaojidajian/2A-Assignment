@@ -1,5 +1,5 @@
 //Bingjian Du 20706578
-class edge{
+class edge{ //representing an edge
     private:
         double weight;
         int x,y;

@@ -90,6 +90,8 @@ void graph::clear(){
     int m=this->size;
     vector<vector<edge> > v1(m, vector<edge>(m, a));
     this->matrix=v1;
+    this->edge_count=0;
+    cout<<"success"<<endl;
 }
 void graph::mst(){
     vector<edge> edge_set;
@@ -103,7 +105,7 @@ void graph::mst(){
     std::sort(edge_set.begin(),edge_set.end(),compare);
     set sets;
     sets.makeset(this->size);
-    int total_weight=0;
+    double total_weight=0;
     for(auto i=edge_set.begin();i!=edge_set.end();i++){
         int u=i->get_x();
         int v=i->get_y();
