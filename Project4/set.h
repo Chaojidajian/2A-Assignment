@@ -1,5 +1,4 @@
 #include "nodelist.h"
-#include "node.h"
 #include <vector>
 using namespace std;//Bingjian Du 20706578
 class set{ //representing a universe set

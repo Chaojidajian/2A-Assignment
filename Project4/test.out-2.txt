@@ -4,14 +4,10 @@ success
 success
 success
 success
+edge count is 5
+failure
 success
 success
+edge count is 3
 success
-success
-success
-success
-success
-success
-success
-edge count is 14
-mst 37
+edge count is 0
