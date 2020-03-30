@@ -5,9 +5,6 @@ node *nodelist::get_head(){
 node *nodelist::get_tail(){
     return this->tail;
 }
-node *nodelist::get_current(){
-    return this->current;
-}
 void nodelist::set_head(node *a){
     this->head=a;
 }
@@ -17,5 +14,4 @@ void nodelist::set_tail(node *a){
 nodelist::nodelist(node *a){
     this->head=a;
     this->tail=a;
-    this->current=a;
 }

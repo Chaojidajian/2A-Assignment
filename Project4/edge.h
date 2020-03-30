@@ -6,7 +6,8 @@ class edge{ //representing an edge
     public:
         edge();
         edge(double w,int u, int v);
-        int get_x();
+        int get_x();//accessing private variables
         int get_y();
         double get_weight();
+        ~edge()=default;
 };

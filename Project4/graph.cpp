@@ -51,7 +51,7 @@ void graph::insert(int u,int v,double w){
         cout<<"failure"<<endl;
     }
 }
-void graph::del(int u,int v){
+void graph::del(int u,int v){//delete
     try{
         edge a;
         if(this->matrix[u][v].get_weight()==0||u>=this->size||v>=this->size){
@@ -104,7 +104,7 @@ void graph::mst(){
     }
     std::sort(edge_set.begin(),edge_set.end(),compare);
     set sets;
-    sets.makeset(this->size);
+    sets.makeset(this->size);//applying kruskal's algorithm
     double total_weight=0;
     for(auto i=edge_set.begin();i!=edge_set.end();i++){
         int u=i->get_x();
@@ -120,6 +120,9 @@ void graph::mst(){
         if(temp3!=sets.findset(i)){
             a=false;
         }
+    }
+    if(this->size==1){
+        a=false;
     }
     if(a){
         cout<<"mst "<<total_weight<<endl;

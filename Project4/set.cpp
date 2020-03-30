@@ -13,7 +13,7 @@ node *set::findset(int num){
 void set::merge(int a, int b){ //merging disjoint sets
     nodelist *temp1=&this->theSet[a];
     nodelist *temp2=&this->theSet[b];  
-    node *temp3=this->theSet[a].get_head(); //merging disjoint sets
+    node *temp3=this->theSet[a].get_head();
     node *temp4=this->theSet[b].get_head();
     temp1->get_tail()->set_next(temp4);
     do

@@ -1,14 +1,12 @@
 #include "node.h"
-class nodelist{
+class nodelist{//representing a set
     private:
         node *head;
-        node *current;
         node *tail;
     public:
         nodelist()=default;
         nodelist(node *a);
-        ~nodelist()=default;
-        node *get_current();
+        ~nodelist()=default;//accessing private variables
         node *get_head();
         node *get_tail();
         void set_head(node *a);
