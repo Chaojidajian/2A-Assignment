@@ -14,6 +14,9 @@ int main(){
             string name;
             int num=stoi(substring);
             mygraph.set_size(num);
+            if(num<=0){
+                return 1;
+            }
         }else if(command=="i"){
             int x,y;
             double weight;

@@ -9,7 +9,7 @@ void graph::print_ecount(){
 }
 void graph::set_size(int m){
     try{
-        if(m<0){
+        if(m<=0){
             throw illegal_argument();
         }
         else{
