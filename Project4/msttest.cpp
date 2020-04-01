@@ -7,6 +7,7 @@ using namespace std;
 graph mygraph;
 int main(){
     string s;
+    try{
     while(getline(cin, s)){
         string command,substring;
         parse_input(s,command,substring);
@@ -14,9 +15,9 @@ int main(){
             string name;
             int num=stoi(substring);
             mygraph.set_size(num);
-            if(num<=0){
-                return 1;
-            }
+            // if(num<=0){
+            //     return 1;
+            // }
         }else if(command=="i"){
             int x,y;
             double weight;
@@ -41,6 +42,10 @@ int main(){
             ;
         }
     }
+    }catch(illegal_argument i){
+        cout<<"failure"<<endl;
+    }
+    return 0;
 }
 void parse_input(string input,string&command,string&substring){
     int a=0;

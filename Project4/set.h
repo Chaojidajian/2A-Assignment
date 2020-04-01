@@ -6,7 +6,7 @@ class set{ //representing a universe set
         vector<nodelist> theSet;
     public:
         set()=default;
-        ~set()=default;
+        ~set();
         void makeset(int num); //consistent with lecture notes
         node *findset(int num);
         void merge(int a, int b);
