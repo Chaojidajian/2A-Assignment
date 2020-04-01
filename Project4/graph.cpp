@@ -19,11 +19,9 @@ void graph::set_size(int m){
             this->size=m;
             cout<<"success"<<endl;
         }
-    }catch(illegal_argument i)
-    {
+    }catch(illegal_argument i){
         cout<<"failure"<<endl;
     }
-   
 }
 int graph::get_size(){
     return this->size;
@@ -34,7 +32,7 @@ graph::graph(){
 }
 void graph::insert(int u,int v,double w){
     try{
-        if(w<=0||u>=this->size||v>=this->size){
+        if(w<=0||u>=this->size||v>=this->size||u==v){
             throw illegal_argument();
         }else{
             edge a(w,u,v);
@@ -54,7 +52,7 @@ void graph::insert(int u,int v,double w){
 void graph::del(int u,int v){//delete
     try{
         edge a;
-        if(this->matrix[u][v].get_weight()==0||u>=this->size||v>=this->size){
+        if(u==v||this->matrix[u][v].get_weight()==0||u>=this->size||v>=this->size){
             throw illegal_argument();
         }else{
             this->edge_count--;

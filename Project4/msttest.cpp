@@ -7,7 +7,6 @@ using namespace std;
 graph mygraph;
 int main(){
     string s;
-    try{
     while(getline(cin, s)){
         string command,substring;
         parse_input(s,command,substring);
@@ -41,9 +40,6 @@ int main(){
         }else{
             ;
         }
-    }
-    }catch(illegal_argument i){
-        cout<<"failure"<<endl;
     }
     return 0;
 }

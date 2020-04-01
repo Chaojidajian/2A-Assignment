@@ -7,7 +7,7 @@ class nodelist{//representing a set
     public:
         nodelist()=default;
         nodelist(node *a);
-        ~nodelist()=default;//accessing private variables
+        ~nodelist();//accessing private variables
         node *get_head();
         node *get_tail();
         node *get_current();
