@@ -101,13 +101,14 @@ void graph::shortest_d(string name1,string name2){
     start->set_distance(0);
     min_q a(this->cities);
     a.build();
-    while(a.get_q().size()!=0){
+    while(a.get_q().size()!=1){
         node *temp1=a.extractMin();
         int i=temp1->get_adjacent().size();
         for(int j = 0 ; j != i; ++j){
             double temp3=this->distance(temp1->get_adjacent()[j]->get_name(),temp1->get_name())+temp1->get_distance();
             if(temp1->get_adjacent()[j]->get_distance()==-1){
                 temp1->get_adjacent()[j]->set_distance(temp3);
+                temp1->get_adjacent()[j]->set_parent(temp1);
             }else{
                 if(temp1->get_adjacent()[j]->get_distance()>temp3){
                     temp1->get_adjacent()[j]->set_distance(temp3);
@@ -134,19 +135,18 @@ void graph::print_path(string name1,string name2){
     start->set_distance(0);
     min_q a(this->cities);
     a.build();
-    while(a.get_q().size()!=0){
+    while(a.get_q().size()!=1){
         node *temp1=a.extractMin();
-        vector<edge*> temp2=this->matrix[this->find_city2(temp1->get_name())];
-        for(auto it = temp1->get_adjacent().begin() ; it != temp1->get_adjacent().end(); ++it){
-            double temp3=this->distance((*it)->get_name(),temp1->get_name())+temp1->get_distance();
-            if((*it)->get_distance()==-1){
-                (*it)->set_distance(temp3);
-                continue;
+        int i=temp1->get_adjacent().size();
+        for(int j = 0 ; j != i; ++j){
+            double temp3=this->distance(temp1->get_adjacent()[j]->get_name(),temp1->get_name())+temp1->get_distance();
+            if(temp1->get_adjacent()[j]->get_distance()==-1){
+                temp1->get_adjacent()[j]->set_distance(temp3);
+                temp1->get_adjacent()[j]->set_parent(temp1);
             }else{
-                if((*it)->get_distance()>temp3){
-                    (*it)->set_distance(temp3);
-                    (*it)->set_parent(temp1);
-                    continue;
+                if(temp1->get_adjacent()[j]->get_distance()>temp3){
+                    temp1->get_adjacent()[j]->set_distance(temp3);
+                    temp1->get_adjacent()[j]->set_parent(temp1);
                 }
             } 
         }
@@ -167,21 +167,11 @@ void graph::print_path(string name1,string name2){
             temp4.pop_back();
         }
     }
+    cout<<endl;
 }
 void graph::clear(){
-    for(auto i = this->matrix.begin() ; i != this->matrix.end(); ++i){
-        for(auto j=*i->begin(); j != *i->end(); ++j){
-            delete j;
-        }
-    }
     this->matrix.clear();
-    for(auto i = this->cities.begin() ; i != this->cities.end(); ++i){
-            delete *i;
-    }
     this->cities.clear();
     this->edge_count=0;
     this->node_count=0;
-}
-graph::~graph(){
-    this->clear();
 }

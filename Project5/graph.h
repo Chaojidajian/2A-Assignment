@@ -11,7 +11,7 @@ class graph{ //this is a graph
         int edge_count;
     public:
         graph();
-        ~graph();
+        ~graph()=default;
         void insert(string name);
         void setd(string name1,string name2, double distance);
         bool search(string name);//delete

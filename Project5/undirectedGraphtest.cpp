@@ -35,6 +35,8 @@ int main(){
             if(parse_name(substring,name1,name2)){
                 if(mygraph.distance(name1,name2)!=-1){
                     cout<<"direct distance "<<name1<<" to "<<name2<<" "<<mygraph.distance(name1,name2)<<endl;
+                }else{
+                    cout<<"failure"<<endl;
                 }
             }
         }else if(command=="shortest_d"){
@@ -48,7 +50,8 @@ int main(){
                mygraph.print_path(name1,name2); 
             }
         }else if(command=="clear"){
-            mygraph.clear();    
+            mygraph.clear();
+            cout<<"success"<<endl;    
         }else{
             ;
         }
