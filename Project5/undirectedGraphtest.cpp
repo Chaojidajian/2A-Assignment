@@ -33,8 +33,8 @@ int main(){
         }else if(command=="d"){
             string name1,name2;
             if(parse_name(substring,name1,name2)){
-                if(mygraph.distance(name1,name2)!=0.0){
-                    cout<<"direct distance "<<name1<<" to "<<name2<<" "<<mygraph.distance(name1,name2);
+                if(mygraph.distance(name1,name2)!=-1){
+                    cout<<"direct distance "<<name1<<" to "<<name2<<" "<<mygraph.distance(name1,name2)<<endl;
                 }
             }
         }else if(command=="shortest_d"){
@@ -94,8 +94,8 @@ bool parse_setd(string input,string &x, string &y,double &weight){
     if(a!=3||name1.length()==0||name2.length()==0||w.length()==0){
         return false;
     }
-    x=stoi(name1);
-    y=stoi(name2);
+    x=name1;
+    y=name2;
     weight=stod(w);
     return true;
 }
@@ -118,7 +118,7 @@ bool parse_name(string input,string &x,string &y){
     if(a!=2||name1.length()==0||name2.length()==0){
         return false;
     }
-    x=stoi(name1);
-    y=stoi(name2);
+    x=name1;
+    y=name2;
     return true;
 }

@@ -7,7 +7,6 @@ class min_q{
     public:
         min_q(vector<node *> vertices);
         ~min_q()=default;
-        void swap(node *a,node *b);
         void heapify(int i);
         void build();
         void del(int i);

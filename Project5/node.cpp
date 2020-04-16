@@ -5,7 +5,8 @@ using namespace std;
 //Bingjian Du 20706578
 node::node(string name){
     this->name=name;
-    this->distance=-1; 
+    this->distance=-1;
+    this->parent=nullptr;  
 }
 node::node(double distance){
     this->distance=distance;
@@ -26,7 +27,8 @@ void node::add_adjacent(node *p){
     this->adjacent.push_back(p);
 }
 void node::reset(){
-    this->distance=-1; 
+    this->distance=-1;
+    this->parent=nullptr; 
 }
 double node::get_distance(){
     return this->distance;
@@ -34,6 +36,8 @@ double node::get_distance(){
 bool node::operator<(const node &a){
     if(a.distance==-1){
         return true;
+    }else if(this->distance==-1){
+        return false;
     }else{
         return this->distance<a.distance;
     }

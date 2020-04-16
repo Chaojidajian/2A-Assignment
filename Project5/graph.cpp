@@ -46,7 +46,7 @@ void graph::setd(string name1,string name2, double distance){
     else{
         node* temp1=this->find_city1(name1);
         node* temp2=this->find_city1(name2);
-        if(this->distance(name1,name2)==0.0){
+        if(this->distance(name1,name2)==-1){
             temp1->add_adjacent(temp2);
             temp2->add_adjacent(temp1);
         }
@@ -81,19 +81,21 @@ void graph::graph_edges(){
 }
 double graph::distance(string name1,string name2){
     if(!this->search(name1)||!this->search(name2)||name1==name2){
-        return 0.0;
+        return -1;
     }else{
         for (auto it = this->matrix[this->find_city2(name1)].begin() ; it != this->matrix[this->find_city2(name1)].end(); ++it){
             if((*it)->get_city2()->get_name()==name2){
                 return (*it)->get_weight();
             }
         }
-        return 0.0;
+        return -1;
     }
 }
 void graph::shortest_d(string name1,string name2){
+    this->init_vertex();
     if(!this->search(name1)||!this->search(name2)||name1==name2){
         cout<<"failure"<<endl;
+        return;
     }
     node *start=this->find_city1(name1);//use name1 as start vertex
     start->set_distance(0);
@@ -101,17 +103,15 @@ void graph::shortest_d(string name1,string name2){
     a.build();
     while(a.get_q().size()!=0){
         node *temp1=a.extractMin();
-        vector<edge*> temp2=this->matrix[this->find_city2(temp1->get_name())];
-        for(auto it = temp1->get_adjacent().begin() ; it != temp1->get_adjacent().end(); ++it){
-            double temp3=this->distance((*it)->get_name(),temp1->get_name())+temp1->get_distance();
-            if((*it)->get_distance()==-1){
-                (*it)->set_distance(temp3);
-                continue;
+        int i=temp1->get_adjacent().size();
+        for(int j = 0 ; j != i; ++j){
+            double temp3=this->distance(temp1->get_adjacent()[j]->get_name(),temp1->get_name())+temp1->get_distance();
+            if(temp1->get_adjacent()[j]->get_distance()==-1){
+                temp1->get_adjacent()[j]->set_distance(temp3);
             }else{
-                if((*it)->get_distance()>temp3){
-                    (*it)->set_distance(temp3);
-                    (*it)->set_parent(temp1);
-                    continue;
+                if(temp1->get_adjacent()[j]->get_distance()>temp3){
+                    temp1->get_adjacent()[j]->set_distance(temp3);
+                    temp1->get_adjacent()[j]->set_parent(temp1);
                 }
             } 
         }
@@ -125,8 +125,10 @@ void graph::shortest_d(string name1,string name2){
     }
 }
 void graph::print_path(string name1,string name2){
+    this->init_vertex();
     if(!this->search(name1)||!this->search(name2)||name1==name2){
         cout<<"failure"<<endl;
+        return;
     }
     node *start=this->find_city1(name1);//use name1 as start vertex
     start->set_distance(0);
