@@ -20,7 +20,5 @@ nodelist::nodelist(node *a){
     this->current=a;
 }
 nodelist::~nodelist(){
-    delete this->current;
-    delete this->tail;
-    delete this->head;
+    
 }

@@ -26,5 +26,9 @@ void set::merge(int a, int b){ //merging disjoint sets
     }while(temp3!=nullptr);
 }
 set::~set(){
-    
+    while (!theSet.empty()){
+        nodelist temp=theSet.back();
+        delete temp.get_current();
+        theSet.pop_back();
+  }
 }

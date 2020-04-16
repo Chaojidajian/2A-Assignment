@@ -52,9 +52,12 @@ void graph::insert(int u,int v,double w){
 void graph::del(int u,int v){//delete
     try{
         edge a;
-        if(u==v||this->matrix[u][v].get_weight()==0||u>=this->size||v>=this->size){
+        if(u>=this->size||v>=this->size||u==v){
             throw illegal_argument();
         }else{
+            if(this->matrix[u][v].get_weight()==0){
+                throw illegal_argument();
+            }
             this->edge_count--;
             this->matrix[u][v]=a;
             this->matrix[v][u]=a;
