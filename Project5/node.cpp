@@ -7,6 +7,9 @@ node::node(string name){
     this->name=name;
     this->distance=-1; 
 }
+node::node(double distance){
+    this->distance=distance;
+}
 node operator+(const node &c1, const node &c2){
     return node(c1.distance+c2.distance);
 }

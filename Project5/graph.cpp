@@ -27,6 +27,7 @@ node* graph::find_city1(string name){
             return *it;
         }
     }
+    return this->cities[0];
 }
 int graph::find_city2(string name){
     int result=0;
@@ -36,6 +37,7 @@ int graph::find_city2(string name){
         }
         result++;
     }
+    return -1;
 }
 void graph::setd(string name1,string name2, double distance){
     if(distance<=0.0||!this->search(name1)||!this->search(name2)||name1==name2){
