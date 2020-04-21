@@ -46,16 +46,42 @@ void graph::setd(string name1,string name2, double distance){
     else{
         node* temp1=this->find_city1(name1);
         node* temp2=this->find_city1(name2);
+        edge *temp3=new edge(distance, temp1,temp2);
+        edge *temp4=new edge(distance, temp2,temp1);
+        vector<edge*> temp5=this->matrix[this->find_city2(name1)];
+        vector<edge*> temp6=this->matrix[this->find_city2(name2)];
         if(this->distance(name1,name2)==-1){
             temp1->add_adjacent(temp2);
             temp2->add_adjacent(temp1);
+            this->matrix[this->find_city2(name1)].push_back(temp3);
+            this->matrix[this->find_city2(name2)].push_back(temp4);
+            edge_count++;
+            cout<<"success"<<endl;
+        }else{
+            if(this->matrix[this->find_city2(name1)].size()!=0){
+                for ( int i = 0; i < this->matrix[this->find_city2(name1)].size(); i++)
+                {
+                    if(this->matrix[this->find_city2(name1)][i]->get_city2()->get_name()==name2){
+                        delete this->matrix[this->find_city2(name1)][i];
+                        this->matrix[this->find_city2(name1)].erase(this->matrix[this->find_city2(name1)].begin()+i);
+                        this->matrix[this->find_city2(name1)].push_back(temp3);
+                        break;
+                    }
+                }
+            }
+            if(this->matrix[this->find_city2(name2)].size()!=0){
+                for ( int i=0; i < temp6.size(); i++)
+                {
+                    if(this->matrix[this->find_city2(name2)][i]->get_city2()->get_name()==name1){
+                        delete this->matrix[this->find_city2(name2)][i];
+                        this->matrix[this->find_city2(name2)].erase(this->matrix[this->find_city2(name2)].begin()+i);
+                        this->matrix[this->find_city2(name2)].push_back(temp4);
+                        break;
+                    }
+                }
+            }
+            cout<<"success"<<endl;
         }
-        edge *temp3=new edge(distance, temp1,temp2);
-        edge *temp4=new edge(distance, temp2,temp1);
-        this->matrix[this->find_city2(name1)].push_back(temp3);
-        this->matrix[this->find_city2(name2)].push_back(temp4);
-        edge_count++;
-        cout<<"success"<<endl;
     }
 }
 bool graph::search(string name){
@@ -99,10 +125,17 @@ void graph::shortest_d(string name1,string name2){
     }
     node *start=this->find_city1(name1);//use name1 as start vertex
     start->set_distance(0);
+    if(start->get_adjacent().size()==0){
+        cout<<"failure"<<endl;
+        return;
+    }
     min_q a(this->cities);
     a.build();
     while(a.get_q().size()!=1){
         node *temp1=a.extractMin();
+        if(temp1->get_distance()==-1){
+            break;
+        }
         int i=temp1->get_adjacent().size();
         for(int j = 0 ; j != i; ++j){
             double temp3=this->distance(temp1->get_adjacent()[j]->get_name(),temp1->get_name())+temp1->get_distance();
@@ -133,10 +166,17 @@ void graph::print_path(string name1,string name2){
     }
     node *start=this->find_city1(name1);//use name1 as start vertex
     start->set_distance(0);
+    if(start->get_adjacent().size()==0){
+        cout<<"failure"<<endl;
+        return;
+    }
     min_q a(this->cities);
     a.build();
     while(a.get_q().size()!=1){
         node *temp1=a.extractMin();
+        if(temp1->get_distance()==-1){
+            break;
+        }
         int i=temp1->get_adjacent().size();
         for(int j = 0 ; j != i; ++j){
             double temp3=this->distance(temp1->get_adjacent()[j]->get_name(),temp1->get_name())+temp1->get_distance();
@@ -166,8 +206,9 @@ void graph::print_path(string name1,string name2){
             cout<<" "<<temp4.back()->get_name();
             temp4.pop_back();
         }
+        cout<<endl;
     }
-    cout<<endl;
+    
 }
 void graph::clear(){
     this->matrix.clear();

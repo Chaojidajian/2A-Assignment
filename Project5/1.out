@@ -1,26 +1,7752 @@
+failure
+failure
+failure
+number of edges 0
+number of nodes 0
+failure
+failure
+failure
+failure
+failure
+failure
+success
+found city1
+number of edges 0
+not found
+found city1
+failure
+number of edges 0
+number of nodes 1
+number of nodes 1
+failure
+found city1
+failure
+success
+failure
+found city5
+number of edges 0
+failure
+failure
+failure
+failure
+success
+not found
+not found
+failure
+failure
+failure
+failure
+number of nodes 2
+direct distance city5 to city1 30.8
+found city5
+success
+failure
+degree of city5 1
+number of nodes 3
+not found
+success
+found city1
+shortest distance city1 to city5 2.1
+failure
+found city1
+not found
+failure
+success
+failure
+failure
+number of nodes 3
+success
+number of nodes 4
+not found
+number of edges 1
+found city1
+failure
+failure
+found city7
+failure
+failure
+number of edges 1
+failure
+success
+failure
+success
+degree of city5 1
+failure
+failure
+failure
+failure
+number of nodes 6
+not found
+failure
+number of nodes 6
+number of edges 1
+number of nodes 6
+number of nodes 6
+failure
+number of nodes 6
+failure
+failure
+failure
+found city9
+failure
+failure
+not found
+failure
+found city7
+failure
+failure
+success
+failure
+failure
+failure
+failure
+found city5
+degree of city9 0
+failure
+failure
+failure
+not found
+found city6
+failure
+number of nodes 7
+failure
+number of nodes 7
+number of edges 1
+failure
+failure
+number of nodes 7
+success
+failure
+number of edges 1
+found city1
+found city0
+failure
+failure
+success
+failure
+failure
+number of edges 2
+number of nodes 8
+found city1
+found city4
+number of nodes 8
+failure
+failure
+failure
+failure
+failure
+failure
+degree of city7 0
+degree of city7 0
+number of edges 2
+degree of city2 1
+found city6
+number of nodes 8
+failure
+failure
+failure
+direct distance city5 to city1 16.8
+city1 city5
+failure
+failure
+success
+failure
+failure
+failure
+number of edges 0
+number of edges 0
+number of edges 0
+failure
+failure
+failure
+not found
+failure
+number of edges 0
+failure
+failure
+failure
+failure
+success
+success
+number of edges 0
+degree of city0 0
+failure
+failure
+not found
+success
+number of edges 0
+number of nodes 3
+number of nodes 3
+failure
+not found
+failure
+found city0
+failure
+failure
+failure
+success
+number of edges 0
+failure
+found city0
+failure
+failure
+not found
+failure
+failure
+failure
+failure
+number of nodes 4
+success
+number of nodes 5
+failure
+failure
+number of edges 0
+failure
+not found
+failure
+failure
+number of edges 0
+failure
+number of nodes 5
+failure
+failure
+number of edges 0
+not found
+failure
+failure
+failure
+success
+number of nodes 5
+found city9
+failure
+success
+failure
+number of edges 1
+degree of city3 1
+failure
+failure
+found city7
+found city8
+not found
+not found
+found city9
+failure
+found city8
+not found
+failure
+failure
+failure
+not found
+failure
+not found
+success
+failure
+failure
+found city9
+success
+number of edges 2
+failure
+degree of city2 0
+found city0
+city3 city8
+failure
+found city8
+success
+success
+failure
+failure
+failure
+number of edges 3
+number of nodes 8
+number of edges 3
+failure
+failure
+success
+success
+number of edges 5
+failure
+success
+not found
+number of edges 6
+failure
+city4 city0 city7
+failure
+failure
+failure
+failure
+degree of city3 2
+degree of city0 2
+failure
+failure
+direct distance city8 to city1 25.2
+failure
+failure
+number of edges 6
+number of nodes 8
+degree of city2 1
+shortest distance city3 to city9 17.5
+failure
+degree of city1 1
+city8 city3 city9
+failure
+number of nodes 8
+degree of city9 1
+city3 city8 city2
+number of nodes 8
+degree of city0 2
+success
+degree of city0 3
+shortest distance city3 to city9 17.5
+failure
+number of nodes 8
+number of edges 7
+number of nodes 8
+success
+failure
+failure
+failure
+not found
+failure
+number of nodes 0
+number of nodes 0
+failure
+number of edges 0
+success
+success
+found city8
+failure
+number of nodes 2
+not found
+degree of city8 0
+number of edges 0
+success
+failure
+failure
+failure
+degree of city0 0
+failure
+success
+degree of city8 0
+failure
+number of edges 1
+number of edges 1
+failure
+found city6
+found city6
+not found
+failure
+not found
+number of nodes 3
+failure
+number of nodes 3
+number of nodes 3
+failure
+city0 city6
+number of nodes 3
+number of nodes 3
+failure
+failure
+degree of city6 1
+failure
+failure
+found city8
+failure
+number of edges 1
+success
+failure
+number of edges 1
+failure
+not found
+success
+failure
+degree of city6 1
+number of edges 1
+number of edges 1
+success
+number of edges 1
+shortest distance city0 to city6 7
+found city2
+success
+failure
+failure
+success
+number of edges 2
+number of edges 2
+found city6
+number of edges 2
+number of nodes 6
+number of nodes 6
+failure
+number of nodes 6
+failure
+number of nodes 6
+degree of city8 1
+found city0
+not found
+failure
+number of edges 2
+number of nodes 6
+failure
+number of nodes 6
+not found
+failure
+failure
+shortest distance city8 to city9 30.1
+found city2
+failure
+number of edges 2
+found city6
+number of nodes 6
+failure
+failure
+success
+number of edges 2
+number of edges 2
+failure
+failure
+number of edges 2
+number of nodes 7
+number of nodes 7
+failure
+failure
+found city3
+success
+failure
+failure
+failure
+failure
+failure
+failure
+failure
+failure
+number of edges 3
+not found
+failure
+number of nodes 7
+number of nodes 7
+number of edges 3
+failure
+degree of city0 1
+failure
+city3 city6
+degree of city6 2
+degree of city9 1
+failure
+failure
+shortest distance city9 to city8 30.1
+failure
+failure
+degree of city0 1
+city0 city6
+failure
+success
+failure
+found city7
+failure
+found city0
+number of edges 4
+degree of city7 0
+number of nodes 7
+number of edges 4
+number of nodes 7
+number of edges 4
+degree of city6 2
+failure
+failure
+success
+failure
+failure
+number of edges 0
+number of edges 0
+failure
+number of edges 0
+not found
+number of nodes 0
+failure
+success
+failure
+not found
+failure
+failure
+not found
+failure
+failure
+found city6
+failure
+failure
+failure
+found city6
+success
+found city6
+success
+failure
+failure
+failure
+number of edges 1
+shortest distance city6 to city9 27.3
+success
+city6 city9
+failure
+failure
+number of edges 1
+failure
+found city6
+number of nodes 3
+success
+number of edges 1
+degree of city1 0
+shortest distance city6 to city9 27.3
+not found
+failure
+number of edges 1
+failure
+number of edges 1
+failure
+number of edges 1
+failure
+failure
+not found
+number of edges 1
+success
+direct distance city9 to city6 27.3
+failure
+success
+number of nodes 5
+number of nodes 5
+degree of city8 0
+number of nodes 5
+failure
+success
+failure
+not found
+shortest distance city6 to city9 27.3
+number of edges 2
+number of nodes 6
+degree of city8 0
+found city8
+failure
+success
+not found
+failure
+failure
+number of edges 2
+number of edges 2
+failure
+success
+degree of city6 2
+success
+degree of city6 3
+shortest distance city1 to city6 18.2
+direct distance city6 to city8 13.3
+number of edges 4
+number of edges 4
+failure
+success
+failure
+failure
+failure
+success
+found city2
+failure
+degree of city7 2
+degree of city4 1
+found city9
+failure
+degree of city8 1
+direct distance city9 to city7 34.3
+failure
+failure
+direct distance city6 to city1 18.2
+shortest distance city6 to city1 18.2
+failure
+city6 city1 city9
+success
+found city4
+shortest distance city6 to city8 13.3
+shortest distance city6 to city8 13.3
+number of nodes 7
+success
+number of nodes 7
+city6 city1 city9
+city9 city1 city6
+failure
+failure
+city1 city6 city8
+number of edges 7
+city9 city7 city4
+degree of city6 3
+failure
+shortest distance city6 to city4 72.1
+failure
+degree of city2 1
+success
+number of nodes 7
+failure
+success
+number of edges 8
+found city7
+degree of city8 2
+number of nodes 7
+success
+failure
+failure
+shortest distance city4 to city6 56.7
+number of edges 9
+degree of city8 2
+city1 city6 city8
+failure
+degree of city2 2
+failure
+failure
+city9 city7 city4
+number of nodes 7
+city4 city7 city8
+failure
+failure
+not found
+number of edges 9
+success
+failure
+failure
+not found
+success
+number of edges 0
+number of nodes 1
+failure
+number of nodes 1
+number of edges 0
+number of nodes 1
+degree of city7 0
+failure
+failure
+number of nodes 1
+found city7
+found city7
+failure
+number of edges 0
+failure
+found city7
+failure
+failure
+degree of city7 0
+failure
+number of nodes 1
+failure
+failure
+found city7
+failure
+number of edges 0
+found city7
+failure
+number of nodes 1
+degree of city7 0
+number of nodes 1
+failure
+number of edges 0
+failure
+success
+degree of city7 0
+number of edges 0
+degree of city0 0
+failure
+failure
+degree of city7 0
+success
+number of nodes 3
+failure
+failure
+failure
+success
+degree of city1 0
+not found
+failure
+number of nodes 3
+failure
+degree of city7 1
+failure
+failure
+failure
+failure
+failure
+failure
+shortest distance city7 to city0 9.8
+city0 city7
+found city1
+failure
+failure
+failure
+number of nodes 3
+failure
+failure
+number of edges 1
+failure
+success
+not found
+number of nodes 4
+failure
+failure
+failure
+number of edges 1
+failure
+failure
+number of nodes 4
+failure
+success
+success
+number of nodes 5
+number of nodes 5
+number of nodes 5
+found city0
+failure
+failure
+failure
+found city2
+not found
+not found
+degree of city7 1
+failure
+number of nodes 5
+failure
+failure
+failure
+number of nodes 5
+failure
+number of edges 1
+number of nodes 5
+failure
+failure
+success
+failure
+failure
+failure
+found city7
+degree of city1 0
+failure
+found city1
+failure
+number of edges 1
+number of edges 1
+failure
+failure
+number of edges 1
+success
+failure
+failure
+failure
+success
+number of nodes 7
+failure
+number of nodes 7
+failure
+failure
+number of nodes 7
+degree of city1 0
+number of nodes 7
+failure
+success
+failure
+failure
+number of edges 2
+found city1
+failure
+degree of city2 0
+found city8
+failure
+number of edges 2
+failure
+success
+degree of city7 1
+failure
+success
+number of edges 0
+success
+found city4
+failure
+failure
+failure
+failure
+number of nodes 1
+failure
+number of nodes 1
+number of nodes 1
+number of nodes 1
+number of edges 0
+number of edges 0
+found city4
+number of nodes 1
+number of nodes 1
+success
+number of edges 0
+failure
+not found
+failure
+success
+number of nodes 2
+found city4
+shortest distance city4 to city3 32.9
+number of nodes 2
+not found
+failure
+degree of city4 1
+failure
+failure
+failure
+number of nodes 2
+direct distance city4 to city3 32.9
+direct distance city3 to city4 32.9
+found city4
+number of nodes 2
+success
+not found
+failure
+number of nodes 2
+direct distance city4 to city3 16.1
+success
+number of nodes 3
+failure
+failure
+number of edges 1
+found city4
+degree of city7 0
+found city4
+success
+success
+failure
+failure
+number of edges 1
+not found
+success
+number of edges 1
+not found
+degree of city4 1
+failure
+number of edges 1
+found city3
+found city4
+shortest distance city4 to city3 30.8
+failure
+failure
+failure
+number of edges 1
+failure
+number of edges 1
+number of edges 1
+success
+found city4
+degree of city4 1
+failure
+failure
+degree of city2 0
+not found
+found city2
+failure
+number of nodes 5
+failure
+found city2
+failure
+not found
+number of nodes 5
+success
+found city2
+failure
+failure
+failure
+number of nodes 6
+failure
+failure
+degree of city2 0
+failure
+degree of city1 0
+number of edges 1
+failure
+failure
+shortest distance city4 to city3 30.1
+number of nodes 6
+number of nodes 6
+number of edges 1
+found city4
+success
+city5 city3
+success
+degree of city3 2
+failure
+number of nodes 7
+direct distance city4 to city3 30.1
+city5 city3
+failure
+degree of city0 0
+direct distance city5 to city3 27.3
+failure
+success
+failure
+failure
+found city3
+number of nodes 7
+degree of city4 2
+degree of city3 2
+success
+number of edges 3
+failure
+failure
+number of nodes 8
+found city3
+degree of city5 1
+found city4
+found city2
+number of nodes 8
+found city1
+degree of city2 1
+number of nodes 8
+number of nodes 8
+failure
+number of edges 3
+failure
+success
+failure
+degree of city2 1
+number of nodes 9
+failure
+failure
+number of edges 3
+found city5
+success
+failure
+number of nodes 0
+not found
+failure
+not found
+number of nodes 0
+number of edges 0
+failure
+number of edges 0
+not found
+number of nodes 0
+failure
+failure
+failure
+not found
+success
+success
+found city9
+failure
+failure
+failure
+number of edges 0
+failure
+number of edges 0
+success
+success
+degree of city5 0
+number of nodes 3
+failure
+failure
+failure
+failure
+number of nodes 3
+number of nodes 3
+failure
+success
+found city5
+failure
+number of nodes 3
+failure
+found city9
+degree of city9 1
+success
+failure
+success
+success
+failure
+direct distance city2 to city5 14.7
+number of edges 3
+failure
+number of edges 3
+not found
+number of nodes 5
+success
+number of nodes 6
+failure
+failure
+failure
+failure
+failure
+failure
+success
+shortest distance city9 to city7 6.3
+degree of city2 1
+failure
+success
+number of edges 4
+direct distance city5 to city2 14.7
+not found
+failure
+failure
+failure
+number of edges 4
+found city7
+failure
+direct distance city5 to city7 6.3
+city9 city7
+failure
+not found
+failure
+failure
+degree of city7 2
+failure
+failure
+success
+shortest distance city7 to city5 6.3
+not found
+success
+success
+number of nodes 6
+found city9
+success
+failure
+found city7
+success
+found city7
+city6 city7 city9
+not found
+number of nodes 7
+shortest distance city7 to city0 11.2
+degree of city7 4
+degree of city9 2
+found city7
+failure
+success
+success
+number of nodes 8
+failure
+shortest distance city5 to city7 2.8
+failure
+found city2
+failure
+degree of city5 2
+number of nodes 8
+success
+degree of city5 2
+number of edges 9
+number of nodes 8
+city5 city7 city8
+number of edges 9
+not found
+shortest distance city8 to city5 4.9
+shortest distance city6 to city2 31.5
+city5 city7
+failure
+failure
+found city5
+city6 city7 city8
+number of edges 9
+failure
+not found
+number of edges 9
+number of edges 9
+failure
+number of edges 9
+failure
+failure
+not found
+not found
+failure
+shortest distance city8 to city5 4.9
+failure
+degree of city6 2
+number of edges 9
+failure
+failure
+number of nodes 8
+failure
+failure
+city7 city5
+number of nodes 8
+success
+failure
+failure
+failure
+not found
+failure
+success
+failure
+failure
+failure
+failure
+not found
+failure
+failure
+found city4
+failure
+failure
+number of edges 0
+failure
+failure
+not found
+failure
+number of nodes 1
+failure
+failure
+found city4
+success
+not found
+found city7
+degree of city7 0
+not found
+success
+failure
+number of nodes 2
+found city4
+shortest distance city4 to city7 28.7
+number of edges 1
+not found
+failure
+failure
+success
+failure
+number of nodes 3
+failure
+success
+shortest distance city4 to city7 28.7
+number of edges 2
+not found
+shortest distance city7 to city1 39.9
+failure
+number of edges 2
+failure
+failure
+degree of city1 1
+success
+failure
+failure
+failure
+failure
+failure
+failure
+failure
+success
+success
+failure
+degree of city1 2
+degree of city1 2
+failure
+city1 city4
+direct distance city7 to city4 28.7
+number of nodes 5
+failure
+city1 city7
+direct distance city4 to city1 11.2
+degree of city7 2
+shortest distance city1 to city7 27.3
+found city0
+found city7
+success
+city1 city0
+number of nodes 5
+number of nodes 5
+number of nodes 5
+number of nodes 5
+number of edges 4
+failure
+number of edges 4
+number of edges 4
+success
+number of edges 5
+failure
+number of edges 5
+shortest distance city0 to city1 33.6
+number of nodes 5
+found city4
+degree of city4 2
+number of edges 5
+failure
+number of nodes 5
+failure
+city0 city1 city7
+direct distance city0 to city1 33.6
+number of nodes 5
+city1 city7
+shortest distance city1 to city3 12.6
+found city1
+not found
+number of edges 5
+failure
+failure
+success
+city4 city1
+failure
+found city7
+shortest distance city0 to city1 33.6
+failure
+shortest distance city0 to city3 46.2
+failure
+city7 city1 city0
+failure
+degree of city0 1
+failure
+failure
+city1 city0
+failure
+shortest distance city0 to city1 33.6
+shortest distance city4 to city1 11.2
+failure
+success
+not found
+direct distance city0 to city1 33.6
+not found
+success
+shortest distance city0 to city7 60.9
+failure
+number of nodes 7
+not found
+failure
+failure
+failure
+failure
+success
+failure
+failure
+failure
+shortest distance city1 to city0 33.6
+success
+number of edges 6
+degree of city1 4
+failure
+city8 city0
+failure
+success
+failure
+failure
+not found
+success
+number of nodes 1
+number of edges 0
+failure
+degree of city0 0
+number of nodes 1
+failure
+failure
+failure
+failure
+failure
+failure
+failure
+failure
+failure
+number of edges 0
+failure
+failure
+number of nodes 1
+found city0
+failure
+failure
+failure
+failure
+success
+failure
+success
+failure
+number of edges 0
+failure
+success
+failure
+number of nodes 3
+success
+failure
+failure
+not found
+degree of city0 1
+found city9
+not found
+failure
+number of edges 1
+failure
+found city9
+success
+failure
+failure
+failure
+failure
+success
+failure
+not found
+failure
+number of edges 2
+failure
+failure
+failure
+success
+degree of city5 1
+failure
+degree of city0 1
+shortest distance city7 to city5 32.9
+success
+number of nodes 5
+failure
+failure
+success
+failure
+number of nodes 6
+degree of city1 0
+failure
+success
+failure
+failure
+number of edges 3
+number of nodes 6
+success
+city1 city5
+failure
+failure
+found city5
+failure
+direct distance city7 to city5 32.9
+not found
+failure
+failure
+success
+failure
+found city5
+number of nodes 6
+number of edges 5
+city5 city4
+failure
+city4 city5
+city7 city5
+failure
+number of edges 5
+failure
+number of nodes 6
+degree of city7 1
+shortest distance city5 to city7 32.9
+number of nodes 6
+failure
+number of nodes 6
+failure
+degree of city5 4
+failure
+found city9
+number of edges 5
+number of nodes 6
+failure
+failure
+found city7
+number of nodes 6
+success
+found city7
+failure
+failure
+not found
+shortest distance city5 to city9 21.7
+failure
+failure
+direct distance city5 to city7 32.9
+failure
+success
+failure
+number of edges 6
+city5 city9
+number of edges 6
+success
+city1 city5
+shortest distance city9 to city5 32.9
+direct distance city1 to city5 8.4
+number of nodes 6
+success
+shortest distance city0 to city5 42
+number of edges 7
+success
+direct distance city9 to city5 29.4
+number of nodes 6
+success
+degree of city7 2
+direct distance city1 to city5 8.4
+shortest distance city1 to city5 8.4
+failure
+success
+number of nodes 6
+degree of city1 3
+success
+failure
+failure
+failure
+not found
+failure
+failure
+success
+number of nodes 1
+failure
+failure
+failure
+not found
+found city9
+failure
+failure
+success
+failure
+success
+number of edges 1
+number of edges 1
+degree of city9 1
+found city9
+number of edges 1
+number of nodes 2
+failure
+city9 city7
+degree of city9 1
+direct distance city9 to city7 2.8
+number of edges 1
+failure
+direct distance city9 to city7 2.8
+found city9
+success
+number of nodes 3
+degree of city8 0
+failure
+failure
+failure
+shortest distance city7 to city9 2.8
+number of edges 1
+found city7
+failure
+failure
+number of nodes 3
+number of edges 1
+degree of city9 1
+failure
+number of nodes 3
+success
+failure
+found city9
+number of nodes 4
+failure
+number of edges 1
+degree of city5 0
+not found
+failure
+number of edges 1
+failure
+failure
+found city9
+success
+number of nodes 4
+not found
+number of edges 1
+number of edges 1
+number of edges 1
+failure
+failure
+number of nodes 4
+number of nodes 4
+not found
+failure
+failure
+number of edges 1
+number of edges 1
+not found
+degree of city9 1
+failure
+number of nodes 4
+failure
+failure
+degree of city9 1
+failure
+number of edges 1
+failure
+degree of city9 1
+degree of city5 0
+failure
+failure
+success
+number of edges 1
+failure
+found city7
+success
+failure
+success
+failure
+failure
+number of edges 2
+failure
+shortest distance city7 to city9 18.9
+failure
+failure
+failure
+failure
+number of edges 2
+failure
+failure
+failure
+direct distance city5 to city6 7
+failure
+failure
+failure
+city9 city7
+number of nodes 6
+failure
+failure
+number of nodes 6
+not found
+failure
+failure
+success
+number of nodes 7
+failure
+found city9
+failure
+found city7
+failure
+number of nodes 7
+success
+shortest distance city7 to city6 5.6
+failure
+failure
+failure
+failure
+success
+failure
+success
+failure
+failure
+success
+failure
+number of nodes 7
+failure
+number of edges 5
+failure
+found city9
+failure
+failure
+number of nodes 7
+success
+failure
+success
+failure
+degree of city3 0
+failure
+number of nodes 1
+failure
+failure
+degree of city3 0
+failure
+failure
+degree of city3 0
+failure
+failure
+success
+not found
+found city3
+found city0
+number of edges 0
+failure
+number of nodes 2
+failure
+failure
+failure
+failure
+failure
+success
+failure
+found city9
+success
+failure
+failure
+failure
+failure
+success
+failure
+success
+number of nodes 3
+failure
+found city9
+failure
+number of nodes 3
+failure
+failure
+failure
+failure
+degree of city9 2
+failure
+direct distance city0 to city9 29.4
+failure
+failure
+number of nodes 3
+found city9
+success
+failure
+found city9
+number of nodes 3
+number of edges 3
+failure
+failure
+failure
+success
+direct distance city3 to city0 22.4
+degree of city9 2
+number of nodes 3
+failure
+failure
+number of edges 3
+number of edges 3
+found city0
+found city0
+not found
+failure
+number of nodes 3
+shortest distance city9 to city0 29.4
+degree of city9 2
+shortest distance city0 to city9 29.4
+number of nodes 3
+failure
+found city9
+found city9
+number of nodes 3
+direct distance city3 to city0 22.4
+success
+number of edges 3
+number of edges 3
+success
+failure
+failure
+degree of city9 2
+degree of city0 2
+number of edges 3
+shortest distance city9 to city3 6.3
+found city0
+success
+failure
+success
+direct distance city9 to city0 29.4
+failure
+success
+number of nodes 5
+number of edges 5
+shortest distance city9 to city3 6.3
+failure
+direct distance city9 to city0 29.4
+number of nodes 5
+city3 city9 city5
+shortest distance city0 to city9 28.7
+failure
+degree of city9 4
+direct distance city5 to city9 24.5
+failure
+failure
+found city5
+failure
+city9 city5
+number of nodes 5
+number of nodes 5
+shortest distance city9 to city5 24.5
+success
+degree of city6 0
+failure
+number of nodes 6
+success
+failure
+number of nodes 7
+failure
+number of edges 5
+failure
+number of edges 5
+shortest distance city5 to city3 30.8
+failure
+failure
+shortest distance city9 to city5 24.5
+found city5
+number of edges 5
+failure
+success
+failure
+failure
+number of nodes 7
+number of edges 6
+city0 city3 city9 city5
+found city1
+degree of city1 1
+success
+number of nodes 8
+failure
+found city9
+degree of city0 2
+number of nodes 8
+success
+success
+number of edges 0
+success
+success
+number of edges 0
+failure
+number of nodes 3
+success
+degree of city9 0
+failure
+number of edges 1
+success
+number of nodes 3
+failure
+failure
+failure
+failure
+number of edges 1
+number of nodes 3
+failure
+number of edges 1
+failure
+failure
+success
+failure
+failure
+number of edges 1
+failure
+city8 city6
+found city9
+failure
+found city8
+failure
+degree of city9 0
+failure
+found city4
+failure
+failure
 success
 success
 success
+number of nodes 4
+failure
+failure
+number of nodes 4
+success
+number of nodes 4
+number of edges 4
+failure
+shortest distance city9 to city8 23.8
+success
+city9 city8 city6
+number of edges 5
+number of nodes 4
+failure
+success
+success
+number of nodes 5
+success
+number of edges 5
+failure
+number of nodes 6
+number of edges 5
+number of edges 5
+number of edges 5
+failure
+found city9
+number of nodes 6
+number of nodes 6
+failure
+number of nodes 6
+shortest distance city4 to city9 7
+failure
+failure
+number of edges 5
+number of edges 5
+city4 city8
+number of edges 5
+number of nodes 6
+failure
+direct distance city8 to city9 3.5
+failure
+number of edges 5
+failure
+degree of city9 2
+success
+failure
+failure
+failure
+not found
+failure
+success
+number of nodes 6
+failure
+number of edges 6
+failure
+degree of city6 2
+failure
+failure
+number of edges 6
+failure
+found city4
+number of nodes 6
+found city4
+failure
+failure
+failure
+failure
+shortest distance city8 to city6 6.3
+number of edges 6
+found city4
+number of nodes 6
+shortest distance city6 to city9 16.8
+degree of city6 2
+failure
+number of nodes 6
+shortest distance city9 to city3 21
+failure
+number of edges 6
+number of nodes 6
+failure
+failure
+failure
+city9 city8 city4
+failure
+degree of city6 2
+failure
+failure
+city6 city8
+failure
+failure
+failure
+number of nodes 6
+failure
+not found
+number of nodes 6
+failure
+shortest distance city6 to city9 16.8
+success
+failure
+degree of city8 3
+failure
+found city9
+found city3
+success
+failure
+failure
+failure
+failure
+failure
+number of edges 6
+success
+number of edges 0
+number of edges 0
+failure
+number of edges 0
+success
+degree of city8 0
+failure
+number of nodes 1
+number of nodes 1
+found city8
+failure
+failure
+number of nodes 1
+failure
+failure
+number of nodes 1
+failure
+failure
+failure
+number of edges 0
+failure
+failure
+failure
+degree of city8 0
+degree of city8 0
+number of edges 0
+number of nodes 1
+success
+failure
+success
+failure
+failure
+failure
+failure
+failure
+number of nodes 3
+failure
+failure
+failure
+failure
+success
+not found
+failure
+not found
+number of nodes 4
+failure
+number of nodes 4
+degree of city8 0
+failure
+failure
+found city8
+number of nodes 4
+success
+failure
+number of nodes 4
+number of edges 1
+number of edges 1
+found city3
+number of edges 1
+number of edges 1
+degree of city7 1
+degree of city8 0
+failure
+failure
+found city8
+number of edges 1
+number of edges 1
+failure
+success
+not found
+failure
+failure
+failure
+failure
+failure
+failure
+found city7
+failure
+failure
+success
+failure
+number of edges 2
+failure
+number of edges 2
+number of edges 2
+failure
+degree of city4 1
+number of nodes 4
+number of edges 2
+number of nodes 4
+failure
+failure
+number of edges 2
+failure
+number of edges 2
+success
+failure
+not found
+failure
+number of edges 3
+failure
+degree of city3 2
+not found
+failure
+failure
+number of edges 3
+found city4
+number of nodes 4
+found city4
+failure
+number of edges 3
+success
+failure
+failure
+success
+failure
+failure
+not found
+found city6
+shortest distance city7 to city3 2.1
+failure
+failure
+number of edges 4
+failure
+degree of city7 2
+city3 city7 city8 city4
+shortest distance city8 to city3 32.2
+failure
+failure
+number of nodes 5
+number of nodes 5
+failure
+success
+found city4
+failure
+found city4
+success
+not found
+failure
+found city4
+failure
+not found
+city4 city8 city7
+degree of city2 0
+failure
+found city8
+found city4
+failure
+failure
+failure
+degree of city4 1
 success
 success
 success
+failure
+failure
+failure
+found city2
+failure
+failure
+degree of city2 0
+number of nodes 2
+failure
+success
+found city9
+failure
+failure
+success
+failure
+number of nodes 4
+failure
+success
+degree of city2 0
 success
 success
 success
+failure
+failure
+degree of city7 0
+failure
+failure
+number of nodes 6
+failure
+number of nodes 6
+success
+direct distance city8 to city9 27.3
+failure
+failure
+number of nodes 6
+number of edges 3
+failure
+found city7
+failure
+failure
+number of nodes 6
+number of edges 3
+success
+failure
+degree of city9 3
+failure
+failure
+found city9
+number of nodes 6
+degree of city9 3
+found city9
+number of edges 3
+success
+failure
+failure
+degree of city9 3
+failure
+direct distance city9 to city8 27.3
+found city9
+number of edges 3
+failure
+failure
+degree of city7 0
+number of edges 3
+degree of city7 0
+number of edges 3
+found city9
+not found
+failure
+failure
+failure
+degree of city7 0
+found city7
+failure
+failure
+degree of city8 1
+failure
+failure
+degree of city4 1
+failure
+number of edges 3
+failure
+city4 city9
+not found
+success
+failure
+failure
+shortest distance city9 to city7 10.5
+number of edges 4
+failure
+degree of city7 1
+failure
+degree of city8 1
+city4 city9
+not found
+failure
+degree of city2 1
+failure
+city9 city7
+failure
+found city7
+success
+failure
+found city2
+number of nodes 8
+degree of city4 1
+failure
+number of edges 4
+failure
+found city8
+failure
+number of edges 4
+number of edges 4
+degree of city8 1
+failure
+number of edges 4
+failure
+failure
+degree of city7 1
+success
+degree of city3 0
+failure
+found city9
+number of edges 4
+number of nodes 9
+failure
+shortest distance city4 to city7 35.7
+failure
+degree of city4 1
+failure
+failure
+degree of city7 1
+degree of city4 1
+failure
+shortest distance city7 to city9 10.5
+found city7
+found city9
+failure
+failure
+shortest distance city4 to city8 52.5
+shortest distance city7 to city4 35.7
+number of nodes 9
+found city4
+number of edges 4
+number of nodes 9
+degree of city4 1
+failure
+degree of city2 1
+number of nodes 9
+success
+number of edges 0
+failure
+success
+failure
+success
+degree of city6 0
+failure
+not found
+number of nodes 2
+failure
+number of nodes 2
+failure
+failure
+failure
+found city6
+failure
+number of edges 0
+failure
+not found
+failure
+failure
+number of nodes 2
+success
+failure
+failure
+failure
+not found
+failure
+number of edges 0
+degree of city2 0
+number of edges 0
+failure
+failure
+failure
+failure
+number of edges 0
+failure
+number of nodes 3
+failure
+failure
+found city6
+number of nodes 3
+found city6
+failure
+number of edges 0
+success
+failure
+number of nodes 4
+number of edges 0
+failure
+number of edges 0
+failure
+success
+number of edges 1
+failure
+failure
+failure
+failure
+degree of city9 1
+failure
+failure
+found city9
+number of edges 1
+failure
+number of nodes 4
+not found
+failure
+success
+number of nodes 5
+success
+found city6
+city9 city4 city6
+degree of city6 1
+found city9
+failure
+number of nodes 5
+number of nodes 5
+number of edges 2
+number of edges 2
+number of edges 2
+shortest distance city9 to city6 38.5
+number of nodes 5
+failure
+success
+failure
+number of edges 3
+number of edges 3
+number of edges 3
+number of edges 3
+failure
+failure
+failure
+direct distance city6 to city4 32.9
+number of nodes 5
+degree of city4 3
+not found
+failure
+city2 city4 city6
+success
+number of nodes 5
+success
+shortest distance city6 to city9 38.5
+number of edges 4
+failure
+number of nodes 6
+success
+city9 city4 city8
+number of nodes 7
+not found
+number of edges 4
+found city7
+failure
+not found
+shortest distance city9 to city6 38.5
+degree of city7 0
+degree of city2 1
+number of nodes 7
+failure
+failure
+success
+failure
+failure
+city2 city4 city9
+failure
+found city4
+shortest distance city6 to city8 46.9
+found city4
+failure
+degree of city7 0
+failure
+found city9
+degree of city6 1
+degree of city9 2
+number of nodes 7
+degree of city9 2
+number of nodes 7
+number of nodes 7
+found city9
+found city7
+degree of city4 4
+number of nodes 7
+failure
+number of nodes 7
+failure
+success
+number of nodes 7
+failure
+number of edges 6
+failure
+found city8
+failure
+success
+failure
+failure
+failure
+failure
+failure
+failure
+not found
+failure
+failure
+failure
+failure
+failure
+failure
+failure
+failure
+failure
+failure
+failure
+not found
+failure
+success
+failure
+number of nodes 1
+number of edges 0
+number of nodes 1
+degree of city8 0
+failure
+degree of city8 0
+failure
+failure
+failure
+degree of city8 0
+number of edges 0
+number of nodes 1
+failure
+failure
+failure
+failure
+success
+number of nodes 2
+failure
+number of nodes 2
+number of edges 0
+failure
+failure
+failure
+failure
+found city7
+not found
+failure
+failure
+failure
+failure
+number of edges 0
+number of nodes 2
+failure
+failure
+number of edges 0
+failure
+failure
+number of edges 0
+not found
+success
+failure
+degree of city5 0
+number of edges 0
+failure
+failure
+failure
+number of edges 0
+found city8
+failure
+failure
+success
+degree of city5 0
+failure
+failure
+degree of city7 0
+not found
+number of nodes 4
+success
+success
+success
+failure
+success
+direct distance city5 to city1 30.8
+degree of city1 2
+number of edges 3
+failure
+not found
+failure
+number of edges 3
+found city8
+success
+success
+failure
+failure
+success
+city7 city8
+success
+shortest distance city8 to city5 28.7
+number of edges 6
+found city5
+success
+failure
+failure
+city0 city5
+number of nodes 7
+failure
+failure
+number of edges 6
+number of edges 6
+number of nodes 7
+success
+shortest distance city1 to city8 29.4
+failure
+found city3
+number of nodes 8
+failure
+failure
+number of edges 6
+not found
+found city0
+failure
+failure
+failure
+failure
+success
+success
+failure
+number of nodes 8
+failure
+city0 city5
+number of nodes 8
+failure
+failure
+number of edges 8
+found city0
+number of edges 8
+not found
+degree of city1 3
+failure
+number of nodes 8
+failure
+degree of city6 1
+not found
+not found
+number of nodes 8
+number of nodes 8
+failure
+degree of city1 3
+success
+number of edges 0
+failure
+not found
+failure
+failure
+failure
+number of edges 0
+number of edges 0
+number of nodes 0
+success
+failure
+number of edges 0
+failure
+number of nodes 1
+success
+failure
+success
+failure
+degree of city9 0
+failure
+number of nodes 3
+number of edges 0
+failure
+failure
+number of nodes 3
+failure
+success
+found city8
+failure
+failure
+number of nodes 4
+failure
+number of edges 0
+success
+number of edges 1
+found city4
+failure
+failure
+success
+city8 city0
+number of edges 1
+failure
+success
+number of edges 2
+failure
+failure
+failure
+found city4
+number of nodes 5
+failure
+success
+number of edges 3
+number of edges 3
+number of edges 3
+number of nodes 5
+failure
+success
+degree of city8 1
+failure
+found city2
+number of nodes 6
+number of nodes 6
+found city4
+number of edges 3
+success
+number of nodes 6
+city0 city9
+failure
+success
+failure
+number of edges 4
+failure
+failure
+failure
+number of nodes 7
+degree of city4 1
+number of edges 4
+failure
+failure
+failure
+number of edges 4
+degree of city3 0
+shortest distance city9 to city2 28.7
+not found
+degree of city9 3
+number of edges 4
+failure
+found city2
+failure
+failure
+number of nodes 7
+success
+number of nodes 7
+number of edges 5
+number of nodes 7
+failure
+failure
+failure
+city2 city9
+city8 city0 city9 city3
+not found
+success
+found city2
+shortest distance city9 to city3 14
+failure
+failure
+failure
+failure
+number of edges 6
+failure
+success
+number of edges 7
+degree of city0 3
+number of edges 7
+number of edges 7
+city9 city4
+failure
+number of nodes 7
+found city0
+failure
+shortest distance city9 to city4 10.5
+number of nodes 7
+number of edges 7
+success
+number of edges 8
+failure
+number of nodes 7
+failure
+found city0
+failure
+direct distance city2 to city9 28.7
+number of edges 8
+success
+success
+found city0
+not found
+failure
+failure
+failure
+city6 city9 city3
+found city0
+number of nodes 7
+number of nodes 7
+city2 city9 city3
+number of edges 8
+number of edges 8
+failure
+failure
+failure
+direct distance city3 to city8 6.3
+failure
+success
+failure
+failure
+failure
+number of nodes 0
+number of edges 0
+success
+number of nodes 1
+number of edges 0
+failure
+failure
+number of edges 0
+degree of city7 0
+failure
+failure
+failure
+failure
+number of nodes 1
+failure
+failure
+number of nodes 1
+number of nodes 1
+failure
+failure
+failure
+failure
+number of nodes 1
+number of edges 0
+number of nodes 1
+failure
+number of edges 0
+failure
+failure
+success
+failure
+number of edges 0
+failure
+failure
+not found
+failure
+failure
+number of nodes 2
+found city7
+number of nodes 2
+success
+failure
+failure
+number of nodes 3
+number of nodes 3
+success
+found city5
+failure
+failure
+success
+not found
+not found
+failure
+failure
+failure
+found city5
+not found
+failure
+failure
+not found
+failure
+number of edges 1
+failure
+number of edges 1
+shortest distance city5 to city7 15.4
+number of nodes 4
+failure
+failure
+number of nodes 4
+not found
+direct distance city7 to city5 15.4
+degree of city0 0
+degree of city7 1
+success
+failure
+failure
+shortest distance city7 to city5 15.4
+found city5
+number of nodes 5
+success
+success
+not found
+failure
+success
+number of nodes 6
+number of edges 3
+failure
+number of nodes 6
+direct distance city5 to city7 15.4
+number of nodes 6
+failure
+number of edges 3
+city5 city0
+failure
+city5 city0
+failure
+failure
+direct distance city5 to city7 15.4
+degree of city7 2
+failure
+failure
+failure
+direct distance city0 to city5 23.8
+found city1
+number of edges 3
+shortest distance city7 to city0 21.7
+direct distance city0 to city7 21.7
+failure
+failure
+failure
+failure
+failure
+direct distance city0 to city5 23.8
+city5 city0
+city5 city0
+success
+success
+number of nodes 7
+failure
+failure
+failure
+not found
+number of nodes 7
+failure
+number of nodes 7
+failure
+shortest distance city7 to city0 21.7
+failure
+number of nodes 7
+shortest distance city0 to city5 23.8
+shortest distance city0 to city5 23.8
+failure
+degree of city7 2
+failure
+failure
+number of edges 4
+success
+found city7
+failure
+found city7
+shortest distance city7 to city5 15.4
+number of nodes 7
+failure
+failure
+found city5
+number of edges 4
+number of edges 4
+number of nodes 7
+success
+number of edges 0
+failure
+not found
+failure
+failure
+failure
+not found
+not found
+number of edges 0
+success
+failure
+failure
+failure
+success
+number of nodes 2
+number of edges 0
+found city2
+failure
+number of nodes 2
+failure
+number of nodes 2
+failure
+failure
+number of edges 0
+failure
+failure
+not found
+failure
+number of nodes 2
+failure
+number of nodes 2
+failure
+number of edges 0
+failure
+success
+failure
+not found
+degree of city9 0
+failure
+failure
+failure
+failure
+failure
+failure
+failure
+failure
+number of nodes 3
+found city2
+failure
+failure
+success
+number of nodes 3
+failure
+failure
+city9 city2
+failure
+degree of city2 1
+direct distance city9 to city2 34.3
+failure
+failure
+number of edges 1
+degree of city0 0
+not found
+failure
+degree of city9 1
+number of nodes 3
+number of edges 1
+failure
+not found
+failure
+number of nodes 3
+number of nodes 3
+number of nodes 3
+found city9
+failure
+success
+failure
+not found
+success
+found city9
+failure
+failure
+number of edges 1
+success
+found city1
+failure
+degree of city9 1
+number of edges 1
+direct distance city9 to city2 11.2
+success
+failure
+number of nodes 5
+number of nodes 5
+number of edges 2
+number of edges 2
+success
+number of edges 3
+success
+not found
+failure
+failure
+city9 city2 city0
+found city2
+number of edges 3
+failure
+degree of city0 2
+failure
+number of nodes 5
+failure
+success
+found city1
+failure
+failure
+failure
+failure
+failure
+shortest distance city0 to city2 7
+shortest distance city3 to city9 60.9
+success
+success
+number of nodes 6
+number of nodes 6
+failure
+degree of city2 2
+number of edges 4
+success
+failure
+number of edges 4
+degree of city0 2
+found city0
+found city2
+failure
+failure
+city2 city0
+failure
+success
+failure
+failure
+number of nodes 8
+failure
+number of nodes 8
+number of nodes 8
+degree of city0 2
+degree of city0 2
+failure
+failure
+found city2
+number of edges 4
+number of edges 4
+number of nodes 8
+number of nodes 8
+success
+success
+failure
+found city9
+failure
+failure
+number of edges 0
+number of nodes 1
+failure
+found city9
+failure
+number of edges 0
+failure
+degree of city9 0
+found city9
+number of edges 0
+failure
+failure
+failure
+failure
+number of nodes 1
+failure
+not found
+degree of city9 0
+success
+failure
+success
+failure
+number of edges 0
+number of edges 0
+failure
+failure
+success
+direct distance city9 to city0 16.8
+failure
+failure
+success
+found city4
+number of edges 2
+found city9
+failure
+number of nodes 3
+number of edges 2
+failure
+number of nodes 3
+city4 city9 city0
+failure
+failure
+failure
+city0 city9
+failure
+number of edges 2
+degree of city9 2
+found city0
+failure
+failure
+success
+failure
+success
+found city9
+success
+success
+degree of city1 2
+failure
+shortest distance city4 to city1 25.2
+number of edges 4
+success
+shortest distance city1 to city4 25.2
+number of nodes 5
+number of nodes 5
+failure
+found city9
+found city1
+number of edges 4
+number of edges 4
+number of edges 4
+direct distance city4 to city9 29.4
+number of edges 4
+number of nodes 5
+degree of city0 2
+success
+number of edges 4
+number of edges 4
+number of nodes 6
+number of edges 4
+degree of city2 0
+success
+degree of city6 0
+number of nodes 6
+degree of city0 2
+shortest distance city4 to city2 59.5
+number of nodes 6
+found city9
+number of edges 5
+failure
+failure
+failure
+number of nodes 6
+failure
+city0 city9
+number of nodes 6
+failure
+number of edges 5
+found city1
+failure
+city2 city1 city0
+shortest distance city9 to city2 64.4
+failure
+failure
+failure
+found city0
+found city9
+number of edges 5
+failure
+success
+success
+number of edges 5
+failure
+failure
+number of nodes 8
+number of edges 5
+degree of city3 0
+found city4
+number of edges 5
+not found
+failure
+failure
+failure
+failure
+degree of city7 0
+number of edges 5
+failure
+success
+city9 city0
+failure
+failure
+city4 city1 city2
+number of edges 6
+failure
+number of edges 6
+failure
+success
+success
+failure
+number of nodes 8
+failure
+direct distance city0 to city9 16.8
+failure
+direct distance city0 to city9 16.8
+city4 city9
+number of edges 7
+success
+success
+failure
+failure
+failure
+number of nodes 0
+number of nodes 0
+number of nodes 0
+not found
+failure
+number of edges 0
+failure
+failure
+failure
+failure
+number of nodes 0
+failure
+number of nodes 0
+failure
+success
+number of nodes 1
+degree of city0 0
+failure
+failure
+number of nodes 1
+number of edges 0
+failure
+failure
+failure
+found city0
+failure
+success
+number of edges 0
+failure
+number of nodes 2
+failure
+failure
+number of edges 0
+number of nodes 2
+failure
+failure
+failure
+number of edges 0
+failure
+failure
+success
+failure
+not found
+failure
+degree of city0 0
+success
+success
+number of edges 0
+failure
+not found
+failure
+not found
+degree of city0 0
+number of edges 0
+failure
+success
+failure
+found city4
+found city7
+number of nodes 6
+number of edges 0
+failure
+failure
+failure
+failure
+found city6
+failure
+failure
+failure
+failure
+success
+success
+found city7
+shortest distance city8 to city0 58.8
+number of edges 2
+success
+number of nodes 7
+number of edges 2
+success
+number of edges 2
+number of nodes 8
+number of edges 2
+success
+found city0
+found city0
+failure
+failure
+found city0
+failure
+failure
+failure
+failure
+success
+degree of city6 0
+found city0
+direct distance city7 to city0 23.8
+number of nodes 9
+not found
+failure
+not found
+number of nodes 9
+failure
+failure
+number of nodes 9
+success
+failure
+number of edges 4
+direct distance city7 to city0 23.8
+failure
+number of edges 4
+number of edges 4
+found city2
+failure
+failure
+degree of city5 0
+number of nodes 9
+found city6
+failure
+failure
+number of edges 4
+failure
+city0 city7
+failure
+degree of city6 0
+found city0
+failure
+failure
+failure
+failure
+direct distance city0 to city7 23.8
+degree of city8 2
+number of nodes 9
+number of edges 4
+found city5
+degree of city0 2
+success
+failure
+found city9
+failure
+number of nodes 9
+found city2
+number of nodes 9
+success
+failure
+number of nodes 9
+failure
+number of nodes 9
+number of nodes 9
+success
+failure
+number of nodes 0
+failure
+number of edges 0
+not found
+failure
+failure
+failure
+failure
+failure
+failure
+failure
+number of nodes 0
+number of edges 0
+failure
+failure
+not found
+success
+failure
+failure
+failure
+failure
+failure
+failure
+number of edges 0
+number of edges 0
+failure
+failure
+degree of city9 0
+number of edges 0
+failure
+degree of city9 0
+failure
+found city9
+success
+failure
+failure
+failure
+found city9
+number of edges 0
+degree of city9 0
+failure
+number of nodes 2
+number of nodes 2
+success
+failure
+not found
+failure
+failure
+failure
+failure
+degree of city7 0
+failure
+failure
+failure
+number of edges 0
+failure
+not found
+failure
+failure
+failure
+failure
+failure
+number of nodes 3
+number of edges 0
+failure
+failure
+failure
+failure
+failure
+success
+failure
+shortest distance city7 to city0 18.2
+failure
+number of nodes 3
+failure
+failure
+number of edges 1
+found city0
+failure
+failure
+degree of city7 1
+success
+failure
+not found
+failure
+number of edges 1
+shortest distance city7 to city0 18.2
+number of nodes 4
+number of edges 1
+failure
+degree of city0 1
+failure
+failure
+failure
+failure
+failure
+degree of city9 0
+failure
+failure
+failure
+number of edges 1
+success
+degree of city7 2
+direct distance city7 to city2 34.3
+failure
+failure
+number of nodes 4
+failure
+number of nodes 4
+success
+failure
+found city0
+success
+failure
+found city6
+degree of city0 1
+failure
+failure
+direct distance city0 to city7 18.2
+failure
+number of nodes 6
+failure
+city0 city7 city2
+number of edges 2
+success
+success
+direct distance city2 to city7 34.3
+number of edges 2
+number of nodes 8
+number of edges 2
+number of nodes 8
+success
+number of nodes 8
+success
+success
+found city8
+failure
+success
+found city7
+shortest distance city0 to city7 18.2
+success
+number of nodes 9
+number of nodes 9
+number of nodes 9
+failure
+number of nodes 9
+failure
+failure
+number of nodes 9
+failure
+success
+failure
+number of edges 0
+number of nodes 0
+failure
+number of edges 0
+failure
+failure
+failure
+failure
+number of edges 0
+failure
+not found
+number of edges 0
+failure
+not found
+number of edges 0
+failure
+number of edges 0
+success
+failure
+failure
+number of edges 0
+success
+failure
+failure
+found city6
+failure
+number of nodes 2
+success
+failure
+number of edges 1
+direct distance city8 to city6 21
+not found
+failure
+number of nodes 2
+number of edges 1
+success
+failure
+not found
+number of nodes 3
+failure
+success
+number of edges 1
+failure
+failure
+success
+number of nodes 4
+number of nodes 4
+number of edges 1
+failure
+number of edges 1
+failure
+found city7
+degree of city6 1
+failure
+found city6
+failure
+success
+success
+failure
+success
+success
+failure
+failure
+failure
+shortest distance city8 to city5 7
+failure
+degree of city6 2
+number of nodes 5
+success
+shortest distance city7 to city6 5.6
+failure
+failure
+found city6
+failure
+number of edges 5
+success
+found city6
+degree of city6 3
+number of nodes 5
+failure
+number of nodes 5
+shortest distance city8 to city6 14.7
+city5 city7 city8
+degree of city6 3
+number of nodes 5
+failure
+degree of city5 2
+not found
+not found
+number of nodes 5
+not found
+not found
+number of nodes 5
+direct distance city5 to city6 31.5
+not found
+success
+number of nodes 5
+shortest distance city1 to city5 16.8
+shortest distance city5 to city1 16.8
+failure
+number of edges 6
+success
+city1 city8 city7 city5
+failure
+degree of city1 2
+number of edges 7
+success
+direct distance city5 to city1 30.8
+number of nodes 5
+number of nodes 5
+degree of city5 3
+number of nodes 5
+failure
+failure
+failure
+failure
+success
+found city6
+failure
+failure
+found city6
+degree of city1 2
+number of nodes 5
+success
+number of edges 7
+failure
+not found
+not found
+success
+direct distance city5 to city1 2.1
+failure
+found city7
+number of edges 7
+degree of city8 3
+success
+city6 city8
+success
+success
+number of nodes 7
+number of nodes 7
+degree of city8 3
+number of edges 7
+not found
+number of nodes 7
+failure
+failure
+success
+failure
+number of nodes 8
+found city6
+success
+failure
+failure
+success
+number of edges 0
+number of edges 0
+degree of city3 0
+number of edges 0
+number of nodes 1
+found city3
+failure
+failure
+failure
+number of nodes 1
+failure
+number of edges 0
+failure
+number of edges 0
+not found
+failure
+number of nodes 1
+failure
+success
+success
+degree of city3 1
+failure
+degree of city3 1
+direct distance city2 to city3 0.7
+number of nodes 2
+failure
+not found
+failure
+found city3
+number of edges 1
+failure
+number of edges 1
+number of edges 1
+number of nodes 2
+number of edges 1
+failure
+degree of city2 1
+failure
+success
+failure
+failure
+failure
+city2 city3
+success
+failure
+success
+number of edges 1
+not found
+number of edges 1
+failure
+success
+number of nodes 5
+failure
+failure
+number of edges 1
+number of edges 1
+success
+failure
+direct distance city2 to city3 5.6
+failure
+failure
+failure
+degree of city1 0
+number of edges 1
+failure
+failure
+number of nodes 6
+failure
+failure
+failure
+number of edges 1
+success
+success
+found city8
+failure
+not found
+number of edges 2
+failure
+degree of city4 0
+failure
+number of nodes 7
+success
+failure
+not found
+failure
+success
+number of edges 3
+number of edges 3
+failure
+failure
+degree of city8 0
+failure
+failure
+degree of city2 2
+failure
+number of edges 3
+failure
+degree of city1 0
+success
+number of edges 3
+failure
+number of edges 3
+failure
+failure
+number of nodes 8
+not found
+number of edges 3
+number of edges 3
+direct distance city3 to city2 14
+failure
+failure
+failure
+found city3
+failure
+number of nodes 8
+city2 city3 city5
+found city5
+number of edges 3
+failure
+success
+success
+success
+failure
+failure
+failure
+failure
+city5 city0
+degree of city9 0
+number of edges 6
+failure
+number of nodes 8
+success
+found city3
+number of nodes 9
+failure
+number of edges 6
+failure
+failure
+failure
+number of nodes 9
+found city3
+number of edges 6
+failure
+success
+failure
+failure
+number of nodes 9
+failure
+success
+failure
+failure
+failure
+success
+number of nodes 1
+failure
+failure
+degree of city1 0
+failure
+failure
+success
+degree of city1 0
+failure
+not found
+success
+failure
+direct distance city1 to city5 34.3
+success
+failure
+number of nodes 3
+found city1
+degree of city1 1
+failure
+failure
+failure
+failure
+direct distance city5 to city1 34.3
+degree of city3 0
+failure
+failure
+success
+failure
+number of edges 1
+failure
+success
+failure
+failure
+failure
+number of nodes 5
+failure
+found city5
+success
+number of nodes 5
+number of nodes 5
+number of nodes 5
+failure
+failure
+shortest distance city1 to city5 34.3
+number of nodes 5
+number of edges 1
+success
+number of edges 1
+found city1
+number of nodes 6
+success
+failure
+degree of city5 1
+failure
+not found
+success
+failure
+degree of city1 1
+number of nodes 8
+failure
+failure
+failure
+failure
+number of edges 1
+found city3
+failure
+not found
+number of edges 1
+success
+found city2
+failure
+failure
+failure
+degree of city5 1
+failure
+success
+failure
+degree of city3 1
+degree of city3 1
+failure
+failure
+number of edges 3
+failure
+success
+number of edges 3
+failure
+found city6
+failure
+failure
+number of edges 3
+failure
+degree of city5 1
+number of nodes 9
+failure
+number of nodes 9
+degree of city5 1
+number of edges 3
+failure
+failure
+number of nodes 9
+number of edges 3
+number of nodes 9
+not found
+degree of city3 1
+success
+failure
+failure
+not found
+failure
+failure
+found city3
+number of edges 4
+success
+failure
+failure
+degree of city2 1
+number of nodes 9
+number of edges 5
+number of nodes 9
+degree of city4 1
+city9 city8
+number of nodes 9
+failure
+found city5
+direct distance city1 to city5 34.3
+failure
+failure
+number of nodes 9
+failure
+number of nodes 9
+success
+failure
+number of nodes 9
+number of edges 6
+failure
+failure
+number of edges 6
+number of nodes 9
+number of edges 6
+city7 city1 city5
+number of nodes 9
+number of nodes 9
+failure
+failure
+number of edges 6
+degree of city1 3
+shortest distance city1 to city3 28
+success
+failure
+number of nodes 0
+success
+found city1
+number of edges 0
+failure
+number of edges 0
+number of edges 0
+success
+degree of city6 0
+failure
+success
+direct distance city1 to city6 25.9
+success
+not found
+failure
+shortest distance city1 to city6 25.9
+failure
+failure
+found city6
+failure
+success
+failure
+number of nodes 3
+failure
+failure
+number of edges 2
+failure
+failure
+success
+success
+degree of city6 1
+failure
+city6 city1 city2
+shortest distance city2 to city6 49
+number of edges 2
+number of nodes 3
+success
+failure
+number of nodes 4
+degree of city2 1
+number of nodes 4
+number of edges 2
+found city6
+degree of city2 1
+success
+failure
+number of edges 3
+success
+not found
+failure
+not found
+failure
+failure
+failure
+failure
+failure
+failure
+degree of city0 0
+failure
+failure
+failure
+failure
+found city6
+number of nodes 5
+failure
+failure
+failure
+success
+success
+success
+degree of city4 0
+number of edges 3
+failure
+failure
+failure
+success
+city6 city2 city1
+found city1
+number of nodes 7
+found city5
+failure
+failure
+degree of city0 0
+success
+degree of city3 1
+found city6
+number of nodes 7
+failure
+failure
+degree of city0 0
+failure
+failure
+failure
+failure
+failure
+found city5
+success
+number of edges 5
+degree of city0 0
+failure
+failure
+failure
+number of nodes 7
+failure
+failure
+failure
+success
+failure
+failure
+failure
+not found
+city6 city2
+shortest distance city5 to city1 35.7
+number of edges 6
+shortest distance city6 to city1 17.5
+success
+failure
+number of edges 6
+failure
+degree of city2 3
+failure
+success
+failure
+not found
+failure
+failure
+failure
+failure
+failure
+failure
+failure
+not found
+degree of city4 2
+success
+failure
+found city3
+degree of city6 2
+failure
+success
+degree of city4 2
+failure
+number of nodes 9
+number of nodes 9
+failure
+success
+found city1
+shortest distance city5 to city6 40.6
+degree of city0 1
+found city7
+shortest distance city3 to city5 49
+success
+success
+success
+found city6
+failure
+success
+failure
+number of nodes 3
+failure
+success
+number of nodes 3
+number of edges 1
+failure
+found city6
+found city8
+degree of city8 1
+number of nodes 3
+failure
+failure
+success
+failure
+failure
+failure
+success
+found city8
+success
+degree of city6 1
+number of edges 1
+number of edges 1
+failure
+failure
+failure
+failure
+number of edges 1
+success
+number of nodes 7
+failure
+failure
+failure
+failure
+failure
+failure
+found city2
+success
+number of edges 1
+failure
+failure
+failure
+failure
+success
+degree of city1 1
+number of nodes 8
+failure
+failure
+failure
+success
+number of edges 3
+found city6
+failure
+not found
+failure
+degree of city6 2
+found city0
+degree of city0 2
+found city3
+failure
+number of edges 3
+degree of city1 1
+failure
+number of edges 3
+success
+failure
+number of edges 4
+failure
+not found
+failure
+number of nodes 8
+success
+success
+city6 city8
+shortest distance city1 to city0 2.1
+shortest distance city6 to city7 56
+found city8
+failure
+failure
+failure
+failure
+success
+found city2
+number of nodes 8
+number of edges 6
+failure
+number of edges 6
+degree of city6 3
+failure
+degree of city0 3
+failure
+number of edges 6
+failure
+failure
+degree of city7 2
+not found
+failure
+failure
+direct distance city7 to city2 25.9
+degree of city2 2
+degree of city2 2
+not found
+number of edges 6
+degree of city0 3
+success
+number of nodes 8
+failure
+direct distance city6 to city1 26.6
+failure
+failure
+number of nodes 8
+city6 city0
+number of nodes 8
+degree of city6 4
+number of nodes 8
+failure
+number of edges 7
+number of nodes 8
+success
+failure
+number of nodes 9
+failure
+direct distance city6 to city0 1.4
+failure
+number of edges 7
+found city9
+degree of city7 2
+shortest distance city0 to city6 1.4
+success
+found city6
+failure
+degree of city6 5
+success
+failure
+shortest distance city6 to city2 30.1
+degree of city8 1
+success
+shortest distance city8 to city2 41.3
+found city9
+not found
+number of nodes 9
+number of nodes 9
+found city3
+failure
+not found
+degree of city8 1
+success
+failure
+failure
+number of edges 0
+failure
+failure
+failure
+number of nodes 0
+success
+failure
+found city9
+degree of city9 0
+failure
+degree of city9 0
+degree of city9 0
+failure
+number of nodes 1
+success
+number of nodes 2
+degree of city9 0
+failure
+degree of city5 0
+failure
+failure
+number of edges 0
+success
+degree of city6 0
+failure
+not found
+number of edges 0
+success
+success
+degree of city9 1
+success
+failure
+success
+failure
+shortest distance city0 to city9 23.8
+success
+found city5
+degree of city9 2
+city5 city6
+not found
+failure
+number of edges 3
+failure
+success
+success
+failure
+failure
+failure
+failure
+failure
+failure
+degree of city9 2
+failure
+not found
+success
+failure
+number of edges 3
+success
+city9 city5 city6 city4
+degree of city2 0
+number of nodes 8
+failure
+failure
+degree of city6 2
+success
+found city4
+failure
+failure
+failure
+failure
+failure
+failure
+failure
+degree of city7 0
+failure
+number of edges 4
+failure
+success
+degree of city6 2
+failure
+number of edges 5
+failure
+failure
+number of edges 5
+success
+number of nodes 9
+success
+failure
+degree of city1 1
+success
+number of nodes 9
+failure
+failure
+number of nodes 9
+success
+found city0
+found city1
+degree of city7 1
+failure
+city6 city4 city0
+degree of city7 1
+failure
+shortest distance city6 to city0 31.5
+shortest distance city0 to city4 13.3
+failure
+failure
+direct distance city4 to city0 13.3
+success
+failure
+failure
+city0 city1
+failure
+number of nodes 9
+not found
+failure
+degree of city0 3
+found city7
+failure
+not found
+failure
+degree of city8 0
+number of nodes 9
+failure
+degree of city7 1
+failure
+city4 city0 city1
+not found
+failure
+failure
+success
+degree of city1 3
+success
+city1 city2
+failure
+failure
+number of edges 11
+success
+failure
+degree of city0 4
+number of edges 12
+number of edges 12
+direct distance city4 to city9 4.9
+found city9
+success
+failure
+found city0
+direct distance city5 to city6 3.5
+failure
+degree of city1 4
+success
+failure
+failure
+success
+number of edges 0
+not found
+failure
+failure
+failure
+not found
+not found
+failure
+failure
+degree of city0 0
+not found
+failure
+failure
+failure
+number of edges 0
+failure
+failure
+failure
+number of edges 0
+number of edges 0
+failure
+failure
+failure
+success
+failure
+number of nodes 2
+failure
+failure
+number of nodes 2
+number of edges 0
+failure
+failure
+failure
+failure
+failure
+failure
+number of edges 0
+failure
+number of nodes 2
+failure
+number of nodes 2
+failure
+found city0
+degree of city5 0
+found city0
+failure
+failure
+success
+failure
+found city5
+failure
+success
+success
+failure
+success
+number of edges 1
+number of nodes 4
+failure
+not found
+failure
+number of nodes 4
+success
+failure
+not found
+number of nodes 4
+success
+found city0
+number of nodes 5
+failure
+number of edges 1
+failure
+not found
+failure
+failure
+degree of city9 0
+failure
+failure
+direct distance city0 to city5 16.1
+failure
+failure
+number of edges 1
+success
+failure
+failure
+number of nodes 6
+success
+failure
+number of nodes 7
+degree of city0 1
+failure
+failure
+number of nodes 7
+success
+failure
+found city3
+failure
+number of edges 2
+number of nodes 7
+not found
+failure
+direct distance city5 to city0 16.1
+failure
+number of edges 2
+failure
+failure
+failure
+failure
+success
+degree of city4 0
+failure
+failure
+failure
+failure
+degree of city5 2
+failure
+number of nodes 8
+success
+failure
+not found
+number of nodes 8
+found city5
+city5 city8
+failure
+failure
+failure
+failure
+number of nodes 8
+success
+number of edges 4
+failure
+success
+shortest distance city3 to city8 26.6
+number of edges 4
+number of edges 4
+failure
+found city7
+failure
+number of edges 4
+failure
+success
+failure
+failure
+failure
+failure
+failure
+number of nodes 9
+failure
+failure
+success
+failure
+number of edges 0
+not found
+failure
+number of nodes 0
+success
+number of nodes 1
+failure
+failure
+failure
+number of edges 0
+degree of city6 0
+failure
+found city6
+failure
+number of nodes 1
+failure
+number of nodes 1
+failure
+failure
+success
+failure
+failure
+success
+failure
+number of nodes 3
+success
+success
+direct distance city6 to city0 0.7
+direct distance city6 to city5 7
+number of edges 2
+city5 city6
+success
+number of nodes 4
+city6 city0
+number of edges 2
+failure
+number of edges 2
+failure
+degree of city8 0
+failure
+city5 city6
+degree of city5 1
+failure
+number of nodes 4
+failure
+found city0
+failure
+failure
+failure
+failure
+found city6
+failure
+number of edges 2
+number of edges 2
+failure
+failure
+success
+number of edges 2
+failure
+number of nodes 5
+number of nodes 5
+not found
+failure
+not found
+degree of city0 1
+failure
+not found
+failure
+failure
 success
 success
 success
 number of nodes 5
-number of edges 7
-found City3
 not found
-found City4
-degree of City2 4
-degree of City4 2
-degree of City0 2
-direct distance City0 to City2 5
-direct distance City2 to City3 9
-direct distance City2 to City4 2
-shortest distance City0 to City4 7
+degree of city0 1
+failure
+degree of city5 1
+success
+degree of city5 2
+failure
+found city4
+number of edges 4
+failure
+failure
+number of nodes 5
+degree of city6 3
+failure
+failure
+shortest distance city8 to city6 40.6
+not found
+not found
+success
+success
+success
+city0 city6 city8
+failure
+city5 city6 city0
+direct distance city5 to city6 23.1
+failure
+success
+found city6
+failure
+failure
+success
+number of edges 5
+success
+failure
+shortest distance city6 to city5 23.1
+number of nodes 7
+number of edges 5
+number of edges 5
+number of edges 5
+city5 city6
+number of nodes 7
+failure
+found city8
+failure
+degree of city6 4
+failure
+failure
+direct distance city5 to city6 23.1
+number of nodes 7
+number of edges 5
+number of nodes 7
+failure
+failure
+not found
+failure
+number of nodes 7
+failure
+number of edges 5
+failure
+city5 city8
+failure
+failure
+failure
+number of nodes 7
+failure
+found city5
+failure
+failure
+number of edges 5
+shortest distance city8 to city5 33.6
+number of nodes 7
+failure
+failure
+city4 city6 city0
+failure
+degree of city0 1
+found city6
+success
+failure
+failure
+number of nodes 0
+failure
+failure
+failure
+number of edges 0
+failure
+not found
+number of edges 0
+failure
+failure
+failure
+failure
+success
+failure
+failure
+failure
+success
+failure
+failure
+degree of city0 0
+failure
+number of edges 0
+failure
+number of nodes 2
+failure
+number of edges 0
+success
+degree of city2 0
+number of nodes 3
+success
+failure
+failure
+failure
+failure
+failure
+failure
+city9 city2
+failure
+success
+failure
+failure
+failure
+shortest distance city2 to city9 8.4
+failure
+failure
+found city2
+shortest distance city2 to city9 8.4
+not found
+found city2
+failure
+number of nodes 3
+number of nodes 3
+failure
+number of nodes 3
+found city0
+city2 city9
+number of edges 1
+failure
+failure
+success
+number of nodes 4
+number of nodes 4
+success
+failure
+failure
+failure
+number of edges 1
+number of nodes 5
+failure
+degree of city8 0
+found city9
+found city6
+failure
+not found
+failure
+failure
+degree of city0 0
+found city9
+failure
+failure
+number of nodes 5
+city9 city2
+number of edges 1
+direct distance city9 to city2 8.4
+failure
+not found
+degree of city9 1
+number of edges 1
+number of nodes 5
+number of edges 1
+failure
+failure
+failure
+degree of city0 0
+success
+failure
+found city2
+degree of city6 0
+number of edges 1
+degree of city2 1
+success
+failure
+failure
+failure
+success
+success
+number of nodes 8
+failure
+found city3
+failure
+failure
+number of edges 2
+failure
+failure
+failure
+found city8
+failure
+failure
+success
+success
+number of nodes 8
+not found
+direct distance city2 to city9 8.4
+number of nodes 8
+failure
+failure
+failure
+failure
+number of nodes 8
+number of nodes 8
+failure
+failure
+failure
+number of nodes 8
+degree of city8 2
+number of edges 4
+number of nodes 8
+city5 city8
+degree of city2 1
+failure
+shortest distance city2 to city8 11.2
+shortest distance city9 to city2 8.4
+failure
+success
+failure
+number of edges 5
+city2 city9
+found city6
+success
+success
+not found
+success
+success
+failure
+failure
+failure
+failure
+degree of city4 0
+success
+number of edges 0
+success
+failure
+success
+number of nodes 4
+success
+not found
+failure
+found city1
+failure
+number of nodes 5
+success
+failure
+failure
+failure
+number of nodes 5
+failure
+number of nodes 5
+number of edges 2
+success
+number of edges 3
+degree of city9 1
+not found
+failure
+found city1
+city4 city1
+success
+failure
+shortest distance city9 to city1 14
+not found
+failure
+failure
+success
+city1 city8 city9
+failure
+failure
+number of edges 4
+failure
+found city1
+failure
+shortest distance city1 to city8 4.2
+not found
+failure
+failure
+success
+city4 city1
+success
+failure
+degree of city1 2
+degree of city4 1
+found city6
+success
+success
+found city1
+failure
+failure
+failure
+number of edges 5
+failure
+failure
+number of nodes 8
+shortest distance city0 to city9 25.2
+degree of city7 0
+number of edges 5
+failure
+city1 city4
+failure
+number of nodes 8
+failure
+number of edges 5
+failure
+failure
+number of nodes 8
+failure
+success
+failure
+degree of city8 3
+number of edges 6
+failure
+not found
+shortest distance city4 to city0 35.7
+failure
+not found
+failure
+failure
+number of nodes 8
+degree of city9 2
+failure
+number of nodes 8
+failure
+shortest distance city8 to city1 4.2
+city1 city0
+failure
+failure
+number of edges 6
+failure
+degree of city4 1
+direct distance city4 to city1 24.5
+shortest distance city4 to city1 24.5
+number of edges 6
+degree of city1 3
+number of edges 6
+direct distance city0 to city1 11.2
+success
+shortest distance city6 to city0 47.6
+failure
+failure
+failure
+failure
+degree of city1 3
+failure
+failure
+degree of city1 3
+found city8
+failure
+success
+found city1
+found city5
+success
+degree of city8 3
+number of nodes 9
+failure
+failure
+found city0
+shortest distance city8 to city0 22.4
+failure
+shortest distance city6 to city4 46.9
+failure
+failure
+number of edges 7
+success
+degree of city6 2
+failure
+shortest distance city8 to city1 4.2
+success
+failure
+number of nodes 9
+failure
+direct distance city4 to city1 24.5
+success
+number of nodes 9
+number of nodes 9
+success
+failure
+not found
+number of nodes 0
+number of edges 0
+not found
+failure
+number of nodes 0
+failure
+failure
+failure
+failure
+failure
+failure
+failure
+failure
+failure
+number of edges 0
+failure
+failure
+failure
+number of nodes 0
+number of nodes 0
+failure
+failure
+failure
+success
+failure
+found city8
+failure
+number of edges 0
+failure
+degree of city8 0
+failure
+failure
+failure
+number of edges 0
+failure
+success
+success
+failure
+number of nodes 3
+number of edges 0
+failure
+number of edges 0
+success
+failure
+found city8
+failure
+failure
+success
+failure
+failure
+failure
+number of nodes 5
+failure
+success
+success
+degree of city6 1
+success
+failure
+failure
+success
+degree of city2 0
+number of nodes 7
+failure
+failure
+success
+shortest distance city9 to city6 3.5
+failure
+failure
+number of nodes 7
+failure
+failure
+failure
+success
+failure
+not found
+failure
+failure
+shortest distance city5 to city7 53.2
+failure
+failure
+failure
+failure
+number of edges 4
+number of nodes 7
+failure
+failure
+number of nodes 7
+number of nodes 7
+not found
+number of edges 4
+failure
+city7 city9 city6
+success
+failure
+found city5
+degree of city8 1
+found city8
+number of nodes 7
+failure
+failure
+failure
+failure
+number of edges 5
+number of nodes 7
+number of edges 5
+number of nodes 7
+failure
+degree of city5 1
+failure
+degree of city6 2
+found city8
+failure
+shortest distance city9 to city2 23.8
+failure
+number of edges 5
+direct distance city6 to city9 3.5
+degree of city9 3
+city2 city9 city7
+failure
+number of nodes 7
+failure
+not found
+success
+shortest distance city6 to city7 21
+failure
+success
+failure
+found city8
+failure
+success
+degree of city3 0
+failure
+failure
+failure
+failure
+number of nodes 8
+number of nodes 8
+number of nodes 8
+number of nodes 8
+degree of city5 2
+failure
+success
+success
+not found
+failure
+city6 city9 city7
+degree of city9 4
+failure
+success
+success
+not found
+number of nodes 0
+failure
+number of nodes 0
+number of nodes 0
+failure
+failure
+success
+success
+number of edges 0
+number of edges 0
+failure
+found city5
+failure
+success
+not found
+not found
+found city7
+success
+shortest distance city7 to city5 20.3
+failure
+degree of city7 1
+city7 city5
+city7 city5
+failure
+direct distance city5 to city7 20.3
+failure
+not found
+shortest distance city5 to city7 20.3
+not found
+found city5
+success
+not found
+number of edges 1
+success
+failure
+failure
+failure
+failure
+found city5
+found city7
+number of nodes 3
+not found
+number of edges 2
+failure
+failure
+failure
+degree of city7 1
+direct distance city9 to city5 4.9
+degree of city7 1
+number of nodes 3
+number of edges 2
+success
+success
+failure
+number of nodes 4
+degree of city9 1
+failure
+failure
+number of edges 2
+found city9
+number of nodes 4
+failure
+failure
+not found
+number of nodes 4
+found city7
+failure
+failure
+failure
+failure
+city9 city5
+direct distance city9 to city5 10.5
+degree of city9 1
+city7 city5 city9
+failure
+failure
+failure
+found city7
+failure
+number of nodes 4
+degree of city7 1
+shortest distance city9 to city5 10.5
+number of edges 2
+direct distance city5 to city9 10.5
+failure
+failure
+not found
+failure
+success
+success
+number of nodes 5
+found city9
+direct distance city5 to city9 10.5
+failure
+success
+found city1
+failure
+failure
+failure
+not found
+failure
+failure
+success
+failure
+degree of city5 3
+degree of city5 3
+degree of city5 3
+failure
+shortest distance city9 to city7 30.8
+shortest distance city9 to city5 10.5
+shortest distance city7 to city9 30.8
+success
+number of edges 3
+success
+not found
+number of edges 4
+failure
+degree of city3 0
+success
+shortest distance city7 to city9 30.8
+success
+number of edges 6
+failure
+number of nodes 8
+found city3
+failure
+failure
+failure
+number of edges 6
+failure
+failure
+found city7
+success
+number of edges 6
+failure
+success
+found city7
+success
+found city9
+found city5
+failure
+number of edges 6
+city9 city5
+failure
+number of edges 6
+number of nodes 9
+failure
+failure
+not found
+city9 city3
+success
+failure
+failure
+not found
+number of nodes 0
+failure
+failure
+not found
+number of nodes 0
+success
+number of edges 0
+number of nodes 1
+success
+found city0
+degree of city0 0
+failure
+number of nodes 2
+success
+failure
+direct distance city0 to city6 19.6
+success
+found city7
+success
+number of edges 1
+failure
+failure
+failure
+found city6
+number of nodes 4
+failure
+shortest distance city6 to city0 19.6
+failure
+failure
+success
+success
+failure
+city0 city6
+number of nodes 4
+failure
+failure
+failure
+not found
+found city7
+number of edges 2
+found city7
+failure
+number of nodes 4
+number of edges 2
+number of nodes 4
+number of nodes 4
+failure
+degree of city6 1
+failure
+success
+failure
+failure
+degree of city7 1
+success
+failure
+found city0
+degree of city7 1
+shortest distance city0 to city6 19.6
+success
+number of nodes 5
+number of nodes 5
+number of edges 3
+number of nodes 5
+success
+failure
+number of nodes 5
+failure
+found city6
+failure
+success
+found city5
+shortest distance city6 to city3 35.7
+number of nodes 6
+shortest distance city0 to city6 19.6
+failure
+number of nodes 6
+failure
+failure
+number of nodes 6
+failure
+number of nodes 6
+number of edges 3
+failure
+success
+found city6
+failure
+degree of city0 3
+failure
+success
+degree of city1 0
+number of edges 4
+number of nodes 7
+number of nodes 7
+failure
+number of edges 4
+failure
+number of edges 4
+number of edges 4
+number of nodes 7
+city0 city7
+not found
+failure
+failure
+failure
+number of nodes 7
+degree of city3 2
+failure
+failure
+not found
+failure
+degree of city1 0
+failure
+failure
+failure
+failure
+shortest distance city7 to city0 32.2
+failure
+number of nodes 7
+failure
+degree of city3 2
+city6 city0 city7
+number of nodes 7
+failure
+degree of city7 2
+success
+number of nodes 8
+failure
+found city6
+number of nodes 8
+success
+failure
+number of edges 4
+success
+failure
+failure
+success
+number of nodes 9
+failure
+number of nodes 9
+failure
+failure
+not found
+success
+failure
+number of edges 7
+degree of city1 2
+degree of city2 0
+failure
+success
+number of edges 0
+failure
+not found
+success
+number of nodes 1
+failure
+failure
+failure
+success
+number of nodes 2
+failure
+number of edges 0
+number of nodes 2
+not found
+failure
+number of nodes 2
+number of edges 0
+failure
+number of nodes 2
+failure
+number of edges 0
+failure
+failure
+degree of city1 0
+failure
+failure
+failure
+not found
+failure
+failure
+failure
+failure
+degree of city1 0
+failure
+number of nodes 2
+number of nodes 2
+number of nodes 2
+failure
+failure
+degree of city3 0
+success
+failure
+failure
+success
+not found
+success
+failure
+failure
+failure
+failure
+number of edges 1
+number of nodes 4
+success
+number of nodes 4
+failure
+found city1
+failure
+direct distance city9 to city6 28
+shortest distance city9 to city6 28
+number of edges 2
+shortest distance city1 to city6 41.3
+not found
+number of nodes 4
+number of edges 2
+number of edges 2
+failure
+number of nodes 4
+failure
+failure
+failure
+failure
+number of nodes 4
+failure
+number of nodes 4
+number of edges 2
+number of nodes 4
+failure
+failure
+failure
+failure
+success
+number of edges 2
+number of nodes 4
+number of nodes 4
+failure
+failure
+success
+failure
+failure
+found city6
+number of nodes 4
+success
+number of edges 3
+found city9
+success
+failure
+found city7
+number of nodes 6
+failure
+number of edges 3
+failure
+number of nodes 6
+not found
+success
+failure
+number of edges 4
+success
+failure
+found city1
+found city3
+failure
+failure
+found city1
+failure
+degree of city6 2
+not found
+number of nodes 6
+success
+failure
+success
+city6 city3 city9
+failure
+direct distance city3 to city9 0.7
+degree of city7 0
+found city3
+number of nodes 7
+number of nodes 7
+city3 city9
+number of edges 5
+number of edges 5
+number of nodes 7
+found city6
+found city6
+failure
+failure
+success
+failure
+failure
+failure
+number of nodes 7
+found city2
+number of edges 6
+number of nodes 7
+success
+found city9
+city3 city9
+number of edges 6
+number of nodes 7
+number of nodes 7
+success
+number of edges 6
+success
+failure
+failure
+not found
+failure
+failure
+failure
+not found
+not found
+failure
+failure
+not found
+success
+failure
+failure
+not found
+not found
+failure
+failure
+failure
+number of nodes 1
+success
+failure
+success
+failure
+number of edges 1
+success
+shortest distance city9 to city2 10.5
+direct distance city9 to city2 10.5
+city9 city2
+failure
+success
+degree of city5 0
+number of edges 1
+failure
+degree of city9 1
+degree of city5 0
+degree of city5 0
+success
+failure
+success
+failure
+degree of city5 0
+failure
+number of nodes 5
+number of nodes 5
+not found
+number of edges 2
+shortest distance city3 to city9 23.8
+success
+failure
+number of nodes 6
+number of nodes 6
+failure
+found city5
+success
+found city3
+number of edges 3
+failure
+found city9
+degree of city9 3
+failure
+failure
+number of edges 3
+city3 city9
+failure
+degree of city9 3
+success
+found city9
+number of nodes 6
+city8 city9 city2
+failure
+success
+failure
+failure
+failure
+number of nodes 7
+not found
+failure
+success
+failure
+failure
+failure
+failure
+failure
+failure
+degree of city8 2
+failure
+number of edges 5
+failure
+success
+found city9
+success
+success
+failure
+number of nodes 8
+success
+success
+number of edges 8
+failure
+city4 city5 city2
+success
+number of edges 8
+failure
+found city2
+number of nodes 9
+failure
+city0 city5 city2
+number of edges 8
+number of nodes 9
+success
+failure
+number of nodes 10
+number of nodes 10
+found city0
+number of edges 8
+failure
+success
+number of edges 9
+failure
+number of edges 9
+failure
+number of edges 9
+number of edges 9
+success
+city8 city3 city9 city2
+failure
+success
+number of edges 11
+number of edges 11
+number of nodes 10
+success
+failure
+failure
+direct distance city2 to city9 10.5
+degree of city2 2
+found city0
+degree of city1 1
+number of nodes 10
+shortest distance city5 to city2 27.3
+failure
+number of nodes 10
+number of edges 12
+number of nodes 10
+found city4
+success
+number of edges 13
+failure
+city4 city5 city8
+success
+degree of city9 5
+found city2
+success
+not found
+failure
+success
+degree of city1 0
+failure
+degree of city1 0
+degree of city1 0
+number of nodes 1
+number of edges 0
+failure
+success
+failure
+failure
+failure
+success
+success
+degree of city8 1
+failure
+direct distance city6 to city8 7
+failure
+direct distance city6 to city8 7
+number of edges 1
+failure
+failure
+failure
+success
+failure
+number of nodes 4
+shortest distance city8 to city6 7
+failure
+number of nodes 4
+number of nodes 4
+success
+number of nodes 4
+direct distance city8 to city6 7
+failure
+failure
+number of nodes 4
+success
+failure
+found city6
+failure
+number of edges 2
+found city6
+success
+failure
+number of nodes 6
+degree of city4 0
+not found
+number of nodes 6
+failure
+number of edges 2
+failure
+failure
+failure
+failure
+degree of city6 2
+failure
+number of edges 2
+degree of city6 2
+degree of city8 1
+not found
+failure
+failure
+success
+city6 city1
+failure
+failure
+number of edges 3
+failure
+failure
+number of edges 3
+found city3
+found city1
+degree of city4 1
+success
+number of nodes 7
+found city7
+number of nodes 7
+number of nodes 7
+not found
+not found
+degree of city4 1
+failure
+degree of city3 0
+number of edges 3
+success
+failure
+failure
+failure
+direct distance city6 to city1 33.6
+number of nodes 7
+number of nodes 7
+failure
+failure
+failure
+number of edges 4
+number of nodes 7
+failure
+found city1
+city1 city6 city4
+failure
+degree of city2 0
+number of nodes 7
+number of edges 4
+failure
+found city2
+success
+failure
+failure
+failure
+failure
+failure
+success
+failure
+number of edges 5
+failure
+success
+failure
+number of nodes 8
+shortest distance city7 to city8 65.1
+failure
+failure
+degree of city5 1
+number of edges 6
+number of nodes 8
+success
+number of edges 6
+number of nodes 8
+failure
+number of edges 6
+number of edges 6
+not found
+failure
+direct distance city3 to city1 22.4
+failure
+failure
+success
+city6 city1 city3
+number of nodes 8
+failure
+number of nodes 8
+degree of city4 1
+number of nodes 8
+failure
+failure
+failure
+found city7
+found city2
+city5 city2 city1 city7
+number of edges 7
+success
+number of edges 0
+not found
+failure
+failure
+failure
+success
+failure
+failure
+not found
+failure
+failure
+failure
+success
+failure
+found city5
+failure
+failure
+failure
+success
+failure
+number of nodes 3
+failure
+success
+failure
+number of nodes 3
+degree of city3 1
+failure
+success
+failure
+failure
+success
+failure
+not found
+failure
+failure
+number of nodes 3
+number of edges 2
+failure
+number of nodes 3
+failure
+found city5
+failure
+failure
+number of edges 2
+degree of city3 2
+number of nodes 3
+number of nodes 3
+degree of city5 1
+failure
+shortest distance city3 to city5 24.5
+shortest distance city4 to city5 47.6
+success
+number of nodes 4
+failure
+failure
+city4 city3
+found city3
+degree of city4 1
+failure
+number of nodes 4
+failure
+failure
+success
+not found
+number of edges 2
+number of nodes 5
+direct distance city3 to city5 24.5
+failure
+success
+failure
+city5 city3
+degree of city9 0
+failure
+degree of city3 2
+number of edges 2
+degree of city7 0
+failure
+failure
+success
+failure
+failure
+found city5
+number of edges 3
+failure
+number of edges 3
+number of edges 3
+failure
+number of edges 3
+success
+failure
+found city6
+failure
+degree of city9 0
+number of edges 3
+failure
+city3 city5
+number of edges 3
+failure
+failure
+failure
+found city5
+found city3
+degree of city6 0
+found city1
+number of edges 3
+found city9
+number of edges 3
+number of nodes 7
+number of edges 3
+failure
+shortest distance city5 to city3 24.5
+failure
+failure
+failure
+success
+success
+failure
+degree of city6 0
+failure
+degree of city5 1
+failure
+failure
+degree of city5 1
+failure
+failure
+success
+failure
+failure
+failure
+success
+failure
+success
+number of edges 5
+failure
+failure
+success
+failure
+failure
+not found
+number of nodes 8
+number of edges 6
+failure
+success
+failure
+success
+number of nodes 8
+failure
+number of nodes 8
+failure
+success
+success
+success
+failure
+not found
+failure
+failure
+number of edges 0
+not found
+failure
+failure
+number of nodes 0
+failure
+failure
+failure
+failure
+not found
+failure
+failure
+failure
+number of edges 0
+number of edges 0
+failure
+failure
+failure
+number of edges 0
+number of edges 0
+failure
+number of nodes 0
+not found
+not found
+not found
+number of nodes 0
+success
+failure
+degree of city8 0
+number of nodes 1
+success
+failure
+failure
+failure
+failure
+failure
+failure
+failure
+failure
+success
+failure
+failure
+number of edges 0
+number of nodes 3
+number of edges 0
+failure
+number of nodes 3
+number of edges 0
+degree of city3 0
+number of nodes 3
+success
+failure
+failure
+number of edges 1
+failure
+not found
+number of edges 1
+degree of city3 1
+success
+failure
+number of edges 1
+failure
+success
+found city4
+failure
+number of edges 1
+number of edges 1
+failure
+failure
+failure
+failure
+failure
+failure
+number of nodes 5
+not found
+found city8
+number of edges 1
+number of edges 1
+degree of city8 0
+failure
+failure
+success
+failure
+number of edges 2
+success
+failure
+failure
+failure
+number of edges 2
+found city1
+failure
+failure
+number of nodes 6
+number of edges 2
+failure
+number of nodes 6
+city3 city6
+number of edges 2
+number of nodes 6
+city3 city6
+not found
+found city8
+failure
+failure
+failure
+found city3
+failure
+degree of city4 0
+number of nodes 6
+number of nodes 6
+failure
+failure
+direct distance city3 to city6 15.4
+number of nodes 6
+failure
+failure
+failure
+found city8
+degree of city8 0
+failure
+direct distance city5 to city3 12.6
+success
+success
+degree of city8 1
+degree of city8 1
+failure
+number of nodes 6
+success
+city3 city8
+success
+direct distance city8 to city3 33.6
+shortest distance city3 to city5 12.6
+success
+failure
+not found
+failure
+number of nodes 7
+number of nodes 7
+failure
+direct distance city3 to city6 28.7
+failure
+failure
+failure
+direct distance city5 to city3 12.6
+success
+failure
+failure
+success
+success
+failure
+failure
+failure
+failure
+found city2
+number of nodes 1
+failure
+failure
+failure
+success
+number of nodes 2
+failure
+number of nodes 2
+failure
+number of nodes 2
+success
+failure
+number of nodes 3
+success
+success
+failure
+degree of city1 1
+failure
+number of nodes 4
+failure
+failure
+number of nodes 4
+failure
+failure
+failure
+failure
+degree of city6 0
+success
+failure
+failure
+failure
+success
+found city1
+number of edges 2
+failure
+failure
+number of edges 2
+not found
+failure
+failure
+degree of city2 1
+found city2
+number of nodes 5
+found city6
+number of nodes 5
+failure
+failure
+number of edges 2
+not found
+failure
+failure
+number of nodes 5
+failure
+failure
+failure
+failure
+failure
+failure
+found city2
+city2 city6
+number of edges 2
+failure
+degree of city0 1
+failure
+failure
+failure
+degree of city5 0
+failure
+success
+failure
+number of edges 2
+found city2
+failure
+failure
+failure
+failure
+success
+not found
+success
+success
+failure
+failure
+failure
+failure
+failure
+failure
+number of edges 3
+number of nodes 7
+found city3
+success
+failure
+number of nodes 7
+failure
+failure
+found city3
+failure
+number of edges 3
+found city2
+failure
+failure
+found city3
+failure
+city2 city0
+failure
+not found
+shortest distance city0 to city2 25.2
+direct distance city0 to city2 25.2
+failure
+not found
+failure
+failure
+success
+not found
+failure
+failure
+degree of city2 3
+failure
+success
+failure
+number of edges 4
+failure
+number of nodes 7
+found city2
+failure
+degree of city2 3
+not found
+degree of city0 2
+degree of city0 2
+failure
+failure
+success
+failure
+direct distance city2 to city0 14.7
+failure
+found city1
+number of edges 4
+success
+direct distance city2 to city0 14.7
+failure
+number of edges 4
+degree of city5 1
+number of nodes 7
+found city0
+failure
+failure
+success
+failure
+failure
+success
+success
+success
+failure
+success
+failure
+found city3
+failure
+failure
+failure
+number of edges 1
+number of edges 1
+number of nodes 3
+not found
+success
+city1 city3
+success
+not found
+failure
+failure
+failure
+number of nodes 4
+degree of city8 0
+failure
+failure
+failure
+failure
+failure
+failure
+failure
+number of nodes 4
+failure
+success
+found city3
+failure
+failure
+failure
+not found
+failure
+number of nodes 5
+failure
+failure
+failure
+direct distance city1 to city2 7
+failure
+degree of city3 1
+number of nodes 5
+found city3
+failure
+number of edges 2
+degree of city1 2
+not found
+shortest distance city1 to city3 1.4
+success
+failure
+found city3
+degree of city1 2
+failure
+failure
+failure
+failure
+success
+number of nodes 7
+failure
+number of nodes 7
+found city3
+number of nodes 7
+number of nodes 7
+failure
+failure
+number of edges 2
+success
+number of nodes 8
+found city3
+number of edges 2
+success
+found city3
+failure
+failure
+number of edges 3
+failure
+number of edges 3
+degree of city1 3
+found city1
+success
+number of nodes 8
+number of edges 4
+number of nodes 8
+number of nodes 8
+degree of city6 1
+failure
+failure
+failure
+success
+number of nodes 8
+found city7
+number of nodes 8
+number of nodes 8
+number of nodes 8
+failure
+failure
+degree of city3 2
+failure
+failure
+number of nodes 8
+failure
+number of nodes 8
+number of nodes 8
+number of edges 5
+failure
+failure
+number of nodes 8
+city1 city7
+number of edges 5
+degree of city4 0
+city1 city3
+number of nodes 8
+number of edges 5
+found city6
+failure
+shortest distance city7 to city3 27.3
+success
+failure
+failure
+degree of city6 1
+found city8
+shortest distance city2 to city3 8.4
+degree of city7 1
+number of nodes 8
+success
+failure
+number of nodes 8
+failure
+degree of city2 2
+number of nodes 8
+degree of city9 1
+shortest distance city1 to city6 25.2
+failure
+shortest distance city2 to city1 7
+direct distance city2 to city1 7
+number of edges 7
+failure
+degree of city3 3
+direct distance city6 to city1 25.2
+number of edges 7
+found city8
+failure
+direct distance city3 to city2 18.2
+number of nodes 8
+success
+failure
+not found
+failure
+failure
+failure
+not found
+failure
+number of edges 0
+failure
+failure
+success
+number of edges 0
+found city1
+failure
+degree of city1 0
+not found
+number of nodes 1
+found city1
+number of edges 0
+success
+not found
+failure
+not found
+not found
+number of nodes 2
+failure
+failure
+failure
+failure
+degree of city1 0
+failure
+failure
+failure
+failure
+success
+success
+number of nodes 4
+failure
+failure
+number of edges 0
+found city4
+failure
+failure
+found city2
+failure
+failure
+degree of city1 0
+failure
+degree of city6 0
+number of edges 0
+degree of city1 0
+number of edges 0
+success
+city4 city2
+failure
+success
+failure
+failure
+success
+degree of city4 1
+failure
+success
+success
+number of nodes 6
+not found
+found city7
+failure
+number of edges 3
+found city1
+degree of city1 2
+failure
+failure
+failure
+failure
+failure
+degree of city1 2
+failure
+degree of city1 2
+number of edges 3
+success
+found city5
+not found
+number of edges 4
+failure
+failure
+number of nodes 6
+number of nodes 6
+number of edges 4
+success
+failure
+failure
+failure
+failure
+failure
+success
+failure
+failure
+number of nodes 7
+number of edges 4
+success
+shortest distance city7 to city5 23.1
+failure
+failure
+found city1
+shortest distance city1 to city5 0.7
+success
+failure
+failure
+not found
+success
+success
+found city1
+failure
+number of nodes 8
+failure
+found city2
+city7 city1
+failure
+failure
+city1 city6
+number of edges 6
+success
+failure
+shortest distance city5 to city1 10.5
+city5 city2
+degree of city8 1
+city8 city5 city1 city6
+shortest distance city5 to city2 9.8
+failure
+number of nodes 8
+shortest distance city2 to city6 38.5
+degree of city5 3
+number of nodes 8
+number of edges 7
+failure
+failure
+found city7
+failure
+failure
+failure
+found city4
+number of edges 7
+failure
+number of nodes 8
+number of nodes 8
+city4 city2 city5 city1 city7
+failure
+not found
+failure
+failure
+shortest distance city1 to city8 14
+success
+failure
+success
+found city5
+failure
+success
+failure
+number of edges 0
+failure
+failure
+number of nodes 2
+degree of city6 0
+failure
+found city5
+number of nodes 2
+failure
+failure
+failure
+found city5
+degree of city5 0
+failure
+success
+degree of city5 0
+success
+failure
+degree of city3 0
+failure
+failure
+number of edges 0
+failure
+not found
+success
+failure
+success
+failure
+degree of city3 1
+found city6
+number of edges 2
+success
+failure
+number of edges 2
+failure
+number of nodes 5
+failure
+number of nodes 5
+failure
+not found
+failure
+number of nodes 5
+failure
+failure
+failure
+failure
+failure
+success
+not found
+failure
+not found
+failure
+failure
+shortest distance city3 to city5 30.8
+failure
+number of edges 2
+number of edges 2
+success
+number of edges 3
+number of nodes 6
+failure
+number of nodes 6
+shortest distance city1 to city3 39.9
+shortest distance city1 to city6 39.9
+number of edges 3
+found city3
+number of edges 3
+failure
+failure
+number of nodes 6
+number of edges 3
+direct distance city3 to city5 30.8
+city3 city5 city1
+success
+success
+number of nodes 8
+failure
+number of nodes 8
+failure
+city6 city5
+number of edges 3
+number of nodes 8
+failure
+number of edges 3
+city6 city5 city3
+number of edges 3
+city3 city5 city6
+number of edges 3
+number of edges 3
+number of nodes 8
+failure
+failure
+number of nodes 8
+failure
+success
+city5 city1 city6
+failure
+failure
+failure
+shortest distance city3 to city6 44.8
+success
+failure
+number of edges 4
+not found
+success
+found city1
+success
+found city5
+failure
+degree of city1 3
+failure
+success
+number of nodes 9
+number of nodes 9
+failure
+shortest distance city3 to city6 61.6
+found city7
+number of edges 6
+direct distance city6 to city5 30.8
+degree of city3 1
+number of nodes 9
+shortest distance city3 to city1 39.9
+degree of city7 1
+number of nodes 9
+number of nodes 9
+number of nodes 9
+failure
+city3 city5
+degree of city5 3
+failure
+success
+degree of city0 1
+number of nodes 9
+number of nodes 9
+number of nodes 9
+number of edges 6
+failure
+degree of city3 1
+number of nodes 9
+number of edges 6
+failure
+number of edges 6
+shortest distance city3 to city0 54.6
+number of nodes 9
+number of edges 6
+success
+failure
+failure
+failure
+failure
+failure
+failure
+failure
+failure
+failure
+number of nodes 0
+failure
+success
+failure
+failure
+number of nodes 1
+success
+number of edges 0
+failure
+failure
+success
+number of nodes 3
+not found
+failure
+failure
+number of edges 0
+found city5
+success
+degree of city9 0
+failure
+failure
+failure
+number of edges 0
+degree of city9 0
+degree of city3 0
+failure
+failure
+failure
+failure
+success
+not found
+degree of city9 0
+degree of city4 0
+failure
+failure
+number of edges 0
+failure
+number of nodes 5
+failure
+failure
+failure
+success
+number of edges 1
+number of nodes 5
+number of nodes 5
+failure
+number of edges 1
+number of nodes 5
+failure
+failure
+number of edges 1
+failure
+failure
+failure
+failure
+number of nodes 5
+failure
+failure
+found city4
+failure
+failure
+failure
+number of nodes 5
+failure
+success
+number of nodes 6
+failure
+number of nodes 6
+failure
+failure
+failure
+number of nodes 6
+failure
+direct distance city4 to city1 13.3
+failure
+degree of city0 0
+number of edges 1
+failure
+success
+failure
+number of edges 1
+failure
+found city9
+failure
+failure
+number of edges 1
+success
+number of edges 2
+failure
+failure
+failure
+failure
+failure
+number of nodes 6
+degree of city3 1
+failure
+number of edges 2
+failure
+success
+number of edges 2
+degree of city4 1
+failure
+number of nodes 7
+direct distance city4 to city1 18.9
+failure
+failure
+degree of city3 1
+failure
+failure
+found city1
+direct distance city1 to city4 18.9
+number of edges 2
+found city3
+number of nodes 7
+failure
+failure
+failure
+failure
+failure
+failure
+found city1
+failure
+failure
+failure
+degree of city2 0
+number of nodes 7
+failure
+success
+failure
+failure
+failure
+degree of city3 1
+number of edges 2
+found city0
+failure
+number of edges 2
+degree of city1 1
+number of edges 2
+failure
+failure
+not found
+failure
 success
 number of nodes 0
+failure
+success
+degree of city1 0
+failure
+number of nodes 1
+failure
+success
+failure
+failure
+failure
+number of edges 0
+failure
+number of nodes 2
+number of nodes 2
+number of nodes 2
+failure
+number of edges 0
+failure
+number of nodes 2
+success
+failure
+degree of city1 1
+failure
+not found
+direct distance city1 to city8 6.3
+found city8
+failure
+not found
+failure
+shortest distance city1 to city8 6.3
+failure
+number of edges 1
+failure
+number of nodes 2
+degree of city1 1
+failure
+failure
+success
+number of nodes 3
+number of nodes 3
+number of nodes 3
+success
+number of nodes 4
+failure
+number of nodes 4
+number of nodes 4
+number of nodes 4
+failure
+success
+number of nodes 4
+direct distance city8 to city1 6.3
+success
+number of nodes 5
+city8 city1
+degree of city7 1
+failure
+found city8
+failure
+found city1
+failure
+failure
+found city9
+failure
+found city1
+failure
+success
+failure
+found city4
+failure
+shortest distance city8 to city1 6.3
+number of nodes 5
+number of edges 3
+failure
+direct distance city7 to city8 11.2
+degree of city9 0
+failure
+failure
+failure
+found city4
+failure
+success
+number of edges 3
+shortest distance city4 to city8 16.1
+found city0
+shortest distance city8 to city7 11.2
+failure
+number of edges 3
+city8 city7
+success
+number of nodes 6
+found city0
+failure
+city7 city8 city1
+failure
+failure
+success
+number of edges 4
+failure
+degree of city8 2
+failure
+degree of city0 0
+success
+failure
+shortest distance city7 to city8 11.2
+failure
+failure
+failure
+city4 city7
+failure
+degree of city1 1
+failure
+number of nodes 7
+number of nodes 7
+shortest distance city9 to city4 36.4
+failure
+success
+number of edges 5
+failure
+number of edges 5
+found city0
+success
+not found
+shortest distance city1 to city7 17.5
+success
+failure
+failure
+number of nodes 9
+number of edges 6
+number of nodes 9
+number of nodes 9
+city1 city8 city7 city4
+number of edges 6
+success
+city8 city7 city4
+shortest distance city1 to city0 9.1
+failure
+success
+found city2
+number of edges 8
+failure
+failure
+degree of city5 1
+not found
+number of nodes 9
+number of edges 8
+failure
+number of nodes 9
+number of nodes 9
+city0 city8
+found city2
+success
+failure
+number of nodes 0
+number of edges 0
+failure
+failure
+not found
+failure
+number of nodes 0
+success
+failure
+number of edges 0
+number of edges 0
+success
+failure
+degree of city7 0
+success
+degree of city7 0
+number of edges 0
+failure
+failure
+number of edges 0
+failure
+failure
+success
+failure
+found city8
+failure
+number of nodes 4
+failure
+number of edges 0
+success
+failure
+failure
+failure
+not found
+failure
+failure
+success
+success
+failure
+direct distance city6 to city9 19.6
+success
+failure
+degree of city6 1
+failure
+failure
+failure
+failure
+shortest distance city6 to city7 44.8
+failure
+number of nodes 5
+success
+success
+success
+failure
+failure
+number of edges 4
+failure
+number of edges 4
+number of nodes 5
+success
+failure
+degree of city6 2
+number of edges 4
+direct distance city7 to city9 11.9
+success
+city4 city9 city6
+failure
+failure
+city4 city9 city8
+failure
+degree of city7 1
+failure
+success
+found city9
+failure
+number of nodes 5
+not found
+city7 city9 city6
+shortest distance city4 to city8 25.2
+success
+failure
+degree of city5 0
+found city8
+success
+number of nodes 7
+failure
+found city4
+found city8
+city9 city4
+degree of city4 2
+success
+direct distance city9 to city4 14
+not found
+degree of city4 2
+degree of city6 2
+number of edges 6
+failure
+failure
+degree of city7 2
+found city7
+failure
+failure
+failure
+number of nodes 8
+number of edges 6
+number of edges 6
+failure
+number of edges 6
+success
+number of edges 7
+failure
+direct distance city7 to city4 24.5
+failure
+direct distance city9 to city6 19.6
+failure
+failure
+found city5
+failure
+degree of city0 0
+failure
+number of edges 7
+success
+failure
+direct distance city5 to city4 25.9
+city4 city9
+found city5
+number of nodes 8
+found city4
+failure
+failure
+number of nodes 8
+failure
+failure
+failure
+not found
+number of edges 8
+degree of city4 4
+success
+number of nodes 8
+number of edges 9
+failure
+success
+success
+degree of city9 4
+degree of city5 1
+city4 city8 city6
+number of edges 9
+not found
+success
+found city4
+success
+failure
+failure
+not found
+number of edges 0
+failure
+number of nodes 0
+failure
+failure
+failure
+failure
+failure
+not found
+number of edges 0
+failure
+failure
+not found
+number of nodes 0
+failure
+failure
+failure
+success
+failure
+failure
+failure
+number of edges 0
+not found
+failure
+number of nodes 1
+success
+success
+success
+failure
+number of nodes 3
+degree of city7 0
+failure
+success
+number of edges 1
+number of nodes 4
+success
+failure
+failure
+degree of city1 2
+failure
+number of nodes 4
+number of edges 2
+failure
+degree of city9 1
+number of edges 2
+number of edges 2
+failure
+success
+number of edges 2
+city9 city1
+shortest distance city9 to city1 23.8
+failure
+success
+degree of city3 0
+failure
+degree of city1 2
+failure
+number of nodes 6
+failure
+failure
+failure
+number of nodes 6
+failure
+degree of city1 2
+success
+success
+failure
+number of nodes 7
+not found
+failure
+number of edges 3
+failure
+success
+shortest distance city9 to city2 42.7
+degree of city1 3
+degree of city2 1
+failure
+failure
+number of edges 4
+found city2
+found city1
+not found
+degree of city0 0
+failure
+shortest distance city7 to city2 51.1
+number of edges 4
+success
+failure
+number of nodes 7
+shortest distance city9 to city7 10.5
+failure
+failure
+degree of city7 2
+number of edges 4
+failure
+found city7
+failure
+degree of city7 2
+degree of city9 2
+failure
+success
+failure
+success
+failure
+number of edges 5
+degree of city6 0
+found city6
+failure
+shortest distance city2 to city7 42
+failure
+failure
+shortest distance city7 to city2 42
+failure
+failure
+city7 city9
+number of nodes 8
+failure
+success
+degree of city0 1
+failure
+number of edges 5
+number of nodes 9
+found city8
+success
+number of edges 6
+number of nodes 9
+degree of city5 0
+failure
+not found
+failure
+city2 city1 city0 city7
+direct distance city7 to city1 32.2
+degree of city0 2
+number of edges 6
+failure
+success
+success
+degree of city1 4
+failure
+failure
+failure
+number of edges 8
+failure
+success
+failure
+number of nodes 9
+number of edges 9
+failure
+success
+failure
+failure
+number of nodes 0
+failure
+not found
+failure
+not found
+failure
+failure
+success
+failure
+number of edges 0
+number of edges 0
+failure
+success
+degree of city5 0
+found city5
+failure
+failure
+failure
+failure
+failure
+number of nodes 2
+number of nodes 2
+success
+not found
+success
+success
+number of edges 1
+success
+shortest distance city9 to city2 17.5
+number of edges 1
+number of nodes 5
+number of edges 1
+failure
+success
+failure
+failure
+failure
+failure
+failure
+degree of city5 0
+failure
+number of edges 1
+not found
+success
+failure
+success
+failure
+failure
+degree of city2 2
+failure
+direct distance city2 to city1 0.7
+failure
+success
+city9 city2
+success
+degree of city1 3
+degree of city5 1
+number of edges 4
+shortest distance city1 to city5 15.4
+failure
+failure
+failure
+shortest distance city2 to city1 0.7
+number of edges 4
+number of nodes 7
+success
+failure
+number of nodes 7
+failure
+failure
+failure
+number of edges 5
+number of edges 5
+failure
+found city1
+number of nodes 7
+success
+failure
+degree of city9 1
+failure
+city9 city2
+failure
+failure
+failure
+shortest distance city2 to city9 17.5
+degree of city2 2
+found city9
+number of edges 5
+direct distance city8 to city1 20.3
+success
+failure
+city2 city1
+failure
+not found
+failure
+number of edges 6
+number of nodes 7
+failure
+failure
+shortest distance city1 to city2 0.7
+failure
+failure
+success
+success
+failure
+number of edges 7
+shortest distance city6 to city2 11.2
+failure
+shortest distance city9 to city1 18.2
+degree of city4 0
+failure
+number of edges 7
+failure
+failure
+success
+not found
+failure
+failure
+not found
+success
+city2 city9
+found city2
+failure
+failure
+degree of city9 3
+failure
+found city2
+degree of city9 3
+failure
+number of nodes 9
+number of edges 8
+shortest distance city6 to city1 10.5
+city8 city1 city2
+success
+shortest distance city5 to city1 15.4
+failure
+failure
+found city8
+failure
+failure
+number of nodes 9
+number of nodes 9
+not found
+success
+failure
+success
+failure
+found city3
+number of nodes 9
+success
+failure
+failure
+failure
+number of edges 0
+failure
+failure
+number of nodes 0
+failure
+failure
+failure
+failure
+failure
+number of edges 0
+failure
+failure
+failure
+failure
+failure
+number of nodes 0
+failure
+failure
+failure
+not found
+number of edges 0
+number of nodes 0
+failure
+failure
+not found
+number of edges 0
+failure
+failure
+failure
+failure
+success
+failure
+number of nodes 1
+failure
+number of edges 0
+number of nodes 1
+failure
+success
+failure
+failure
+failure
+number of edges 0
+failure
+failure
+failure
+degree of city9 0
+failure
+number of nodes 2
+failure
+number of edges 0
+failure
+failure
+found city3
+failure
+degree of city3 0
+number of nodes 2
+failure
+success
+not found
+number of nodes 3
+failure
+failure
+failure
+number of nodes 3
+not found
+failure
+failure
+found city1
+number of nodes 3
+found city3
+number of edges 0
+failure
+failure
+number of edges 0
+failure
+failure
+failure
+success
+degree of city3 0
+failure
+success
+failure
+failure
+failure
+shortest distance city9 to city1 29.4
+success
+success
+degree of city3 1
+number of nodes 5
+failure
+not found
+failure
+failure
+number of edges 2
+success
+failure
+degree of city9 2
+success
+success
+number of edges 4
+failure
+failure
+number of nodes 5
+number of edges 4
+city3 city9
+failure
+degree of city3 2
+number of nodes 5
+not found
+success
+failure
+failure
+found city8
+failure
+failure
+shortest distance city9 to city3 13.3
+direct distance city1 to city0 14
+number of nodes 5
+found city1
+failure
+failure
+number of edges 4
+number of nodes 5
+failure
+number of nodes 5
+number of edges 4
+number of nodes 5
+city0 city3
+number of edges 4
+number of edges 4
+number of edges 4
+success
+number of edges 4
+failure
+success
+success
+number of nodes 7
+failure
+degree of city9 2
+city9 city3 city0
+not found
+number of edges 4
+number of edges 4
+failure
+failure
+success
+failure
+success
+success
+not found
+number of nodes 0
+success
+failure
+degree of city9 0
+found city9
+number of nodes 1
+failure
+found city9
+found city9
+number of edges 0
+failure
+success
+success
+number of nodes 2
+number of nodes 2
+failure
+failure
+number of edges 1
+degree of city9 1
+shortest distance city9 to city8 24.5
+success
+number of edges 1
+failure
+shortest distance city8 to city9 24.5
+failure
+found city8
+degree of city8 1
+failure
+number of edges 1
+shortest distance city8 to city9 24.5
+failure
+failure
+number of edges 1
+number of nodes 3
+number of edges 1
+number of edges 1
+success
+found city8
+failure
+number of edges 2
+city9 city6
+city6 city9
+not found
+success
+failure
+shortest distance city9 to city6 21.7
+number of nodes 4
+failure
+not found
+failure
+failure
+failure
+failure
+failure
+failure
+found city9
+success
+failure
+not found
+failure
+failure
+degree of city2 0
+failure
+number of nodes 5
+failure
+success
+failure
+failure
+city8 city1
+failure
+city6 city9 city8
+success
+number of nodes 5
+number of edges 4
+failure
+success
+degree of city1 1
+not found
+failure
+shortest distance city2 to city6 30.1
+found city6
+degree of city2 1
+number of edges 5
+failure
+number of edges 5
+failure
+degree of city6 2
+number of edges 5
+failure
+city9 city6
+number of nodes 5
+found city6
+failure
+failure
+number of nodes 5
+number of nodes 5
+failure
+success
+found city1
+city6 city8 city2
+failure
+city6 city8
+number of nodes 6
+failure
+failure
+degree of city9 2
+found city1
+found city9
+not found
+failure
+failure
+failure
+failure
+city1 city8 city2
+failure
+failure
+found city1
+failure
+failure
+direct distance city6 to city9 21.7
+success
+success
+failure
+failure
+success
+city1 city8 city9
+failure
+failure
+number of nodes 8
+failure
+failure
+number of edges 6
+degree of city8 4
+number of edges 6
+failure
+city1 city8 city6
+failure
+failure
+success
+found city5
+failure
+failure
+failure
+shortest distance city1 to city6 37.1
+found city1
+found city2
+not found
+failure
+failure
+degree of city8 4
+success
