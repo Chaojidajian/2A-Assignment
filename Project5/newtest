@@ -1,0 +1,7752 @@
+setd city7;city5;30.1
+shortest_d city12;city9
+setd city7;city0;6.3
+graph_edges
+graph_nodes
+d city2;city6
+print_path city7;city9
+print_path city2;city3
+setd city9;city2;15.4
+degree city7
+setd city1;city2;20.3
+i city1
+s city1
+graph_edges
+s city10
+s city1
+print_path city1;city1
+graph_edges
+graph_nodes
+graph_nodes
+d city1;city1
+s city1
+degree city17
+i city5
+i city5
+s city5
+graph_edges
+d city5;city1
+d city5;city1
+d city5;city5
+d city5;city1
+setd city5;city1;30.8
+s city10
+s city7
+degree city2
+d city5;city5
+shortest_d city5;city5
+d city5;city5
+graph_nodes
+d city5;city1
+s city5
+i city7
+degree city17
+degree city5
+graph_nodes
+s city4
+setd city1;city5;2.1
+s city1
+shortest_d city1;city5
+d city5;city5
+s city1
+s city8
+print_path city5;city5
+setd city5;city1;16.8
+shortest_d city1;city7
+i city7
+graph_nodes
+i city6
+graph_nodes
+s city8
+graph_edges
+s city1
+print_path city6;city5
+degree city18
+s city7
+d city5;city7
+shortest_d city6;city5
+graph_edges
+shortest_d city7;city1
+i city9
+i city7
+i city4
+degree city5
+print_path city5;city5
+setd city5;city5;2.8
+shortest_d city5;city9
+print_path city7;city1
+graph_nodes
+s city2
+degree city3
+graph_nodes
+graph_edges
+graph_nodes
+graph_nodes
+print_path city9;city7
+graph_nodes
+d city6;city7
+print_path city7;city9
+print_path city5;city9
+s city9
+d city1;city7
+print_path city9;city5
+s city13
+print_path city10;city13
+s city7
+shortest_d city5;city7
+degree city13
+i city0
+shortest_d city9;city7
+d city7;city9
+d city7;city6
+d city4;city7
+s city5
+degree city9
+print_path city7;city9
+d city5;city5
+shortest_d city0;city5
+s city11
+s city6
+d city1;city7
+graph_nodes
+i city4
+graph_nodes
+graph_edges
+print_path city7;city5
+shortest_d city5;city6
+graph_nodes
+i city2
+shortest_d city5;city5
+graph_edges
+s city1
+s city0
+i city6
+degree city14
+setd city4;city2;18.2
+d city4;city7
+print_path city13;city5
+graph_edges
+graph_nodes
+s city1
+s city4
+graph_nodes
+shortest_d city6;city4
+shortest_d city2;city7
+shortest_d city8;city18
+i city6
+degree city8
+d city13;city8
+degree city7
+degree city7
+graph_edges
+degree city2
+s city6
+graph_nodes
+d city7;city4
+i city5
+print_path city15;city8
+d city5;city1
+print_path city1;city5
+print_path city10;city8
+shortest_d city5;city6
+clear
+shortest_d city9;city2
+degree city0
+print_path city8;city9
+graph_edges
+graph_edges
+graph_edges
+shortest_d city5;city7
+degree city9
+degree city9
+s city17
+setd city11;city9;27.3
+graph_edges
+shortest_d city5;city3
+degree city0
+degree city1
+d city2;city1
+i city0
+i city3
+graph_edges
+degree city0
+d city3;city3
+d city0;city0
+s city8
+i city8
+graph_edges
+graph_nodes
+graph_nodes
+d city14;city16
+s city9
+i city0
+s city0
+degree city13
+shortest_d city0;city8
+d city0;city8
+i city9
+graph_edges
+shortest_d city9;city0
+s city0
+i city8
+shortest_d city9;city9
+s city6
+shortest_d city8;city0
+shortest_d city18;city5
+degree city18
+print_path city0;city3
+graph_nodes
+i city7
+graph_nodes
+i city9
+i city9
+graph_edges
+shortest_d city0;city0
+s city1
+i city8
+shortest_d city9;city8
+graph_edges
+shortest_d city9;city0
+graph_nodes
+d city8;city0
+print_path city9;city8
+graph_edges
+s city11
+shortest_d city3;city3
+print_path city9;city0
+print_path city3;city7
+setd city3;city8;32.2
+graph_nodes
+s city9
+i city0
+i city2
+degree city5
+graph_edges
+degree city3
+print_path city8;city9
+d city2;city0
+s city7
+s city8
+s city5
+s city15
+s city9
+setd city8;city8;22.4
+s city8
+s city14
+shortest_d city7;city8
+print_path city8;city8
+print_path city7;city2
+s city10
+print_path city17;city6
+s city11
+setd city3;city9;17.5
+shortest_d city7;city3
+i city3
+s city9
+i city4
+graph_edges
+d city0;city8
+degree city2
+s city0
+print_path city3;city8
+print_path city9;city0
+s city8
+i city1
+setd city2;city8;14
+i city1
+d city3;city2
+i city0
+graph_edges
+graph_nodes
+graph_edges
+i city0
+degree city18
+setd city0;city7;21
+setd city4;city0;32.9
+graph_edges
+degree city12
+setd city8;city1;25.2
+s city19
+graph_edges
+i city3
+print_path city4;city7
+setd city14;city15;14.7
+print_path city7;city11
+print_path city1;city1
+setd city13;city7;6.3
+degree city3
+degree city0
+d city0;city0
+d city7;city1
+d city8;city1
+shortest_d city8;city8
+d city8;city9
+graph_edges
+graph_nodes
+degree city2
+shortest_d city3;city9
+print_path city0;city3
+degree city1
+print_path city8;city9
+d city3;city3
+graph_nodes
+degree city9
+print_path city3;city2
+graph_nodes
+degree city0
+setd city0;city9;23.8
+degree city0
+shortest_d city3;city9
+d city8;city8
+graph_nodes
+graph_edges
+graph_nodes
+clear
+d city2;city1
+degree city0
+d city5;city6
+s city0
+degree city16
+graph_nodes
+graph_nodes
+d city8;city9
+graph_edges
+i city6
+i city8
+s city8
+d city10;city15
+graph_nodes
+s city10
+degree city8
+graph_edges
+i city0
+d city6;city6
+print_path city6;city6
+print_path city6;city0
+degree city0
+d city6;city8
+setd city0;city6;34.3
+degree city8
+shortest_d city8;city6
+graph_edges
+graph_edges
+i city6
+s city6
+s city6
+s city17
+setd city0;city8;0
+s city3
+graph_nodes
+setd city8;city8;23.8
+graph_nodes
+graph_nodes
+d city8;city8
+print_path city0;city6
+graph_nodes
+graph_nodes
+d city0;city0
+print_path city0;city8
+degree city6
+i city0
+setd city0;city0;25.9
+s city8
+print_path city8;city6
+graph_edges
+i city2
+shortest_d city2;city8
+graph_edges
+print_path city0;city0
+s city7
+i city9
+shortest_d city6;city6
+degree city6
+graph_edges
+graph_edges
+setd city6;city0;7
+graph_edges
+shortest_d city0;city6
+s city2
+setd city9;city8;30.1
+d city0;city9
+shortest_d city9;city0
+i city7
+graph_edges
+graph_edges
+s city6
+graph_edges
+graph_nodes
+graph_nodes
+print_path city2;city7
+graph_nodes
+degree city17
+graph_nodes
+degree city8
+s city0
+s city15
+setd city4;city19;13.3
+graph_edges
+graph_nodes
+d city7;city6
+graph_nodes
+s city3
+degree city1
+d city6;city7
+shortest_d city8;city9
+s city2
+print_path city9;city6
+graph_edges
+s city6
+graph_nodes
+print_path city2;city2
+degree city18
+i city3
+graph_edges
+graph_edges
+i city3
+setd city5;city10;20.3
+graph_edges
+graph_nodes
+graph_nodes
+print_path city3;city6
+print_path city6;city6
+s city3
+setd city6;city3;4.9
+print_path city6;city6
+print_path city6;city8
+d city8;city7
+d city6;city6
+d city4;city8
+d city9;city12
+print_path city13;city10
+print_path city7;city3
+graph_edges
+s city11
+print_path city2;city10
+graph_nodes
+graph_nodes
+graph_edges
+setd city8;city8;23.8
+degree city0
+i city3
+print_path city3;city6
+degree city6
+degree city9
+print_path city3;city7
+shortest_d city3;city9
+shortest_d city9;city8
+d city6;city6
+shortest_d city7;city8
+degree city0
+print_path city0;city6
+setd city12;city1;15.4
+setd city3;city0;19.6
+print_path city9;city9
+s city7
+d city7;city6
+s city0
+graph_edges
+degree city7
+graph_nodes
+graph_edges
+graph_nodes
+graph_edges
+degree city6
+d city3;city9
+print_path city0;city7
+clear
+d city5;city6
+print_path city5;city5
+graph_edges
+graph_edges
+print_path city9;city1
+graph_edges
+s city0
+graph_nodes
+print_path city1;city9
+i city6
+d city6;city6
+s city13
+d city6;city6
+shortest_d city1;city2
+s city3
+setd city19;city2;9.1
+shortest_d city6;city6
+s city6
+setd city6;city6;14.7
+i city6
+print_path city6;city6
+s city6
+i city9
+s city6
+setd city9;city6;27.3
+shortest_d city6;city6
+shortest_d city13;city17
+setd city6;city6;22.4
+graph_edges
+shortest_d city6;city9
+i city8
+print_path city6;city9
+d city6;city6
+d city6;city6
+graph_edges
+shortest_d city8;city8
+s city6
+graph_nodes
+i city1
+graph_edges
+degree city1
+shortest_d city6;city9
+s city11
+print_path city1;city6
+graph_edges
+degree city13
+graph_edges
+degree city19
+graph_edges
+setd city8;city7;27.3
+i city8
+s city0
+graph_edges
+setd city9;city1;9.1
+d city9;city6
+shortest_d city6;city18
+i city2
+graph_nodes
+graph_nodes
+degree city8
+graph_nodes
+print_path city6;city12
+i city7
+print_path city8;city1
+s city11
+shortest_d city6;city9
+graph_edges
+graph_nodes
+degree city8
+s city8
+shortest_d city8;city6
+i city4
+s city0
+print_path city9;city8
+print_path city2;city6
+graph_edges
+graph_edges
+d city4;city9
+setd city8;city6;13.3
+degree city6
+setd city6;city1;18.2
+degree city6
+shortest_d city1;city6
+d city6;city8
+graph_edges
+graph_edges
+print_path city0;city0
+setd city7;city9;34.3
+print_path city7;city4
+shortest_d city4;city6
+d city1;city8
+setd city7;city4;23.8
+s city2
+d city8;city8
+degree city7
+degree city4
+s city9
+shortest_d city7;city2
+degree city8
+d city9;city7
+shortest_d city2;city4
+setd city14;city12;28
+d city6;city1
+shortest_d city6;city1
+d city1;city8
+print_path city6;city9
+setd city2;city9;21.7
+s city4
+shortest_d city6;city8
+shortest_d city6;city8
+graph_nodes
+setd city6;city1;4.9
+graph_nodes
+print_path city6;city9
+print_path city9;city6
+i city4
+d city7;city7
+print_path city1;city8
+graph_edges
+print_path city9;city4
+degree city6
+print_path city4;city4
+shortest_d city6;city4
+degree city19
+degree city2
+setd city9;city6;4.9
+graph_nodes
+d city6;city6
+setd city8;city7;19.6
+graph_edges
+s city7
+degree city8
+graph_nodes
+setd city2;city7;16.1
+print_path city11;city15
+d city8;city2
+shortest_d city4;city6
+graph_edges
+degree city8
+print_path city1;city8
+i city1
+degree city2
+shortest_d city6;city6
+shortest_d city4;city4
+print_path city9;city4
+graph_nodes
+print_path city4;city8
+d city8;city4
+print_path city8;city8
+s city3
+graph_edges
+clear
+print_path city0;city2
+shortest_d city4;city7
+s city5
+i city7
+graph_edges
+graph_nodes
+setd city7;city7;16.1
+graph_nodes
+graph_edges
+graph_nodes
+degree city7
+print_path city7;city7
+d city7;city7
+graph_nodes
+s city7
+s city7
+print_path city7;city7
+graph_edges
+d city7;city7
+s city7
+d city5;city0
+setd city7;city7;7.7
+degree city7
+d city18;city8
+graph_nodes
+setd city5;city12;21
+d city7;city7
+s city7
+setd city7;city7;28
+graph_edges
+s city7
+print_path city7;city7
+graph_nodes
+degree city7
+graph_nodes
+print_path city7;city7
+graph_edges
+shortest_d city7;city7
+i city0
+degree city7
+graph_edges
+degree city0
+i city7
+setd city0;city0;32.2
+degree city7
+i city1
+graph_nodes
+shortest_d city7;city7
+shortest_d city7;city0
+d city0;city0
+setd city7;city0;9.8
+degree city1
+s city15
+d city0;city1
+graph_nodes
+print_path city7;city7
+degree city7
+setd city0;city0;7.7
+shortest_d city7;city7
+d city1;city7
+shortest_d city1;city7
+print_path city1;city0
+print_path city18;city5
+shortest_d city7;city0
+print_path city0;city7
+s city1
+setd city0;city19;14
+print_path city7;city7
+d city7;city7
+graph_nodes
+print_path city7;city1
+d city7;city7
+graph_edges
+setd city7;city7;21.7
+i city8
+s city5
+graph_nodes
+shortest_d city1;city16
+shortest_d city15;city3
+i city1
+graph_edges
+d city1;city7
+shortest_d city8;city8
+graph_nodes
+d city7;city8
+i city2
+setd city7;city0;18.9
+graph_nodes
+graph_nodes
+graph_nodes
+s city0
+d city7;city9
+d city8;city7
+print_path city7;city1
+s city2
+s city19
+s city4
+degree city7
+d city8;city7
+graph_nodes
+setd city0;city0;0
+setd city1;city1;20.3
+degree city4
+graph_nodes
+setd city17;city5;4.9
+graph_edges
+graph_nodes
+shortest_d city2;city1
+d city2;city1
+setd city0;city7;0.7
+shortest_d city1;city7
+print_path city8;city8
+degree city10
+s city7
+degree city1
+shortest_d city7;city7
+s city1
+print_path city8;city7
+graph_edges
+graph_edges
+i city2
+shortest_d city7;city2
+graph_edges
+i city9
+d city0;city9
+d city14;city9
+print_path city2;city7
+i city5
+graph_nodes
+i city7
+graph_nodes
+degree city4
+print_path city0;city9
+graph_nodes
+degree city1
+graph_nodes
+shortest_d city1;city9
+setd city9;city8;18.2
+d city9;city7
+print_path city9;city5
+graph_edges
+s city1
+print_path city7;city7
+degree city2
+s city8
+i city5
+graph_edges
+d city10;city11
+setd city5;city1;33.6
+degree city7
+i city9
+clear
+graph_edges
+i city4
+s city4
+setd city4;city4;3.5
+degree city2
+setd city4;city4;25.2
+setd city4;city4;32.9
+graph_nodes
+setd city4;city4;17.5
+graph_nodes
+graph_nodes
+graph_nodes
+graph_edges
+graph_edges
+s city4
+graph_nodes
+graph_nodes
+i city3
+graph_edges
+setd city4;city4;30.8
+s city12
+print_path city4;city3
+setd city4;city3;32.9
+graph_nodes
+s city4
+shortest_d city4;city3
+graph_nodes
+s city15
+print_path city4;city8
+degree city4
+d city4;city4
+shortest_d city3;city3
+degree city10
+graph_nodes
+d city4;city3
+d city3;city4
+s city4
+graph_nodes
+setd city4;city3;16.1
+s city1
+setd city3;city3;20.3
+graph_nodes
+d city4;city3
+i city7
+graph_nodes
+shortest_d city7;city7
+i city4
+graph_edges
+s city4
+degree city7
+s city4
+setd city3;city4;30.8
+i city2
+print_path city2;city0
+print_path city9;city8
+graph_edges
+s city17
+i city1
+graph_edges
+s city14
+degree city4
+d city3;city7
+graph_edges
+s city3
+s city4
+shortest_d city4;city3
+shortest_d city9;city8
+shortest_d city3;city1
+setd city3;city3;25.9
+graph_edges
+d city4;city2
+graph_edges
+graph_edges
+setd city3;city4;30.1
+s city4
+degree city4
+print_path city1;city3
+i city3
+degree city2
+s city15
+s city2
+i city3
+graph_nodes
+degree city14
+s city2
+setd city4;city15;26.6
+s city12
+graph_nodes
+i city5
+s city2
+print_path city2;city3
+i city5
+d city2;city2
+graph_nodes
+print_path city10;city18
+setd city19;city8;12.6
+degree city2
+shortest_d city2;city5
+degree city1
+graph_edges
+d city5;city3
+i city5
+shortest_d city4;city3
+graph_nodes
+graph_nodes
+graph_edges
+s city4
+setd city3;city5;27.3
+print_path city5;city3
+i city0
+degree city3
+print_path city12;city18
+graph_nodes
+d city4;city3
+print_path city5;city3
+setd city9;city0;31.5
+degree city0
+d city5;city3
+d city2;city4
+setd city4;city2;30.8
+setd city4;city4;32.9
+shortest_d city4;city1
+s city3
+graph_nodes
+degree city4
+degree city3
+i city8
+graph_edges
+shortest_d city3;city3
+d city0;city3
+graph_nodes
+s city3
+degree city5
+s city4
+s city2
+graph_nodes
+s city1
+degree city2
+graph_nodes
+graph_nodes
+d city5;city1
+graph_edges
+print_path city8;city8
+i city6
+degree city19
+degree city2
+graph_nodes
+d city7;city5
+print_path city2;city7
+graph_edges
+s city5
+clear
+d city8;city8
+graph_nodes
+s city1
+d city0;city4
+s city14
+graph_nodes
+graph_edges
+degree city15
+graph_edges
+s city0
+graph_nodes
+print_path city4;city3
+print_path city7;city3
+shortest_d city3;city0
+s city6
+i city7
+i city9
+s city9
+shortest_d city9;city9
+d city7;city7
+print_path city9;city9
+graph_edges
+d city7;city7
+graph_edges
+setd city9;city7;6.3
+i city5
+degree city5
+graph_nodes
+shortest_d city7;city7
+setd city7;city7;7
+d city5;city9
+setd city5;city5;1.4
+graph_nodes
+graph_nodes
+print_path city9;city9
+setd city7;city5;30.8
+s city5
+shortest_d city6;city8
+graph_nodes
+shortest_d city5;city5
+s city9
+degree city9
+i city2
+d city2;city5
+i city0
+setd city5;city2;14.7
+shortest_d city0;city2
+d city2;city5
+graph_edges
+i city7
+graph_edges
+s city4
+graph_nodes
+i city6
+graph_nodes
+d city0;city6
+d city7;city7
+shortest_d city7;city0
+d city6;city5
+d city2;city10
+shortest_d city19;city9
+setd city0;city6;33.6
+shortest_d city9;city7
+degree city2
+shortest_d city9;city6
+setd city5;city7;6.3
+graph_edges
+d city5;city2
+s city13
+shortest_d city9;city9
+shortest_d city7;city7
+d city8;city16
+graph_edges
+s city7
+degree city4
+d city5;city7
+print_path city9;city7
+i city7
+s city17
+print_path city7;city7
+d city5;city6
+degree city7
+d city7;city7
+shortest_d city7;city7
+setd city7;city6;25.9
+shortest_d city7;city5
+s city3
+setd city9;city0;16.8
+setd city7;city2;5.6
+graph_nodes
+s city9
+setd city0;city2;5.6
+i city5
+s city7
+i city8
+s city7
+print_path city6;city9
+s city18
+graph_nodes
+shortest_d city7;city0
+degree city7
+degree city9
+s city7
+setd city5;city5;2.1
+setd city7;city5;2.8
+i city4
+graph_nodes
+i city8
+shortest_d city5;city7
+shortest_d city5;city5
+s city2
+i city6
+degree city5
+graph_nodes
+setd city8;city7;2.1
+degree city5
+graph_edges
+graph_nodes
+print_path city5;city8
+graph_edges
+s city3
+shortest_d city8;city5
+shortest_d city6;city2
+print_path city5;city7
+shortest_d city18;city17
+shortest_d city15;city0
+s city5
+print_path city6;city8
+graph_edges
+i city4
+s city13
+graph_edges
+graph_edges
+d city8;city6
+graph_edges
+shortest_d city4;city6
+degree city11
+s city19
+s city19
+shortest_d city6;city14
+shortest_d city8;city5
+shortest_d city15;city16
+degree city6
+graph_edges
+i city8
+degree city18
+graph_nodes
+setd city7;city7;4.9
+print_path city5;city5
+print_path city7;city5
+graph_nodes
+clear
+setd city2;city5;4.9
+degree city7
+setd city6;city9;27.3
+s city7
+d city5;city2
+i city4
+shortest_d city4;city4
+print_path city4;city4
+degree city8
+shortest_d city4;city4
+s city12
+shortest_d city4;city4
+shortest_d city4;city4
+s city4
+setd city4;city4;18.2
+setd city4;city4;17.5
+graph_edges
+shortest_d city4;city4
+setd city4;city4;21.7
+s city17
+d city4;city4
+graph_nodes
+d city4;city4
+shortest_d city4;city4
+s city4
+i city7
+s city11
+s city7
+degree city7
+s city14
+setd city4;city7;28.7
+d city18;city2
+graph_nodes
+s city4
+shortest_d city4;city7
+graph_edges
+s city5
+shortest_d city4;city4
+setd city7;city7;26.6
+i city1
+degree city10
+graph_nodes
+print_path city4;city1
+setd city1;city4;11.2
+shortest_d city4;city7
+graph_edges
+s city18
+shortest_d city7;city1
+degree city2
+graph_edges
+degree city5
+degree city6
+degree city1
+i city3
+i city1
+shortest_d city16;city11
+i city1
+d city1;city1
+print_path city3;city1
+degree city0
+i city1
+setd city1;city7;27.3
+i city0
+shortest_d city0;city1
+degree city1
+degree city1
+d city9;city9
+print_path city1;city4
+d city7;city4
+graph_nodes
+i city1
+print_path city1;city7
+d city4;city1
+degree city7
+shortest_d city1;city7
+s city0
+s city7
+setd city1;city0;33.6
+print_path city1;city0
+graph_nodes
+graph_nodes
+graph_nodes
+graph_nodes
+graph_edges
+i city0
+graph_edges
+graph_edges
+setd city1;city3;12.6
+graph_edges
+print_path city6;city1
+graph_edges
+shortest_d city0;city1
+graph_nodes
+s city4
+degree city4
+graph_edges
+print_path city1;city1
+graph_nodes
+shortest_d city1;city1
+print_path city0;city7
+d city0;city1
+graph_nodes
+print_path city1;city7
+shortest_d city1;city3
+s city1
+s city10
+graph_edges
+print_path city1;city1
+degree city8
+i city8
+print_path city4;city1
+print_path city17;city11
+s city7
+shortest_d city0;city1
+i city0
+shortest_d city0;city3
+d city0;city9
+print_path city7;city0
+shortest_d city1;city1
+degree city0
+setd city12;city19;8.4
+degree city6
+print_path city1;city0
+d city7;city3
+shortest_d city0;city1
+shortest_d city4;city1
+degree city16
+i city9
+s city11
+d city0;city1
+s city5
+setd city0;city8;27.3
+shortest_d city0;city7
+d city1;city1
+graph_nodes
+s city18
+print_path city7;city9
+degree city17
+i city1
+i city0
+i city6
+d city1;city1
+print_path city1;city1
+d city1;city1
+shortest_d city1;city0
+setd city1;city0;9.8
+graph_edges
+degree city1
+setd city0;city0;21
+print_path city8;city0
+setd city1;city1;27.3
+clear
+print_path city6;city2
+degree city4
+s city9
+i city0
+graph_nodes
+graph_edges
+shortest_d city0;city0
+degree city0
+graph_nodes
+shortest_d city0;city0
+shortest_d city11;city18
+d city10;city7
+shortest_d city0;city0
+d city0;city0
+setd city0;city0;9.1
+print_path city3;city17
+d city0;city0
+d city0;city0
+graph_edges
+print_path city0;city0
+d city5;city7
+graph_nodes
+s city0
+shortest_d city15;city3
+d city0;city0
+d city0;city0
+print_path city0;city0
+i city5
+print_path city5;city5
+i city4
+print_path city1;city1
+graph_edges
+print_path city0;city4
+setd city0;city4;0.7
+d city4;city5
+graph_nodes
+i city9
+shortest_d city5;city9
+i city5
+s city10
+degree city0
+s city9
+s city10
+setd city9;city9;4.9
+graph_edges
+print_path city5;city5
+s city9
+i city7
+print_path city5;city4
+i city7
+print_path city0;city9
+d city4;city7
+setd city5;city7;9.8
+i city5
+s city16
+shortest_d city9;city7
+graph_edges
+d city9;city7
+print_path city9;city9
+d city5;city4
+setd city7;city5;32.9
+degree city5
+i city7
+degree city0
+shortest_d city7;city5
+setd city0;city4;18.9
+graph_nodes
+i city4
+shortest_d city7;city7
+i city1
+d city9;city9
+graph_nodes
+degree city1
+setd city0;city0;22.4
+setd city5;city1;8.4
+shortest_d city5;city4
+d city5;city5
+graph_edges
+graph_nodes
+setd city9;city5;21.7
+print_path city1;city5
+print_path city4;city7
+i city5
+s city5
+shortest_d city5;city5
+d city7;city5
+s city10
+shortest_d city7;city4
+setd city10;city19;26.6
+setd city5;city4;19.6
+print_path city7;city7
+s city5
+graph_nodes
+graph_edges
+print_path city5;city4
+i city9
+print_path city4;city5
+print_path city7;city5
+d city7;city7
+graph_edges
+d city4;city4
+graph_nodes
+degree city7
+shortest_d city5;city7
+graph_nodes
+i city1
+graph_nodes
+shortest_d city5;city5
+degree city5
+shortest_d city11;city5
+s city9
+graph_edges
+graph_nodes
+d city9;city1
+degree city14
+s city7
+graph_nodes
+setd city4;city5;23.1
+s city7
+degree city12
+print_path city15;city15
+s city10
+shortest_d city5;city9
+d city4;city7
+shortest_d city5;city16
+d city5;city7
+d city4;city4
+setd city4;city9;28.7
+shortest_d city1;city1
+graph_edges
+print_path city5;city9
+graph_edges
+setd city9;city5;32.9
+print_path city1;city5
+shortest_d city9;city5
+d city1;city5
+graph_nodes
+setd city4;city7;8.4
+shortest_d city0;city5
+graph_edges
+setd city9;city5;29.4
+d city9;city5
+graph_nodes
+setd city9;city1;28
+degree city7
+d city1;city5
+shortest_d city1;city5
+shortest_d city5;city5
+setd city1;city7;21
+graph_nodes
+degree city1
+clear
+shortest_d city6;city5
+print_path city7;city0
+degree city7
+s city4
+print_path city17;city13
+d city1;city1
+i city9
+graph_nodes
+print_path city9;city9
+degree city8
+setd city5;city17;13.3
+s city4
+s city9
+setd city9;city9;6.3
+setd city9;city9;0.7
+i city7
+shortest_d city9;city9
+setd city7;city9;2.8
+graph_edges
+graph_edges
+degree city9
+s city9
+graph_edges
+graph_nodes
+shortest_d city7;city7
+print_path city9;city7
+degree city9
+d city9;city7
+graph_edges
+print_path city15;city2
+d city9;city7
+s city9
+i city8
+graph_nodes
+degree city8
+setd city18;city1;2.8
+d city7;city19
+shortest_d city14;city14
+shortest_d city7;city9
+graph_edges
+s city7
+setd city9;city9;7
+print_path city7;city7
+graph_nodes
+graph_edges
+degree city9
+print_path city18;city13
+graph_nodes
+i city5
+shortest_d city5;city7
+s city9
+graph_nodes
+degree city6
+graph_edges
+degree city5
+s city3
+print_path city7;city7
+graph_edges
+print_path city9;city8
+d city5;city7
+s city9
+setd city7;city9;18.9
+graph_nodes
+s city3
+graph_edges
+graph_edges
+graph_edges
+print_path city8;city7
+shortest_d city8;city8
+graph_nodes
+graph_nodes
+s city1
+d city5;city9
+print_path city9;city8
+graph_edges
+graph_edges
+s city11
+degree city9
+print_path city8;city9
+graph_nodes
+degree city15
+print_path city8;city8
+degree city9
+i city9
+graph_edges
+print_path city5;city9
+degree city9
+degree city5
+d city5;city8
+print_path city9;city5
+i city3
+graph_edges
+d city17;city13
+s city7
+i city6
+degree city16
+setd city6;city5;7
+d city8;city9
+shortest_d city6;city8
+graph_edges
+setd city3;city3;32.2
+shortest_d city7;city9
+print_path city8;city13
+shortest_d city5;city3
+degree city11
+d city3;city3
+graph_edges
+shortest_d city3;city5
+shortest_d city3;city3
+setd city3;city5;0
+d city5;city6
+setd city6;city16;5.6
+i city7
+print_path city9;city5
+print_path city9;city7
+graph_nodes
+degree city18
+print_path city18;city18
+graph_nodes
+s city18
+shortest_d city3;city9
+shortest_d city6;city10
+i city0
+graph_nodes
+print_path city5;city8
+s city9
+shortest_d city7;city3
+s city7
+shortest_d city5;city16
+graph_nodes
+setd city7;city6;5.6
+shortest_d city7;city6
+print_path city0;city6
+i city3
+print_path city9;city3
+shortest_d city6;city0
+setd city0;city3;29.4
+shortest_d city7;city3
+setd city6;city3;28.7
+setd city9;city18;7.7
+d city5;city9
+setd city6;city3;27.3
+d city7;city0
+graph_nodes
+i city3
+graph_edges
+d city19;city12
+s city9
+shortest_d city15;city3
+print_path city14;city12
+graph_nodes
+clear
+setd city10;city14;7
+i city3
+d city3;city3
+degree city3
+d city12;city11
+graph_nodes
+degree city9
+setd city3;city3;31.5
+degree city3
+shortest_d city3;city3
+shortest_d city3;city3
+degree city3
+print_path city3;city3
+print_path city3;city3
+i city0
+s city11
+s city3
+s city0
+graph_edges
+print_path city0;city3
+graph_nodes
+print_path city0;city3
+d city0;city0
+setd city5;city8;11.9
+shortest_d city0;city3
+degree city11
+i city9
+print_path city0;city0
+s city9
+setd city9;city3;16.1
+degree city12
+i city9
+print_path city3;city3
+i city0
+setd city0;city3;5.6
+i city9
+setd city0;city9;29.4
+graph_nodes
+print_path city14;city18
+s city9
+degree city15
+graph_nodes
+setd city9;city9;25.2
+d city7;city16
+setd city0;city0;18.2
+print_path city9;city9
+degree city9
+setd city1;city18;3.5
+d city0;city9
+shortest_d city9;city9
+setd city3;city3;9.8
+graph_nodes
+s city9
+setd city9;city3;32.2
+d city9;city9
+s city9
+graph_nodes
+graph_edges
+shortest_d city9;city9
+degree city8
+shortest_d city15;city3
+setd city3;city0;22.4
+d city3;city0
+degree city9
+graph_nodes
+d city0;city0
+d city9;city9
+graph_edges
+graph_edges
+s city0
+s city0
+s city6
+shortest_d city0;city0
+graph_nodes
+shortest_d city9;city0
+degree city9
+shortest_d city0;city9
+graph_nodes
+setd city15;city18;4.2
+s city9
+s city9
+graph_nodes
+d city3;city0
+setd city9;city3;6.3
+graph_edges
+graph_edges
+i city1
+print_path city10;city14
+print_path city9;city4
+degree city9
+degree city0
+graph_edges
+shortest_d city9;city3
+s city0
+setd city1;city9;6.3
+print_path city15;city11
+i city5
+d city9;city0
+i city5
+setd city5;city9;24.5
+graph_nodes
+graph_edges
+shortest_d city9;city3
+i city5
+d city9;city0
+graph_nodes
+print_path city3;city5
+shortest_d city0;city9
+degree city15
+degree city9
+d city5;city9
+d city5;city0
+degree city4
+s city5
+d city9;city9
+print_path city9;city5
+graph_nodes
+graph_nodes
+shortest_d city9;city5
+i city6
+degree city6
+d city0;city5
+graph_nodes
+i city7
+print_path city9;city6
+graph_nodes
+shortest_d city9;city6
+graph_edges
+print_path city5;city6
+graph_edges
+shortest_d city5;city3
+d city7;city9
+degree city12
+shortest_d city9;city5
+s city5
+graph_edges
+i city6
+setd city9;city6;18.2
+i city5
+i city3
+graph_nodes
+graph_edges
+print_path city0;city5
+s city1
+degree city1
+i city4
+graph_nodes
+shortest_d city17;city14
+s city9
+degree city0
+graph_nodes
+clear
+i city6
+graph_edges
+i city9
+i city8
+graph_edges
+shortest_d city6;city9
+graph_nodes
+setd city8;city6;21
+degree city9
+i city9
+graph_edges
+setd city8;city6;6.3
+graph_nodes
+d city17;city13
+degree city1
+shortest_d city9;city8
+d city8;city9
+graph_edges
+graph_nodes
+i city9
+graph_edges
+d city6;city16
+d city13;city6
+i city4
+shortest_d city4;city8
+shortest_d city9;city9
+graph_edges
+i city8
+print_path city8;city6
+s city9
+i city4
+s city8
+shortest_d city8;city4
+degree city9
+print_path city6;city9
+s city4
+setd city8;city8;1.4
+setd city5;city10;11.9
+setd city4;city8;25.2
+setd city4;city9;20.3
+setd city6;city4;18.9
+graph_nodes
+print_path city7;city13
+d city17;city10
+graph_nodes
+setd city8;city4;3.5
+graph_nodes
+graph_edges
+setd city15;city4;8.4
+shortest_d city9;city8
+setd city8;city9;3.5
+print_path city9;city6
+graph_edges
+graph_nodes
+shortest_d city14;city5
+i city1
+setd city4;city9;25.2
+graph_nodes
+i city3
+graph_edges
+shortest_d city4;city1
+graph_nodes
+graph_edges
+graph_edges
+graph_edges
+shortest_d city1;city8
+s city9
+graph_nodes
+graph_nodes
+i city3
+graph_nodes
+shortest_d city4;city9
+degree city17
+shortest_d city12;city16
+graph_edges
+graph_edges
+print_path city4;city8
+graph_edges
+graph_nodes
+i city8
+d city8;city9
+shortest_d city8;city3
+graph_edges
+print_path city4;city1
+degree city9
+setd city9;city8;10.5
+shortest_d city1;city2
+i city4
+degree city15
+s city0
+setd city9;city9;21.7
+setd city4;city3;7
+graph_nodes
+d city6;city9
+graph_edges
+i city6
+degree city6
+shortest_d city8;city8
+i city1
+graph_edges
+i city6
+s city4
+graph_nodes
+s city4
+i city9
+d city3;city9
+i city1
+d city9;city9
+shortest_d city8;city6
+graph_edges
+s city4
+graph_nodes
+shortest_d city6;city9
+degree city6
+degree city0
+graph_nodes
+shortest_d city9;city3
+i city3
+graph_edges
+graph_nodes
+i city9
+d city6;city9
+i city8
+print_path city9;city4
+i city8
+degree city6
+shortest_d city1;city9
+print_path city4;city5
+print_path city6;city8
+d city9;city9
+d city6;city9
+d city9;city1
+graph_nodes
+setd city8;city8;11.9
+s city11
+graph_nodes
+d city3;city9
+shortest_d city6;city9
+setd city8;city4;14
+d city9;city9
+degree city8
+setd city9;city9;11.2
+s city9
+s city3
+i city0
+print_path city8;city8
+print_path city1;city1
+d city9;city3
+degree city10
+d city1;city9
+graph_edges
+clear
+graph_edges
+graph_edges
+print_path city4;city3
+graph_edges
+i city8
+degree city8
+setd city8;city8;23.1
+graph_nodes
+graph_nodes
+s city8
+degree city16
+setd city8;city8;16.1
+graph_nodes
+setd city8;city8;20.3
+print_path city7;city17
+graph_nodes
+setd city7;city3;28
+d city8;city8
+d city8;city8
+graph_edges
+shortest_d city8;city8
+shortest_d city8;city8
+d city12;city0
+degree city8
+degree city8
+graph_edges
+graph_nodes
+i city3
+print_path city8;city3
+i city7
+shortest_d city1;city18
+print_path city3;city3
+degree city12
+shortest_d city3;city3
+d city3;city7
+graph_nodes
+d city8;city3
+shortest_d city3;city8
+degree city16
+print_path city7;city8
+i city4
+s city12
+setd city0;city11;28.7
+s city1
+graph_nodes
+shortest_d city8;city3
+graph_nodes
+degree city8
+print_path city1;city16
+shortest_d city3;city7
+s city8
+graph_nodes
+setd city3;city7;2.1
+shortest_d city3;city4
+graph_nodes
+graph_edges
+graph_edges
+s city3
+graph_edges
+graph_edges
+degree city7
+degree city8
+print_path city3;city4
+shortest_d city16;city7
+s city8
+graph_edges
+graph_edges
+degree city19
+setd city8;city4;1.4
+s city11
+shortest_d city7;city8
+shortest_d city8;city8
+shortest_d city8;city11
+d city18;city7
+degree city9
+print_path city4;city7
+s city7
+print_path city19;city8
+d city4;city4
+setd city7;city3;2.1
+setd city11;city6;27.3
+graph_edges
+shortest_d city8;city8
+graph_edges
+graph_edges
+d city3;city8
+degree city4
+graph_nodes
+graph_edges
+graph_nodes
+print_path city4;city3
+print_path city19;city12
+graph_edges
+d city3;city3
+graph_edges
+setd city8;city3;33.6
+d city7;city4
+s city12
+i city3
+graph_edges
+d city3;city4
+degree city3
+s city1
+shortest_d city3;city3
+d city13;city11
+graph_edges
+s city4
+graph_nodes
+s city4
+i city7
+graph_edges
+setd city8;city7;30.1
+setd city15;city18;20.3
+degree city17
+i city6
+print_path city14;city10
+print_path city16;city10
+s city13
+s city6
+shortest_d city7;city3
+i city4
+i city4
+graph_edges
+i city4
+degree city7
+print_path city3;city4
+shortest_d city8;city3
+d city4;city2
+setd city4;city4;24.5
+graph_nodes
+graph_nodes
+print_path city14;city3
+i city0
+s city4
+degree city9
+s city4
+i city2
+s city16
+d city4;city4
+s city4
+print_path city2;city2
+s city9
+print_path city4;city7
+degree city2
+i city4
+s city8
+s city4
+i city6
+setd city0;city4;0
+d city7;city7
+degree city4
+clear
+i city9
+i city2
+d city9;city2
+print_path city2;city9
+d city2;city9
+s city2
+degree city7
+d city2;city9
+degree city2
+graph_nodes
+shortest_d city16;city3
+i city8
+s city9
+print_path city8;city17
+i city9
+i city4
+degree city1
+graph_nodes
+shortest_d city0;city7
+setd city4;city9;25.2
+degree city2
+i city7
+i city5
+setd city2;city9;6.3
+d city2;city2
+d city2;city5
+degree city7
+shortest_d city2;city8
+shortest_d city9;city9
+graph_nodes
+d city9;city5
+graph_nodes
+setd city8;city9;27.3
+d city8;city9
+print_path city7;city9
+shortest_d city4;city7
+graph_nodes
+graph_edges
+i city7
+s city7
+d city8;city8
+degree city3
+graph_nodes
+graph_edges
+setd city2;city9;19.6
+shortest_d city4;city4
+degree city9
+i city7
+d city4;city4
+s city9
+graph_nodes
+degree city9
+s city9
+graph_edges
+i city3
+d city5;city2
+i city4
+degree city9
+shortest_d city4;city7
+d city9;city8
+s city9
+graph_edges
+i city7
+print_path city7;city5
+degree city7
+graph_edges
+degree city7
+graph_edges
+s city9
+s city0
+print_path city2;city7
+shortest_d city13;city1
+i city4
+degree city7
+s city7
+shortest_d city5;city2
+print_path city7;city7
+degree city8
+degree city16
+d city3;city7
+degree city4
+shortest_d city7;city7
+graph_edges
+i city8
+print_path city4;city9
+s city10
+setd city9;city7;10.5
+i city9
+print_path city5;city7
+shortest_d city9;city7
+graph_edges
+setd city7;city7;11.9
+degree city7
+i city7
+degree city8
+print_path city4;city9
+s city11
+i city3
+degree city2
+shortest_d city14;city6
+print_path city9;city7
+d city4;city8
+s city7
+i city0
+degree city18
+s city2
+graph_nodes
+degree city4
+print_path city9;city0
+graph_edges
+i city7
+s city8
+i city4
+graph_edges
+graph_edges
+degree city8
+setd city7;city7;24.5
+graph_edges
+shortest_d city0;city4
+print_path city3;city8
+degree city7
+i city1
+degree city3
+i city4
+s city9
+graph_edges
+graph_nodes
+print_path city3;city7
+shortest_d city4;city7
+i city4
+degree city4
+shortest_d city7;city7
+shortest_d city7;city5
+degree city7
+degree city4
+degree city16
+shortest_d city7;city9
+s city7
+s city9
+i city0
+d city3;city3
+shortest_d city4;city8
+shortest_d city7;city4
+graph_nodes
+s city4
+graph_edges
+graph_nodes
+degree city4
+print_path city4;city1
+degree city2
+graph_nodes
+clear
+graph_edges
+shortest_d city2;city5
+i city6
+print_path city0;city16
+i city2
+degree city6
+i city6
+s city11
+graph_nodes
+shortest_d city6;city6
+graph_nodes
+d city6;city6
+d city6;city6
+degree city0
+s city6
+shortest_d city2;city6
+graph_edges
+print_path city2;city6
+s city16
+print_path city2;city6
+d city5;city7
+graph_nodes
+i city9
+d city6;city6
+d city6;city6
+shortest_d city2;city6
+s city15
+d city9;city6
+graph_edges
+degree city2
+graph_edges
+print_path city9;city6
+print_path city2;city2
+i city6
+degree city19
+graph_edges
+setd city6;city6;34.3
+graph_nodes
+d city6;city9
+setd city5;city17;31.5
+s city6
+graph_nodes
+s city6
+shortest_d city6;city6
+graph_edges
+i city4
+d city2;city4
+graph_nodes
+graph_edges
+print_path city4;city2
+graph_edges
+setd city2;city11;16.8
+setd city4;city9;5.6
+graph_edges
+i city9
+degree city13
+print_path city9;city6
+d city2;city2
+degree city9
+shortest_d city10;city19
+d city6;city6
+s city9
+graph_edges
+print_path city14;city1
+graph_nodes
+s city5
+setd city19;city2;30.8
+i city8
+graph_nodes
+setd city4;city6;32.9
+s city6
+print_path city9;city6
+degree city6
+s city9
+shortest_d city6;city6
+graph_nodes
+graph_nodes
+graph_edges
+graph_edges
+graph_edges
+shortest_d city9;city6
+graph_nodes
+setd city6;city6;31.5
+setd city4;city2;2.1
+i city9
+graph_edges
+graph_edges
+graph_edges
+graph_edges
+print_path city9;city9
+print_path city8;city4
+d city2;city6
+d city6;city4
+graph_nodes
+degree city4
+s city1
+degree city10
+print_path city2;city6
+setd city4;city8;14
+graph_nodes
+i city5
+shortest_d city6;city9
+graph_edges
+print_path city6;city5
+graph_nodes
+i city7
+print_path city9;city8
+graph_nodes
+s city1
+graph_edges
+s city7
+setd city15;city11;10.5
+s city18
+shortest_d city9;city6
+degree city7
+degree city2
+graph_nodes
+shortest_d city7;city6
+shortest_d city5;city6
+setd city9;city8;18.2
+d city5;city9
+print_path city5;city2
+print_path city2;city9
+degree city1
+s city4
+shortest_d city6;city8
+s city4
+print_path city19;city5
+degree city7
+i city4
+s city9
+degree city6
+degree city9
+graph_nodes
+degree city9
+graph_nodes
+graph_nodes
+s city9
+s city7
+degree city4
+graph_nodes
+print_path city15;city18
+graph_nodes
+setd city15;city5;18.2
+setd city6;city9;15.4
+graph_nodes
+print_path city9;city5
+graph_edges
+i city5
+s city8
+shortest_d city5;city5
+clear
+print_path city8;city9
+d city1;city4
+shortest_d city3;city9
+degree city13
+print_path city7;city7
+shortest_d city0;city1
+s city19
+d city7;city8
+degree city0
+d city9;city7
+d city7;city4
+d city6;city2
+shortest_d city0;city0
+d city7;city0
+shortest_d city6;city8
+d city7;city6
+print_path city8;city0
+shortest_d city9;city2
+s city7
+d city5;city7
+i city8
+print_path city8;city8
+graph_nodes
+graph_edges
+graph_nodes
+degree city8
+shortest_d city8;city8
+degree city8
+d city8;city8
+d city5;city16
+setd city8;city8;3.5
+degree city8
+graph_edges
+graph_nodes
+shortest_d city6;city2
+shortest_d city8;city8
+d city8;city8
+d city0;city17
+i city7
+graph_nodes
+print_path city7;city7
+graph_nodes
+graph_edges
+print_path city7;city7
+setd city7;city7;1.4
+d city8;city8
+print_path city8;city8
+s city7
+s city16
+d city8;city7
+print_path city7;city7
+shortest_d city8;city8
+d city7;city7
+graph_edges
+graph_nodes
+d city7;city8
+print_path city8;city8
+graph_edges
+shortest_d city4;city8
+print_path city8;city7
+graph_edges
+s city16
+i city5
+shortest_d city8;city8
+degree city5
+graph_edges
+degree city4
+shortest_d city8;city8
+i city5
+graph_edges
+s city8
+print_path city5;city8
+shortest_d city7;city5
+i city0
+degree city5
+d city0;city7
+setd city0;city0;25.2
+degree city7
+s city19
+graph_nodes
+i city1
+setd city5;city0;7
+setd city1;city5;30.8
+print_path city1;city8
+setd city0;city1;16.8
+d city5;city1
+degree city1
+graph_edges
+print_path city2;city9
+s city15
+setd city5;city5;3.5
+graph_edges
+s city8
+setd city7;city8;6.3
+setd city7;city5;22.4
+shortest_d city5;city5
+shortest_d city7;city7
+i city3
+print_path city7;city8
+setd city7;city1;23.1
+shortest_d city8;city5
+graph_edges
+s city5
+i city9
+d city9;city5
+setd city3;city3;34.3
+print_path city0;city5
+graph_nodes
+print_path city5;city5
+print_path city8;city15
+graph_edges
+graph_edges
+graph_nodes
+i city6
+shortest_d city1;city8
+print_path city8;city6
+s city3
+graph_nodes
+print_path city0;city6
+i city6
+graph_edges
+s city14
+s city0
+d city6;city0
+setd city5;city5;24.5
+d city4;city11
+i city0
+setd city0;city7;11.9
+setd city9;city6;12.6
+i city6
+graph_nodes
+i city0
+print_path city0;city5
+graph_nodes
+shortest_d city5;city6
+print_path city9;city5
+graph_edges
+s city0
+graph_edges
+s city11
+degree city1
+d city0;city6
+graph_nodes
+d city5;city3
+degree city6
+s city13
+s city18
+graph_nodes
+graph_nodes
+d city6;city3
+degree city1
+clear
+graph_edges
+setd city6;city3;31.5
+s city7
+d city0;city4
+shortest_d city2;city8
+shortest_d city0;city0
+graph_edges
+graph_edges
+graph_nodes
+i city9
+setd city9;city9;5.6
+graph_edges
+print_path city9;city9
+graph_nodes
+i city4
+print_path city4;city9
+i city8
+shortest_d city16;city4
+degree city9
+d city9;city8
+graph_nodes
+graph_edges
+shortest_d city4;city4
+shortest_d city9;city8
+graph_nodes
+print_path city9;city4
+i city0
+s city8
+shortest_d city0;city9
+print_path city0;city0
+graph_nodes
+shortest_d city4;city0
+graph_edges
+setd city8;city0;22.4
+graph_edges
+s city4
+d city9;city8
+degree city17
+i city2
+print_path city8;city0
+graph_edges
+degree city14
+setd city9;city2;28.7
+graph_edges
+shortest_d city9;city8
+print_path city4;city4
+i city9
+s city4
+graph_nodes
+d city9;city9
+setd city4;city9;10.5
+graph_edges
+graph_edges
+graph_edges
+graph_nodes
+i city2
+i city3
+degree city8
+shortest_d city19;city3
+s city2
+graph_nodes
+graph_nodes
+s city4
+graph_edges
+setd city0;city9;19.6
+graph_nodes
+print_path city0;city9
+d city19;city19
+i city6
+shortest_d city4;city4
+graph_edges
+degree city18
+i city3
+d city3;city9
+graph_nodes
+degree city4
+graph_edges
+d city6;city3
+print_path city10;city8
+d city8;city4
+graph_edges
+degree city3
+shortest_d city9;city2
+s city18
+degree city9
+graph_edges
+print_path city3;city0
+s city2
+setd city19;city2;4.9
+shortest_d city8;city3
+graph_nodes
+setd city3;city9;14
+graph_nodes
+graph_edges
+graph_nodes
+d city8;city3
+i city0
+shortest_d city0;city6
+print_path city2;city9
+print_path city8;city3
+s city13
+setd city0;city3;29.4
+s city2
+shortest_d city9;city3
+i city0
+shortest_d city6;city11
+shortest_d city19;city16
+setd city2;city2;28.7
+graph_edges
+print_path city3;city6
+setd city8;city3;6.3
+graph_edges
+degree city0
+graph_edges
+graph_edges
+print_path city9;city4
+d city2;city0
+graph_nodes
+s city0
+i city0
+shortest_d city9;city4
+graph_nodes
+graph_edges
+setd city6;city9;30.8
+graph_edges
+i city9
+graph_nodes
+degree city12
+s city0
+d city12;city18
+d city2;city9
+graph_edges
+setd city4;city9;23.8
+setd city9;city0;9.1
+s city0
+s city14
+degree city18
+degree city7
+i city2
+print_path city6;city3
+s city0
+graph_nodes
+graph_nodes
+print_path city2;city3
+graph_edges
+graph_edges
+i city8
+shortest_d city0;city0
+print_path city0;city0
+d city3;city8
+d city18;city16
+clear
+shortest_d city3;city4
+shortest_d city6;city1
+setd city0;city1;3.5
+graph_nodes
+graph_edges
+i city7
+graph_nodes
+graph_edges
+print_path city7;city7
+setd city7;city7;9.1
+graph_edges
+degree city7
+print_path city7;city7
+d city7;city7
+shortest_d city7;city7
+d city7;city7
+graph_nodes
+setd city7;city7;30.1
+setd city5;city11;16.8
+graph_nodes
+graph_nodes
+shortest_d city14;city18
+setd city7;city7;23.8
+d city7;city7
+print_path city7;city7
+graph_nodes
+graph_edges
+graph_nodes
+print_path city7;city7
+graph_edges
+degree city14
+shortest_d city5;city4
+i city0
+shortest_d city0;city7
+graph_edges
+print_path city0;city0
+degree city10
+s city14
+shortest_d city0;city0
+d city7;city7
+graph_nodes
+s city7
+graph_nodes
+i city5
+print_path city7;city0
+setd city0;city6;25.2
+graph_nodes
+graph_nodes
+setd city7;city5;15.4
+s city5
+degree city3
+shortest_d city7;city7
+i city1
+s city8
+s city3
+d city0;city7
+print_path city5;city5
+degree city13
+s city5
+s city15
+i city7
+shortest_d city1;city5
+s city6
+setd city7;city7;23.1
+graph_edges
+d city7;city7
+graph_edges
+shortest_d city5;city7
+graph_nodes
+i city5
+degree city18
+graph_nodes
+s city12
+d city7;city5
+degree city0
+degree city7
+i city6
+d city5;city1
+shortest_d city1;city6
+shortest_d city7;city5
+s city5
+graph_nodes
+setd city0;city5;23.8
+i city3
+s city12
+d city5;city5
+setd city7;city0;21.7
+graph_nodes
+graph_edges
+i city0
+graph_nodes
+d city5;city7
+graph_nodes
+d city5;city3
+graph_edges
+print_path city5;city0
+i city5
+print_path city5;city0
+print_path city1;city6
+setd city5;city10;15.4
+d city5;city7
+degree city7
+shortest_d city6;city7
+degree city14
+print_path city7;city7
+d city0;city5
+s city1
+graph_edges
+shortest_d city7;city0
+d city0;city7
+d city10;city1
+shortest_d city18;city14
+d city8;city17
+degree city13
+shortest_d city7;city6
+d city0;city5
+print_path city5;city0
+print_path city5;city0
+i city4
+setd city0;city6;25.9
+graph_nodes
+setd city0;city0;0.7
+print_path city7;city7
+print_path city9;city16
+s city16
+graph_nodes
+shortest_d city3;city1
+graph_nodes
+d city4;city5
+shortest_d city7;city0
+print_path city1;city0
+graph_nodes
+shortest_d city0;city5
+shortest_d city0;city5
+i city1
+degree city7
+print_path city18;city6
+i city6
+graph_edges
+setd city6;city0;20.3
+s city7
+d city3;city5
+s city7
+shortest_d city7;city5
+graph_nodes
+shortest_d city5;city1
+degree city13
+s city5
+graph_edges
+graph_edges
+graph_nodes
+clear
+graph_edges
+setd city2;city2;16.8
+s city8
+d city5;city9
+print_path city4;city8
+setd city5;city0;18.9
+s city1
+s city4
+graph_edges
+i city2
+print_path city2;city2
+setd city2;city2;3.5
+degree city0
+i city9
+graph_nodes
+graph_edges
+s city2
+shortest_d city2;city2
+graph_nodes
+shortest_d city9;city9
+graph_nodes
+d city6;city2
+d city9;city2
+graph_edges
+shortest_d city2;city2
+print_path city9;city9
+s city15
+print_path city2;city2
+graph_nodes
+d city9;city2
+graph_nodes
+shortest_d city2;city2
+graph_edges
+shortest_d city2;city2
+i city0
+degree city13
+s city16
+degree city9
+print_path city0;city9
+print_path city0;city9
+shortest_d city2;city2
+d city2;city0
+d city2;city0
+shortest_d city0;city9
+shortest_d city2;city9
+d city0;city2
+graph_nodes
+s city2
+shortest_d city0;city2
+d city9;city2
+setd city2;city9;34.3
+graph_nodes
+shortest_d city0;city9
+d city9;city9
+print_path city9;city2
+print_path city0;city0
+degree city2
+d city9;city2
+shortest_d city0;city2
+degree city6
+graph_edges
+degree city0
+s city19
+setd city1;city14;34.3
+degree city9
+graph_nodes
+graph_edges
+print_path city2;city2
+s city11
+i city2
+graph_nodes
+graph_nodes
+graph_nodes
+s city9
+d city0;city2
+i city3
+shortest_d city0;city9
+s city6
+i city1
+s city9
+d city2;city0
+degree city6
+graph_edges
+setd city9;city2;11.2
+s city1
+d city3;city9
+degree city9
+graph_edges
+d city9;city2
+setd city0;city3;15.4
+shortest_d city0;city2
+graph_nodes
+graph_nodes
+graph_edges
+graph_edges
+setd city0;city2;7
+graph_edges
+setd city9;city2;28.7
+s city4
+print_path city2;city2
+print_path city2;city2
+print_path city9;city0
+s city2
+graph_edges
+i city0
+degree city0
+d city1;city1
+graph_nodes
+print_path city0;city0
+setd city3;city0;25.2
+s city1
+print_path city1;city2
+shortest_d city9;city1
+print_path city0;city0
+degree city4
+i city2
+shortest_d city0;city2
+shortest_d city3;city9
+i city6
+setd city1;city6;0.7
+graph_nodes
+graph_nodes
+shortest_d city2;city2
+degree city2
+graph_edges
+i city4
+degree city18
+graph_edges
+degree city0
+s city0
+s city2
+degree city18
+d city19;city15
+print_path city2;city0
+print_path city2;city2
+i city8
+d city0;city9
+d city4;city9
+graph_nodes
+i city8
+graph_nodes
+graph_nodes
+degree city0
+degree city0
+d city2;city3
+d city4;city18
+s city2
+graph_edges
+graph_edges
+graph_nodes
+graph_nodes
+clear
+i city9
+d city19;city18
+s city9
+d city9;city9
+d city9;city9
+graph_edges
+graph_nodes
+print_path city9;city9
+s city9
+degree city8
+graph_edges
+setd city9;city9;18.2
+degree city9
+s city9
+graph_edges
+print_path city9;city9
+setd city9;city9;1.4
+i city9
+setd city9;city9;12.6
+graph_nodes
+setd city9;city9;7
+s city0
+degree city9
+i city4
+print_path city14;city3
+i city0
+shortest_d city9;city4
+graph_edges
+graph_edges
+shortest_d city9;city4
+shortest_d city9;city9
+setd city9;city0;16.8
+d city9;city0
+degree city5
+setd city8;city12;28.7
+setd city4;city9;14
+s city4
+graph_edges
+s city9
+setd city9;city9;5.6
+graph_nodes
+graph_edges
+print_path city9;city9
+graph_nodes
+print_path city4;city0
+shortest_d city9;city9
+shortest_d city18;city2
+shortest_d city18;city6
+print_path city0;city9
+i city4
+graph_edges
+degree city9
+s city0
+shortest_d city4;city4
+shortest_d city9;city9
+i city1
+print_path city9;city10
+setd city4;city1;25.2
+s city9
+setd city0;city1;13.3
+setd city9;city4;29.4
+degree city1
+setd city4;city4;28.7
+shortest_d city4;city1
+graph_edges
+i city2
+shortest_d city1;city4
+graph_nodes
+graph_nodes
+print_path city9;city2
+s city9
+s city1
+graph_edges
+graph_edges
+graph_edges
+d city4;city9
+graph_edges
+graph_nodes
+degree city0
+i city6
+graph_edges
+graph_edges
+graph_nodes
+graph_edges
+degree city2
+setd city1;city2;34.3
+degree city6
+graph_nodes
+degree city0
+shortest_d city4;city2
+graph_nodes
+s city9
+graph_edges
+shortest_d city8;city12
+print_path city4;city4
+print_path city6;city9
+graph_nodes
+i city0
+print_path city0;city9
+graph_nodes
+d city9;city2
+graph_edges
+s city1
+print_path city3;city1
+print_path city2;city0
+shortest_d city9;city2
+d city4;city4
+i city6
+print_path city11;city4
+s city0
+s city9
+graph_edges
+shortest_d city9;city6
+i city3
+i city7
+graph_edges
+d city6;city9
+print_path city3;city9
+graph_nodes
+graph_edges
+degree city3
+s city4
+graph_edges
+s city14
+i city6
+print_path city8;city7
+i city4
+setd city1;city1;30.1
+degree city7
+graph_edges
+shortest_d city6;city0
+setd city7;city4;22.4
+print_path city9;city0
+print_path city2;city6
+i city9
+print_path city4;city2
+graph_edges
+i city9
+graph_edges
+setd city6;city6;21
+setd city4;city1;3.5
+setd city9;city7;16.8
+print_path city10;city19
+graph_nodes
+d city6;city4
+d city0;city9
+d city9;city6
+d city0;city9
+print_path city4;city9
+graph_edges
+setd city4;city6;7.7
+clear
+print_path city1;city1
+print_path city5;city9
+degree city13
+graph_nodes
+graph_nodes
+graph_nodes
+s city9
+shortest_d city8;city5
+graph_edges
+setd city6;city7;31.5
+d city5;city4
+degree city5
+shortest_d city1;city2
+graph_nodes
+setd city3;city1;16.1
+graph_nodes
+d city9;city0
+i city0
+graph_nodes
+degree city0
+d city0;city0
+d city0;city0
+graph_nodes
+graph_edges
+print_path city0;city0
+print_path city0;city0
+shortest_d city0;city0
+s city0
+i city0
+i city3
+graph_edges
+degree city15
+graph_nodes
+i city0
+degree city13
+graph_edges
+graph_nodes
+shortest_d city16;city6
+d city0;city0
+shortest_d city0;city0
+graph_edges
+setd city5;city1;21
+d city0;city0
+i city8
+degree city15
+s city2
+d city3;city0
+degree city0
+i city7
+i city6
+graph_edges
+print_path city8;city0
+s city16
+print_path city14;city1
+s city13
+degree city0
+graph_edges
+setd city2;city6;8.4
+i city4
+d city4;city4
+s city4
+s city7
+graph_nodes
+graph_edges
+setd city7;city7;22.4
+print_path city17;city17
+shortest_d city4;city4
+d city6;city3
+s city6
+setd city7;city7;4.9
+d city0;city4
+d city4;city7
+d city7;city8
+setd city3;city8;25.9
+setd city0;city3;32.9
+s city7
+shortest_d city8;city0
+graph_edges
+i city9
+graph_nodes
+graph_edges
+i city5
+graph_edges
+graph_nodes
+graph_edges
+i city2
+s city0
+s city0
+print_path city0;city0
+i city5
+s city0
+shortest_d city19;city2
+i city5
+i city6
+print_path city2;city0
+setd city7;city0;23.8
+degree city6
+s city0
+d city7;city0
+graph_nodes
+s city12
+shortest_d city5;city6
+s city18
+graph_nodes
+d city16;city17
+shortest_d city2;city0
+graph_nodes
+setd city8;city4;9.1
+print_path city15;city6
+graph_edges
+d city7;city0
+print_path city6;city5
+graph_edges
+graph_edges
+s city2
+print_path city3;city6
+print_path city6;city5
+degree city5
+graph_nodes
+s city6
+d city11;city16
+d city7;city5
+graph_edges
+shortest_d city3;city6
+print_path city0;city7
+i city6
+degree city6
+s city0
+shortest_d city6;city0
+d city6;city3
+d city10;city18
+d city6;city2
+d city0;city7
+degree city8
+graph_nodes
+graph_edges
+s city5
+degree city0
+setd city5;city0;28
+shortest_d city4;city2
+s city9
+i city5
+graph_nodes
+s city2
+graph_nodes
+setd city6;city0;7
+print_path city10;city12
+graph_nodes
+d city5;city6
+graph_nodes
+graph_nodes
+clear
+d city9;city0
+graph_nodes
+setd city7;city8;20.3
+graph_edges
+s city17
+d city1;city7
+shortest_d city5;city6
+degree city2
+shortest_d city1;city6
+print_path city4;city7
+setd city4;city9;26.6
+d city9;city8
+graph_nodes
+graph_edges
+d city3;city7
+setd city1;city8;30.8
+s city17
+i city9
+d city9;city9
+print_path city9;city9
+print_path city9;city9
+degree city10
+shortest_d city9;city9
+setd city9;city9;11.9
+graph_edges
+graph_edges
+d city9;city9
+setd city9;city9;9.8
+degree city9
+graph_edges
+setd city9;city9;11.9
+degree city9
+degree city19
+s city9
+i city7
+shortest_d city2;city15
+d city9;city7
+setd city7;city7;11.2
+s city9
+graph_edges
+degree city9
+d city9;city9
+graph_nodes
+graph_nodes
+i city0
+d city17;city18
+s city13
+shortest_d city12;city7
+d city7;city9
+setd city9;city9;16.1
+shortest_d city9;city0
+degree city7
+shortest_d city0;city0
+shortest_d city0;city11
+print_path city17;city14
+graph_edges
+d city0;city9
+s city14
+d city9;city7
+d city0;city0
+setd city9;city9;33.6
+shortest_d city9;city0
+i city7
+graph_nodes
+graph_edges
+shortest_d city7;city7
+print_path city9;city9
+shortest_d city14;city18
+print_path city7;city0
+shortest_d city0;city7
+setd city7;city0;18.2
+print_path city0;city5
+shortest_d city7;city0
+i city7
+graph_nodes
+print_path city18;city15
+setd city7;city7;23.1
+graph_edges
+s city0
+d city9;city7
+shortest_d city7;city7
+degree city7
+i city2
+degree city1
+s city5
+d city0;city0
+graph_edges
+shortest_d city7;city0
+graph_nodes
+graph_edges
+setd city14;city13;2.8
+degree city0
+print_path city7;city7
+i city0
+shortest_d city7;city2
+d city0;city4
+shortest_d city1;city15
+degree city9
+shortest_d city0;city0
+setd city4;city1;33.6
+print_path city2;city0
+graph_edges
+setd city2;city7;34.3
+degree city7
+d city7;city2
+print_path city2;city2
+print_path city7;city7
+graph_nodes
+shortest_d city9;city6
+graph_nodes
+i city6
+degree city8
+s city0
+i city1
+i city6
+s city6
+degree city0
+shortest_d city1;city7
+shortest_d city6;city2
+d city0;city7
+degree city10
+graph_nodes
+d city6;city7
+print_path city0;city2
+graph_edges
+i city8
+i city3
+d city2;city7
+graph_edges
+graph_nodes
+graph_edges
+graph_nodes
+setd city7;city9;14
+graph_nodes
+setd city9;city0;19.6
+setd city6;city7;9.8
+s city8
+i city9
+setd city0;city6;9.8
+s city7
+shortest_d city0;city7
+i city4
+graph_nodes
+graph_nodes
+graph_nodes
+d city16;city10
+graph_nodes
+print_path city7;city1
+i city8
+graph_nodes
+shortest_d city3;city0
+clear
+shortest_d city1;city0
+graph_edges
+graph_nodes
+print_path city6;city0
+graph_edges
+setd city3;city0;13.3
+d city9;city6
+degree city3
+shortest_d city4;city5
+graph_edges
+d city9;city5
+s city17
+graph_edges
+d city6;city3
+s city5
+graph_edges
+print_path city3;city8
+graph_edges
+i city6
+print_path city6;city6
+print_path city6;city6
+graph_edges
+i city8
+print_path city8;city8
+d city6;city8
+s city6
+d city6;city6
+graph_nodes
+setd city8;city6;21
+i city6
+graph_edges
+d city8;city6
+s city3
+setd city14;city0;32.9
+graph_nodes
+graph_edges
+i city5
+print_path city8;city8
+s city7
+graph_nodes
+print_path city6;city5
+setd city6;city8;32.2
+graph_edges
+d city13;city19
+i city5
+i city7
+graph_nodes
+graph_nodes
+graph_edges
+degree city13
+graph_edges
+shortest_d city7;city7
+s city7
+degree city6
+degree city14
+s city6
+d city6;city6
+setd city7;city8;2.8
+setd city5;city6;31.5
+print_path city5;city5
+i city1
+setd city5;city7;4.2
+d city6;city1
+d city1;city5
+setd city1;city1;11.2
+shortest_d city8;city5
+i city6
+degree city6
+graph_nodes
+setd city6;city7;5.6
+shortest_d city7;city6
+i city8
+print_path city6;city6
+s city6
+print_path city4;city10
+graph_edges
+setd city7;city8;9.1
+s city6
+degree city6
+graph_nodes
+d city4;city15
+graph_nodes
+shortest_d city8;city6
+print_path city5;city8
+degree city6
+graph_nodes
+i city1
+degree city5
+s city18
+s city15
+graph_nodes
+s city2
+s city9
+graph_nodes
+d city5;city6
+s city13
+setd city8;city1;3.5
+graph_nodes
+shortest_d city1;city5
+shortest_d city5;city1
+d city6;city1
+graph_edges
+setd city1;city5;30.8
+print_path city1;city5
+print_path city8;city8
+degree city1
+graph_edges
+setd city7;city8;12.6
+d city5;city1
+graph_nodes
+graph_nodes
+degree city5
+graph_nodes
+i city1
+d city6;city6
+i city1
+degree city11
+setd city5;city6;6.3
+s city6
+d city5;city5
+i city5
+s city6
+degree city1
+graph_nodes
+i city2
+graph_edges
+shortest_d city13;city1
+s city12
+s city16
+setd city5;city1;2.1
+d city5;city1
+i city6
+s city7
+graph_edges
+degree city8
+setd city6;city8;7
+print_path city6;city8
+i city9
+setd city8;city6;4.2
+graph_nodes
+graph_nodes
+degree city8
+graph_edges
+s city13
+graph_nodes
+shortest_d city6;city6
+i city6
+i city3
+d city8;city8
+graph_nodes
+s city6
+clear
+setd city12;city0;11.9
+print_path city0;city0
+i city3
+graph_edges
+graph_edges
+degree city3
+graph_edges
+graph_nodes
+s city3
+i city3
+print_path city3;city3
+setd city3;city3;2.1
+graph_nodes
+setd city3;city3;17.5
+graph_edges
+setd city3;city3;8.4
+graph_edges
+s city12
+d city3;city3
+graph_nodes
+d city13;city12
+i city2
+setd city3;city2;0.7
+degree city3
+setd city2;city2;2.1
+degree city3
+d city2;city3
+graph_nodes
+shortest_d city3;city3
+s city0
+print_path city4;city11
+s city3
+graph_edges
+degree city11
+graph_edges
+graph_edges
+graph_nodes
+graph_edges
+d city3;city3
+degree city2
+shortest_d city3;city3
+setd city3;city2;5.6
+setd city3;city3;28.7
+shortest_d city3;city3
+shortest_d city6;city8
+print_path city2;city3
+i city4
+d city3;city4
+i city9
+graph_edges
+s city10
+graph_edges
+print_path city4;city2
+i city1
+graph_nodes
+d city9;city3
+print_path city15;city4
+graph_edges
+graph_edges
+i city5
+print_path city2;city5
+d city2;city3
+degree city7
+d city3;city3
+d city2;city2
+degree city1
+graph_edges
+print_path city5;city4
+d city5;city5
+graph_nodes
+shortest_d city2;city5
+d city1;city5
+i city2
+graph_edges
+setd city5;city3;9.1
+i city8
+s city8
+print_path city3;city3
+s city0
+graph_edges
+d city4;city2
+degree city4
+setd city15;city14;32.2
+graph_nodes
+setd city2;city5;34.3
+d city5;city9
+s city12
+i city1
+setd city2;city3;14
+graph_edges
+graph_edges
+d city4;city8
+d city4;city1
+degree city8
+print_path city1;city4
+d city4;city1
+degree city2
+degree city16
+graph_edges
+i city8
+degree city1
+i city0
+graph_edges
+i city4
+graph_edges
+i city5
+d city1;city4
+graph_nodes
+s city15
+graph_edges
+graph_edges
+d city3;city2
+shortest_d city3;city1
+i city9
+shortest_d city4;city9
+s city3
+print_path city1;city1
+graph_nodes
+print_path city2;city5
+s city5
+graph_edges
+setd city11;city18;29.4
+setd city2;city8;5.6
+setd city2;city0;32.2
+setd city0;city5;28.7
+i city2
+d city2;city1
+shortest_d city4;city1
+print_path city4;city2
+print_path city5;city0
+degree city9
+graph_edges
+shortest_d city9;city19
+graph_nodes
+i city7
+s city3
+graph_nodes
+d city5;city1
+graph_edges
+d city9;city8
+i city8
+shortest_d city3;city7
+graph_nodes
+s city3
+graph_edges
+i city1
+setd city2;city5;12.6
+shortest_d city2;city2
+d city7;city3
+graph_nodes
+print_path city8;city9
+clear
+print_path city2;city6
+degree city0
+degree city4
+i city1
+graph_nodes
+print_path city1;city1
+print_path city1;city1
+degree city1
+shortest_d city1;city1
+print_path city1;city1
+i city5
+degree city1
+i city5
+s city9
+setd city5;city1;34.3
+setd city1;city1;0.7
+d city1;city5
+i city3
+d city3;city3
+graph_nodes
+s city1
+degree city1
+shortest_d city3;city1
+d city18;city16
+print_path city5;city3
+d city5;city3
+d city5;city1
+degree city3
+print_path city3;city5
+print_path city17;city8
+i city8
+setd city15;city8;23.8
+graph_edges
+d city5;city5
+i city2
+print_path city5;city5
+i city1
+shortest_d city2;city2
+graph_nodes
+setd city5;city5;3.5
+s city5
+setd city1;city5;34.3
+graph_nodes
+graph_nodes
+graph_nodes
+print_path city3;city5
+print_path city1;city1
+shortest_d city1;city5
+graph_nodes
+graph_edges
+i city9
+graph_edges
+s city1
+graph_nodes
+i city7
+degree city17
+degree city5
+print_path city1;city7
+s city6
+i city4
+print_path city13;city4
+degree city1
+graph_nodes
+i city3
+d city8;city3
+d city3;city7
+setd city6;city5;32.9
+graph_edges
+s city3
+setd city8;city8;11.9
+s city11
+graph_edges
+setd city3;city8;23.8
+s city2
+print_path city3;city2
+shortest_d city1;city1
+shortest_d city8;city0
+degree city5
+d city8;city1
+setd city9;city8;28.7
+print_path city5;city2
+degree city3
+degree city3
+degree city17
+shortest_d city8;city1
+graph_edges
+setd city4;city4;20.3
+i city6
+graph_edges
+setd city1;city1;31.5
+s city6
+setd city1;city0;23.8
+shortest_d city5;city2
+graph_edges
+d city1;city9
+degree city5
+graph_nodes
+shortest_d city3;city6
+graph_nodes
+degree city5
+graph_edges
+print_path city1;city3
+i city1
+graph_nodes
+graph_edges
+graph_nodes
+s city0
+degree city3
+setd city1;city7;9.8
+i city2
+d city1;city2
+s city18
+print_path city9;city6
+shortest_d city2;city16
+s city3
+graph_edges
+setd city2;city4;16.1
+shortest_d city6;city7
+shortest_d city6;city5
+degree city2
+graph_nodes
+graph_edges
+graph_nodes
+degree city4
+print_path city9;city8
+graph_nodes
+print_path city1;city3
+s city5
+d city1;city5
+degree city13
+shortest_d city1;city1
+graph_nodes
+shortest_d city9;city2
+graph_nodes
+setd city3;city1;28
+d city17;city19
+graph_nodes
+graph_edges
+d city2;city1
+d city3;city6
+graph_edges
+graph_nodes
+graph_edges
+print_path city7;city5
+graph_nodes
+graph_nodes
+i city1
+i city8
+graph_edges
+degree city1
+shortest_d city1;city3
+clear
+shortest_d city6;city1
+graph_nodes
+i city1
+s city1
+graph_edges
+print_path city1;city1
+graph_edges
+graph_edges
+i city6
+degree city6
+setd city6;city6;6.3
+setd city6;city1;25.9
+d city1;city6
+i city2
+s city9
+print_path city2;city1
+shortest_d city1;city6
+shortest_d city8;city15
+d city2;city1
+s city6
+print_path city1;city1
+setd city1;city2;23.1
+d city1;city1
+graph_nodes
+d city1;city1
+d city2;city2
+graph_edges
+degree city3
+degree city14
+setd city1;city2;14
+setd city1;city2;23.1
+degree city6
+shortest_d city1;city1
+print_path city6;city2
+shortest_d city2;city6
+graph_edges
+graph_nodes
+i city4
+print_path city2;city4
+graph_nodes
+degree city2
+graph_nodes
+graph_edges
+s city6
+degree city2
+setd city2;city6;11.2
+degree city17
+graph_edges
+i city0
+s city18
+print_path city0;city1
+s city8
+degree city7
+print_path city4;city2
+i city0
+print_path city4;city0
+d city9;city16
+shortest_d city6;city0
+degree city0
+degree city14
+setd city6;city6;14
+d city0;city1
+degree city14
+s city6
+graph_nodes
+shortest_d city4;city0
+d city6;city4
+shortest_d city2;city2
+i city3
+i city5
+setd city1;city2;9.8
+degree city4
+graph_edges
+i city3
+shortest_d city11;city11
+shortest_d city0;city0
+setd city1;city2;6.3
+print_path city6;city1
+s city1
+graph_nodes
+s city5
+print_path city4;city0
+shortest_d city0;city0
+degree city0
+setd city3;city4;34.3
+degree city3
+s city6
+graph_nodes
+print_path city0;city3
+d city0;city2
+degree city0
+print_path city3;city2
+d city0;city6
+i city4
+print_path city0;city4
+degree city11
+s city5
+setd city4;city5;14.7
+graph_edges
+degree city0
+print_path city2;city0
+print_path city2;city3
+setd city3;city3;14.7
+graph_nodes
+shortest_d city3;city0
+print_path city6;city15
+print_path city4;city0
+setd city2;city5;29.4
+shortest_d city0;city3
+d city4;city0
+print_path city11;city12
+s city14
+print_path city6;city2
+shortest_d city5;city1
+graph_edges
+shortest_d city6;city1
+i city8
+d city0;city0
+graph_edges
+i city1
+degree city2
+print_path city10;city2
+i city7
+i city0
+s city19
+print_path city7;city6
+i city5
+i city3
+i city7
+shortest_d city9;city3
+i city6
+shortest_d city5;city5
+s city15
+degree city4
+setd city3;city0;23.1
+d city3;city6
+s city3
+degree city6
+setd city0;city0;23.1
+setd city7;city3;21
+degree city4
+d city7;city0
+graph_nodes
+graph_nodes
+i city5
+setd city5;city8;16.1
+s city1
+shortest_d city5;city6
+degree city0
+s city7
+shortest_d city3;city5
+clear
+i city6
+i city8
+s city6
+i city6
+i city5
+shortest_d city9;city5
+graph_nodes
+shortest_d city6;city5
+setd city8;city6;11.2
+graph_nodes
+graph_edges
+setd city6;city6;22.4
+s city6
+s city8
+degree city8
+graph_nodes
+shortest_d city6;city6
+i city6
+i city0
+shortest_d city9;city13
+d city6;city0
+shortest_d city6;city5
+i city2
+s city8
+i city7
+degree city6
+graph_edges
+graph_edges
+shortest_d city5;city8
+print_path city1;city4
+d city0;city0
+shortest_d city16;city17
+graph_edges
+i city1
+graph_nodes
+shortest_d city6;city7
+print_path city1;city2
+i city2
+i city0
+setd city6;city6;11.9
+shortest_d city2;city7
+s city2
+i city3
+graph_edges
+degree city13
+shortest_d city3;city0
+shortest_d city6;city6
+shortest_d city3;city0
+setd city0;city1;18.2
+degree city1
+graph_nodes
+d city0;city8
+print_path city2;city3
+print_path city6;city0
+setd city6;city0;1.4
+graph_edges
+s city6
+i city7
+s city16
+setd city8;city8;12.6
+degree city6
+s city0
+degree city0
+s city3
+degree city15
+graph_edges
+degree city1
+shortest_d city3;city16
+graph_edges
+setd city2;city6;30.1
+d city6;city5
+graph_edges
+print_path city5;city8
+s city11
+shortest_d city6;city6
+graph_nodes
+setd city7;city2;25.9
+setd city1;city0;2.1
+print_path city6;city8
+shortest_d city1;city0
+shortest_d city6;city7
+s city8
+degree city17
+print_path city6;city3
+i city8
+d city8;city1
+setd city0;city7;17.5
+s city2
+graph_nodes
+graph_edges
+shortest_d city6;city6
+graph_edges
+degree city6
+d city2;city16
+degree city0
+setd city7;city7;15.4
+graph_edges
+i city0
+i city8
+degree city7
+s city4
+i city6
+shortest_d city3;city6
+d city7;city2
+degree city2
+degree city2
+s city15
+graph_edges
+degree city0
+setd city6;city1;26.6
+graph_nodes
+d city3;city10
+d city6;city1
+print_path city3;city8
+shortest_d city0;city0
+graph_nodes
+print_path city6;city0
+graph_nodes
+degree city6
+graph_nodes
+d city8;city7
+graph_edges
+graph_nodes
+i city9
+d city6;city6
+graph_nodes
+d city7;city7
+d city6;city0
+i city9
+graph_edges
+s city9
+degree city7
+shortest_d city0;city6
+setd city6;city3;17.5
+s city6
+i city3
+degree city6
+setd city5;city0;9.1
+i city5
+shortest_d city6;city2
+degree city8
+setd city6;city0;30.1
+shortest_d city8;city2
+s city9
+s city13
+graph_nodes
+graph_nodes
+s city3
+degree city17
+s city19
+degree city8
+clear
+d city1;city4
+print_path city9;city8
+graph_edges
+print_path city4;city0
+print_path city4;city8
+degree city2
+graph_nodes
+i city9
+d city9;city9
+s city9
+degree city9
+d city9;city9
+degree city9
+degree city9
+print_path city4;city9
+graph_nodes
+i city5
+graph_nodes
+degree city9
+shortest_d city9;city5
+degree city5
+d city5;city5
+d city9;city9
+graph_edges
+i city6
+degree city6
+print_path city6;city5
+s city15
+graph_edges
+setd city5;city6;3.5
+setd city9;city5;10.5
+degree city9
+i city0
+degree city4
+setd city0;city9;23.8
+d city6;city9
+shortest_d city0;city9
+i city4
+s city5
+degree city9
+print_path city5;city6
+s city19
+degree city3
+graph_edges
+i city0
+i city1
+i city7
+d city5;city5
+i city1
+print_path city18;city8
+d city5;city7
+i city1
+i city4
+degree city9
+d city9;city1
+s city10
+i city2
+print_path city4;city0
+graph_edges
+setd city6;city4;18.2
+print_path city9;city4
+degree city2
+graph_nodes
+d city6;city6
+i city0
+degree city6
+i city8
+s city4
+d city3;city1
+print_path city19;city9
+i city6
+d city8;city9
+d city0;city0
+shortest_d city1;city4
+d city0;city0
+degree city7
+print_path city9;city9
+graph_edges
+d city6;city0
+setd city1;city5;34.3
+degree city6
+print_path city2;city1
+graph_edges
+print_path city2;city9
+shortest_d city4;city4
+graph_edges
+setd city0;city4;13.3
+graph_nodes
+setd city4;city5;28
+d city2;city8
+degree city1
+setd city4;city9;4.9
+graph_nodes
+i city7
+i city1
+graph_nodes
+setd city7;city2;11.9
+s city0
+s city1
+degree city7
+i city0
+print_path city6;city0
+degree city7
+i city0
+shortest_d city6;city0
+shortest_d city0;city4
+print_path city8;city9
+shortest_d city6;city6
+d city4;city0
+setd city1;city0;1.4
+i city8
+shortest_d city0;city0
+print_path city0;city1
+degree city13
+graph_nodes
+s city15
+setd city0;city0;28
+degree city0
+s city7
+d city4;city8
+s city17
+shortest_d city8;city0
+degree city8
+graph_nodes
+shortest_d city1;city1
+degree city7
+i city5
+print_path city4;city1
+s city18
+print_path city8;city1
+degree city18
+setd city1;city2;18.9
+degree city1
+setd city1;city0;21
+print_path city1;city2
+i city6
+d city1;city9
+graph_edges
+setd city2;city0;25.9
+d city6;city1
+degree city0
+graph_edges
+graph_edges
+d city4;city9
+s city9
+setd city1;city8;2.1
+setd city19;city15;16.1
+s city0
+d city5;city6
+i city8
+degree city1
+clear
+d city9;city8
+print_path city2;city0
+i city0
+graph_edges
+s city2
+setd city0;city0;1.4
+shortest_d city1;city16
+print_path city19;city9
+s city19
+s city17
+shortest_d city0;city0
+setd city0;city0;9.1
+degree city0
+s city9
+degree city10
+print_path city0;city0
+print_path city0;city0
+graph_edges
+setd city0;city0;21.7
+d city0;city0
+print_path city7;city7
+graph_edges
+graph_edges
+shortest_d city0;city0
+setd city0;city0;24.5
+d city0;city0
+i city5
+setd city5;city5;11.2
+graph_nodes
+setd city0;city18;7
+i city5
+graph_nodes
+graph_edges
+print_path city0;city5
+d city0;city5
+setd city5;city5;25.9
+print_path city5;city0
+degree city9
+i city5
+graph_edges
+setd city5;city5;14
+graph_nodes
+degree city14
+graph_nodes
+setd city11;city17;23.1
+s city0
+degree city5
+s city0
+i city0
+print_path city5;city0
+setd city0;city5;21.7
+degree city10
+s city5
+setd city11;city2;15.4
+i city3
+i city6
+shortest_d city3;city0
+setd city0;city5;33.6
+graph_edges
+graph_nodes
+print_path city5;city5
+s city9
+shortest_d city5;city5
+graph_nodes
+setd city5;city0;16.1
+shortest_d city6;city5
+s city15
+graph_nodes
+i city9
+s city0
+graph_nodes
+d city9;city3
+graph_edges
+print_path city5;city5
+s city7
+degree city19
+setd city5;city5;4.2
+degree city9
+print_path city5;city3
+degree city13
+d city0;city5
+shortest_d city6;city0
+i city9
+graph_edges
+i city8
+print_path city9;city8
+i city3
+graph_nodes
+i city4
+degree city18
+graph_nodes
+degree city0
+d city0;city9
+shortest_d city3;city5
+graph_nodes
+setd city5;city8;14
+print_path city3;city9
+s city3
+d city8;city0
+graph_edges
+graph_nodes
+s city2
+setd city5;city5;13.3
+d city5;city0
+i city5
+graph_edges
+degree city10
+i city3
+i city3
+i city4
+i city1
+degree city4
+d city4;city4
+i city5
+d city6;city0
+degree city13
+degree city5
+d city5;city5
+graph_nodes
+setd city3;city8;26.6
+setd city17;city5;28.7
+s city15
+graph_nodes
+s city5
+print_path city5;city8
+d city5;city5
+degree city16
+shortest_d city4;city6
+i city5
+graph_nodes
+setd city1;city5;8.4
+graph_edges
+d city6;city5
+i city7
+shortest_d city3;city8
+graph_edges
+graph_edges
+shortest_d city1;city4
+s city7
+d city0;city3
+graph_edges
+d city5;city5
+setd city9;city5;13.3
+shortest_d city3;city4
+i city3
+print_path city6;city6
+i city5
+d city5;city7
+graph_nodes
+setd city3;city3;9.8
+degree city15
+clear
+print_path city1;city2
+graph_edges
+s city16
+shortest_d city1;city0
+graph_nodes
+i city6
+graph_nodes
+shortest_d city6;city6
+setd city12;city9;20.3
+shortest_d city6;city6
+graph_edges
+degree city6
+shortest_d city6;city6
+s city6
+d city6;city6
+graph_nodes
+print_path city6;city6
+graph_nodes
+shortest_d city6;city6
+d city6;city6
+i city5
+shortest_d city5;city5
+print_path city6;city5
+i city0
+print_path city5;city0
+graph_nodes
+setd city0;city6;0.7
+setd city5;city6;7
+d city6;city0
+d city6;city5
+graph_edges
+print_path city5;city6
+i city8
+graph_nodes
+print_path city6;city0
+graph_edges
+degree city9
+graph_edges
+degree city19
+degree city8
+i city6
+print_path city5;city6
+degree city5
+degree city10
+graph_nodes
+print_path city12;city14
+s city0
+shortest_d city6;city6
+d city16;city8
+setd city6;city6;10.5
+shortest_d city8;city6
+s city6
+degree city7
+graph_edges
+graph_edges
+setd city6;city6;14
+d city6;city8
+i city4
+graph_edges
+i city5
+graph_nodes
+graph_nodes
+s city15
+shortest_d city6;city8
+s city13
+degree city0
+print_path city8;city8
+s city2
+shortest_d city8;city5
+print_path city5;city8
+setd city5;city6;7
+setd city4;city6;28
+setd city0;city6;30.8
+graph_nodes
+s city12
+degree city0
+d city6;city6
+degree city5
+setd city8;city5;33.6
+degree city5
+i city6
+s city4
+graph_edges
+setd city5;city5;14.7
+d city4;city0
+graph_nodes
+degree city6
+d city6;city6
+d city5;city5
+shortest_d city8;city6
+s city19
+s city17
+setd city5;city6;23.1
+setd city6;city0;16.1
+setd city8;city6;8.4
+print_path city0;city8
+shortest_d city14;city15
+print_path city5;city0
+d city5;city6
+setd city13;city7;31.5
+i city3
+s city6
+setd city6;city6;16.8
+shortest_d city3;city5
+setd city8;city6;21
+graph_edges
+i city2
+i city5
+shortest_d city6;city5
+graph_nodes
+graph_edges
+graph_edges
+graph_edges
+print_path city5;city6
+graph_nodes
+degree city18
+s city8
+setd city6;city6;18.2
+degree city6
+setd city6;city6;2.8
+print_path city5;city10
+d city5;city6
+graph_nodes
+graph_edges
+graph_nodes
+i city8
+setd city16;city6;2.1
+s city14
+i city0
+graph_nodes
+setd city6;city6;8.4
+graph_edges
+degree city14
+print_path city5;city8
+i city6
+degree city7
+degree city15
+graph_nodes
+d city11;city1
+s city5
+degree city18
+i city8
+graph_edges
+shortest_d city8;city5
+graph_nodes
+print_path city2;city8
+i city5
+print_path city4;city0
+i city0
+degree city0
+s city6
+clear
+degree city17
+shortest_d city3;city0
+graph_nodes
+degree city5
+print_path city1;city4
+degree city6
+graph_edges
+degree city13
+s city14
+graph_edges
+shortest_d city12;city6
+setd city9;city7;7
+print_path city3;city3
+print_path city8;city2
+i city2
+d city2;city2
+print_path city2;city2
+shortest_d city2;city2
+i city0
+shortest_d city0;city2
+setd city0;city0;18.9
+degree city0
+d city0;city2
+graph_edges
+print_path city2;city2
+graph_nodes
+d city12;city7
+graph_edges
+i city9
+degree city2
+graph_nodes
+setd city2;city9;28.7
+print_path city0;city2
+setd city18;city16;33.6
+d city9;city9
+degree city18
+d city5;city17
+shortest_d city0;city2
+print_path city9;city2
+d city2;city2
+setd city2;city9;8.4
+shortest_d city0;city9
+print_path city9;city9
+d city2;city0
+shortest_d city2;city9
+d city0;city2
+d city9;city0
+s city2
+shortest_d city2;city9
+s city1
+s city2
+shortest_d city9;city0
+graph_nodes
+graph_nodes
+d city0;city0
+graph_nodes
+s city0
+print_path city2;city9
+graph_edges
+shortest_d city0;city9
+shortest_d city7;city2
+i city8
+graph_nodes
+graph_nodes
+i city6
+d city2;city6
+d city10;city12
+shortest_d city0;city2
+graph_edges
+graph_nodes
+setd city4;city2;16.8
+degree city8
+s city9
+s city6
+shortest_d city8;city9
+s city1
+d city6;city2
+degree city4
+degree city0
+s city9
+print_path city6;city2
+degree city12
+graph_nodes
+print_path city9;city2
+graph_edges
+d city9;city2
+i city8
+s city16
+degree city9
+graph_edges
+graph_nodes
+graph_edges
+shortest_d city8;city8
+shortest_d city8;city8
+d city6;city8
+degree city0
+i city7
+print_path city8;city6
+s city2
+degree city6
+graph_edges
+degree city2
+i city3
+d city8;city7
+d city6;city6
+shortest_d city8;city9
+i city5
+setd city6;city8;0.7
+graph_nodes
+shortest_d city5;city8
+s city3
+d city8;city5
+print_path city7;city7
+graph_edges
+degree city19
+print_path city2;city7
+shortest_d city3;city3
+s city8
+d city5;city8
+setd city5;city5;21.7
+setd city8;city5;23.1
+setd city6;city9;2.1
+graph_nodes
+s city10
+d city2;city9
+graph_nodes
+i city6
+shortest_d city7;city8
+print_path city6;city6
+d city2;city6
+graph_nodes
+graph_nodes
+shortest_d city2;city0
+d city0;city6
+shortest_d city6;city6
+graph_nodes
+degree city8
+graph_edges
+graph_nodes
+print_path city5;city8
+degree city2
+print_path city2;city2
+shortest_d city2;city8
+shortest_d city9;city2
+d city3;city7
+setd city5;city3;24.5
+i city7
+graph_edges
+print_path city2;city9
+s city6
+setd city8;city3;8.4
+clear
+s city8
+i city8
+i city4
+i city8
+d city4;city4
+shortest_d city2;city17
+d city8;city4
+degree city4
+i city1
+graph_edges
+i city6
+setd city8;city8;14
+setd city8;city1;4.2
+graph_nodes
+i city9
+s city19
+i city1
+s city1
+shortest_d city4;city8
+graph_nodes
+setd city4;city1;24.5
+d city4;city9
+setd city6;city6;11.9
+setd city6;city6;30.8
+graph_nodes
+degree city15
+graph_nodes
+graph_edges
+setd city6;city9;5.6
+graph_edges
+degree city9
+s city15
+degree city12
+s city1
+print_path city4;city1
+setd city9;city8;9.8
+d city8;city4
+shortest_d city9;city1
+s city0
+i city4
+setd city9;city9;17.5
+setd city6;city9;15.4
+print_path city1;city9
+setd city13;city11;30.8
+i city4
+graph_edges
+d city4;city6
+s city1
+i city1
+shortest_d city1;city8
+s city13
+degree city15
+i city1
+i city0
+print_path city4;city1
+i city5
+degree city15
+degree city1
+degree city4
+s city6
+i city7
+setd city1;city0;11.2
+s city1
+i city4
+print_path city5;city7
+shortest_d city2;city1
+graph_edges
+setd city8;city8;14
+print_path city4;city4
+graph_nodes
+shortest_d city0;city9
+degree city7
+graph_edges
+print_path city8;city5
+print_path city1;city4
+i city4
+graph_nodes
+i city7
+graph_edges
+degree city2
+print_path city4;city7
+graph_nodes
+i city8
+setd city8;city7;34.3
+d city8;city4
+degree city8
+graph_edges
+shortest_d city3;city11
+s city18
+shortest_d city4;city0
+d city7;city1
+s city19
+setd city5;city5;29.4
+i city1
+graph_nodes
+degree city9
+d city5;city12
+graph_nodes
+i city9
+shortest_d city8;city1
+print_path city1;city0
+i city1
+shortest_d city4;city4
+graph_edges
+d city7;city4
+degree city4
+d city4;city1
+shortest_d city4;city1
+graph_edges
+degree city1
+graph_edges
+d city0;city1
+setd city1;city0;18.2
+shortest_d city6;city0
+d city11;city17
+d city1;city1
+d city7;city0
+i city1
+degree city1
+d city1;city6
+d city6;city7
+degree city1
+s city8
+d city8;city0
+setd city6;city1;22.4
+s city1
+s city5
+i city3
+degree city8
+graph_nodes
+print_path city14;city13
+setd city1;city14;3.5
+s city0
+shortest_d city8;city0
+shortest_d city19;city14
+shortest_d city6;city4
+i city6
+d city16;city0
+graph_edges
+setd city8;city4;21
+degree city6
+i city0
+shortest_d city8;city1
+setd city0;city1;5.6
+setd city4;city4;14.7
+graph_nodes
+i city4
+d city4;city1
+setd city0;city4;16.1
+graph_nodes
+graph_nodes
+clear
+shortest_d city9;city6
+s city2
+graph_nodes
+graph_edges
+s city13
+degree city8
+graph_nodes
+print_path city6;city0
+print_path city5;city0
+degree city3
+d city6;city15
+d city6;city2
+shortest_d city4;city19
+print_path city8;city0
+setd city18;city13;32.9
+d city0;city1
+graph_edges
+setd city1;city5;25.2
+d city2;city7
+setd city5;city6;25.2
+graph_nodes
+graph_nodes
+degree city0
+print_path city4;city8
+print_path city8;city9
+i city8
+shortest_d city5;city3
+s city8
+d city8;city8
+graph_edges
+d city5;city4
+degree city8
+degree city9
+shortest_d city8;city8
+d city12;city3
+graph_edges
+d city8;city8
+i city9
+i city6
+shortest_d city9;city8
+graph_nodes
+graph_edges
+shortest_d city8;city9
+graph_edges
+i city2
+d city6;city2
+s city8
+i city2
+shortest_d city7;city12
+i city7
+i city6
+shortest_d city8;city9
+shortest_d city7;city6
+graph_nodes
+degree city18
+setd city6;city9;3.5
+i city0
+degree city6
+i city5
+d city6;city6
+d city2;city7
+setd city6;city5;32.2
+degree city2
+graph_nodes
+shortest_d city1;city7
+d city0;city7
+setd city0;city8;12.6
+shortest_d city9;city6
+setd city16;city0;19.6
+shortest_d city5;city2
+graph_nodes
+i city6
+d city6;city2
+shortest_d city6;city6
+setd city7;city9;17.5
+d city6;city8
+s city17
+print_path city0;city9
+setd city3;city17;32.2
+shortest_d city5;city7
+degree city14
+d city0;city10
+d city9;city2
+d city13;city15
+graph_edges
+graph_nodes
+setd city18;city2;5.6
+print_path city2;city7
+graph_nodes
+graph_nodes
+s city1
+graph_edges
+print_path city6;city2
+print_path city7;city6
+setd city2;city9;23.8
+print_path city12;city4
+s city5
+degree city8
+s city8
+graph_nodes
+print_path city8;city5
+shortest_d city8;city6
+print_path city14;city4
+i city6
+graph_edges
+graph_nodes
+graph_edges
+graph_nodes
+degree city15
+degree city5
+shortest_d city6;city17
+degree city6
+s city8
+degree city19
+shortest_d city9;city2
+d city9;city8
+graph_edges
+d city6;city9
+degree city9
+print_path city2;city7
+shortest_d city6;city6
+graph_nodes
+i city7
+s city11
+setd city6;city2;23.1
+shortest_d city6;city7
+degree city17
+setd city5;city9;14.7
+print_path city5;city8
+s city8
+setd city12;city19;28.7
+i city3
+degree city3
+setd city7;city7;31.5
+shortest_d city14;city12
+setd city6;city6;31.5
+degree city11
+graph_nodes
+graph_nodes
+graph_nodes
+graph_nodes
+degree city5
+i city3
+setd city3;city8;9.8
+setd city7;city8;26.6
+s city4
+d city6;city0
+print_path city6;city7
+degree city9
+shortest_d city17;city4
+i city1
+clear
+s city5
+graph_nodes
+d city19;city19
+graph_nodes
+graph_nodes
+setd city9;city4;16.8
+print_path city18;city18
+i city7
+i city5
+graph_edges
+graph_edges
+print_path city5;city5
+s city5
+setd city7;city7;32.9
+setd city7;city5;32.9
+s city3
+s city16
+s city7
+setd city5;city7;20.3
+shortest_d city7;city5
+d city5;city5
+degree city7
+print_path city7;city5
+print_path city7;city5
+print_path city5;city5
+d city5;city7
+shortest_d city7;city7
+s city15
+shortest_d city5;city7
+s city16
+s city5
+i city9
+s city8
+graph_edges
+setd city5;city9;4.9
+shortest_d city17;city15
+i city9
+degree city15
+i city5
+s city5
+s city7
+graph_nodes
+s city4
+graph_edges
+degree city19
+d city12;city2
+i city9
+degree city7
+d city9;city5
+degree city7
+graph_nodes
+graph_edges
+setd city5;city9;10.5
+i city3
+d city3;city3
+graph_nodes
+degree city9
+i city5
+i city9
+graph_edges
+s city9
+graph_nodes
+print_path city9;city9
+degree city13
+s city19
+graph_nodes
+s city7
+print_path city9;city3
+d city7;city9
+d city9;city3
+shortest_d city3;city7
+print_path city9;city5
+d city9;city5
+degree city9
+print_path city7;city9
+print_path city9;city9
+setd city5;city5;33.6
+d city9;city9
+s city7
+print_path city9;city9
+graph_nodes
+degree city7
+shortest_d city9;city5
+graph_edges
+d city5;city9
+shortest_d city5;city5
+i city7
+s city4
+print_path city7;city3
+i city1
+setd city1;city5;30.8
+graph_nodes
+s city9
+d city5;city9
+i city5
+i city2
+s city1
+i city5
+i city3
+shortest_d city5;city5
+s city13
+setd city5;city5;16.8
+degree city12
+i city6
+shortest_d city1;city6
+degree city5
+degree city5
+degree city5
+setd city1;city4;23.8
+shortest_d city9;city7
+shortest_d city9;city5
+shortest_d city7;city9
+i city0
+graph_edges
+setd city2;city0;28
+s city13
+graph_edges
+shortest_d city19;city4
+degree city3
+setd city3;city9;11.2
+shortest_d city7;city9
+setd city7;city3;28.7
+graph_edges
+i city9
+graph_nodes
+s city3
+degree city18
+print_path city6;city9
+setd city5;city5;25.2
+graph_edges
+setd city5;city5;25.2
+d city9;city6
+s city7
+i city8
+graph_edges
+i city7
+setd city9;city5;30.1
+s city7
+setd city3;city7;28
+s city9
+s city5
+print_path city8;city5
+graph_edges
+print_path city9;city5
+setd city14;city15;23.1
+graph_edges
+graph_nodes
+d city1;city3
+shortest_d city12;city19
+s city16
+print_path city9;city3
+clear
+degree city4
+shortest_d city11;city15
+s city7
+graph_nodes
+degree city17
+d city3;city8
+s city7
+graph_nodes
+i city6
+graph_edges
+graph_nodes
+i city0
+s city0
+degree city0
+setd city6;city6;31.5
+graph_nodes
+setd city0;city6;19.6
+degree city1
+d city0;city6
+i city7
+s city7
+i city3
+graph_edges
+setd city1;city1;20.3
+print_path city12;city13
+setd city0;city0;3.5
+s city6
+graph_nodes
+print_path city6;city3
+shortest_d city6;city0
+i city6
+print_path city6;city3
+setd city7;city3;19.6
+setd city3;city7;7.7
+print_path city3;city3
+print_path city0;city6
+graph_nodes
+i city7
+degree city12
+print_path city8;city19
+s city15
+s city7
+graph_edges
+s city7
+shortest_d city6;city7
+graph_nodes
+graph_edges
+graph_nodes
+graph_nodes
+shortest_d city3;city6
+degree city6
+i city6
+setd city3;city7;28.7
+i city6
+d city6;city6
+degree city7
+setd city0;city3;8.4
+degree city5
+s city0
+degree city7
+shortest_d city0;city6
+i city5
+graph_nodes
+graph_nodes
+graph_edges
+graph_nodes
+setd city3;city0;16.1
+print_path city7;city7
+graph_nodes
+d city5;city6
+s city6
+d city6;city6
+i city1
+s city5
+shortest_d city6;city3
+graph_nodes
+shortest_d city0;city6
+i city0
+graph_nodes
+i city1
+print_path city0;city1
+graph_nodes
+i city1
+graph_nodes
+graph_edges
+d city7;city0
+setd city0;city7;32.2
+s city6
+d city1;city3
+degree city0
+shortest_d city1;city3
+i city8
+degree city1
+graph_edges
+graph_nodes
+graph_nodes
+degree city16
+graph_edges
+d city8;city6
+graph_edges
+graph_edges
+graph_nodes
+print_path city0;city7
+s city15
+i city7
+d city6;city7
+d city6;city7
+graph_nodes
+degree city3
+d city19;city4
+setd city0;city10;28.7
+s city16
+setd city1;city7;0
+degree city1
+d city10;city11
+print_path city3;city1
+i city7
+print_path city7;city7
+shortest_d city7;city0
+print_path city5;city8
+graph_nodes
+shortest_d city1;city5
+degree city3
+print_path city6;city7
+graph_nodes
+d city8;city6
+degree city7
+i city9
+graph_nodes
+d city7;city5
+s city6
+graph_nodes
+i city2
+i city5
+graph_edges
+setd city7;city1;17.5
+print_path city6;city6
+i city3
+setd city9;city7;27.3
+graph_nodes
+print_path city7;city7
+graph_nodes
+i city0
+shortest_d city15;city2
+s city4
+setd city1;city6;34.3
+i city2
+graph_edges
+degree city1
+degree city2
+i city7
+clear
+graph_edges
+shortest_d city8;city3
+s city13
+i city3
+graph_nodes
+print_path city14;city6
+print_path city3;city3
+degree city13
+i city1
+graph_nodes
+degree city16
+graph_edges
+graph_nodes
+s city4
+print_path city1;city3
+graph_nodes
+graph_edges
+d city3;city3
+graph_nodes
+d city1;city1
+graph_edges
+print_path city1;city3
+d city3;city1
+degree city1
+shortest_d city3;city3
+d city1;city3
+d city3;city1
+s city10
+print_path city1;city3
+setd city3;city3;23.1
+shortest_d city1;city3
+d city3;city1
+degree city1
+print_path city3;city1
+graph_nodes
+graph_nodes
+graph_nodes
+print_path city10;city1
+d city3;city3
+degree city3
+i city6
+shortest_d city13;city11
+shortest_d city6;city6
+i city9
+s city18
+setd city9;city1;13.3
+d city9;city3
+shortest_d city6;city9
+shortest_d city1;city3
+print_path city6;city9
+graph_edges
+graph_nodes
+setd city9;city6;28
+graph_nodes
+print_path city11;city4
+s city1
+d city1;city3
+d city9;city6
+shortest_d city9;city6
+graph_edges
+shortest_d city1;city6
+s city11
+graph_nodes
+graph_edges
+graph_edges
+print_path city9;city3
+graph_nodes
+i city3
+setd city1;city1;0
+print_path city3;city1
+d city3;city19
+graph_nodes
+degree city12
+graph_nodes
+graph_edges
+graph_nodes
+setd city11;city16;1.4
+degree city0
+shortest_d city5;city8
+print_path city1;city3
+setd city1;city9;12.6
+graph_edges
+graph_nodes
+graph_nodes
+shortest_d city9;city3
+i city6
+setd city3;city9;0.7
+print_path city3;city3
+i city6
+s city6
+graph_nodes
+i city7
+graph_edges
+s city9
+i city2
+d city1;city3
+s city7
+graph_nodes
+i city6
+graph_edges
+i city9
+graph_nodes
+s city14
+setd city1;city6;19.6
+d city3;city6
+graph_edges
+setd city6;city1;32.2
+print_path city9;city9
+s city1
+s city3
+i city9
+shortest_d city6;city2
+s city1
+d city6;city6
+degree city6
+s city18
+graph_nodes
+setd city6;city3;12.6
+print_path city7;city3
+i city8
+print_path city6;city9
+degree city10
+d city3;city9
+degree city7
+s city3
+graph_nodes
+graph_nodes
+print_path city3;city9
+graph_edges
+graph_edges
+graph_nodes
+s city6
+s city6
+shortest_d city6;city8
+d city9;city8
+setd city3;city7;7
+shortest_d city6;city6
+shortest_d city9;city9
+i city3
+graph_nodes
+s city2
+graph_edges
+graph_nodes
+setd city6;city3;14
+s city9
+print_path city3;city9
+graph_edges
+graph_nodes
+graph_nodes
+setd city6;city9;22.4
+graph_edges
+clear
+print_path city0;city5
+d city8;city2
+s city14
+setd city2;city4;6.3
+shortest_d city5;city16
+print_path city1;city3
+s city9
+s city3
+shortest_d city1;city4
+print_path city9;city6
+s city1
+i city9
+d city9;city9
+shortest_d city9;city9
+s city15
+s city2
+setd city9;city9;12.6
+shortest_d city14;city7
+setd city9;city9;7.7
+graph_nodes
+i city2
+setd city9;city9;15.4
+setd city9;city2;10.5
+d city9;city9
+graph_edges
+i city5
+shortest_d city9;city2
+d city9;city2
+print_path city9;city2
+i city9
+i city3
+degree city5
+graph_edges
+print_path city8;city3
+degree city9
+degree city5
+degree city5
+setd city9;city3;23.8
+setd city14;city3;33.6
+i city4
+print_path city5;city5
+degree city5
+shortest_d city4;city4
+graph_nodes
+graph_nodes
+s city10
+graph_edges
+shortest_d city3;city9
+i city8
+d city2;city3
+graph_nodes
+graph_nodes
+print_path city9;city9
+s city5
+setd city9;city8;30.8
+s city3
+graph_edges
+degree city13
+s city9
+degree city9
+i city9
+print_path city7;city11
+graph_edges
+print_path city3;city9
+setd city9;city9;2.8
+degree city9
+setd city5;city4;15.4
+s city9
+graph_nodes
+print_path city8;city2
+print_path city9;city9
+i city0
+i city2
+print_path city2;city2
+print_path city5;city16
+graph_nodes
+s city6
+shortest_d city0;city8
+setd city3;city8;3.5
+setd city9;city9;14
+i city2
+shortest_d city0;city9
+i city5
+i city2
+print_path city18;city10
+degree city8
+print_path city9;city9
+graph_edges
+d city3;city2
+i city7
+s city9
+setd city5;city2;21.7
+setd city5;city0;33.6
+setd city9;city8;0
+graph_nodes
+i city6
+setd city5;city7;28.7
+graph_edges
+d city18;city18
+print_path city4;city2
+setd city2;city5;27.3
+graph_edges
+i city8
+s city2
+graph_nodes
+i city9
+print_path city0;city2
+graph_edges
+graph_nodes
+i city1
+i city5
+graph_nodes
+graph_nodes
+s city0
+graph_edges
+degree city16
+setd city0;city6;12.6
+graph_edges
+d city5;city17
+graph_edges
+i city8
+graph_edges
+graph_edges
+setd city9;city1;6.3
+print_path city8;city2
+i city2
+setd city5;city8;30.8
+graph_edges
+graph_edges
+graph_nodes
+setd city9;city7;15.4
+i city2
+degree city10
+d city2;city9
+degree city2
+s city0
+degree city1
+graph_nodes
+shortest_d city5;city2
+setd city19;city5;7
+graph_nodes
+graph_edges
+graph_nodes
+s city4
+setd city1;city6;11.2
+graph_edges
+i city9
+print_path city4;city8
+setd city5;city2;27.3
+degree city9
+s city2
+clear
+s city7
+shortest_d city13;city1
+i city1
+degree city1
+shortest_d city6;city0
+degree city1
+degree city1
+graph_nodes
+graph_edges
+d city4;city1
+i city8
+print_path city8;city8
+shortest_d city2;city0
+shortest_d city8;city8
+i city6
+setd city6;city8;7
+degree city8
+shortest_d city8;city8
+d city6;city8
+degree city15
+d city6;city8
+graph_edges
+print_path city1;city8
+shortest_d city11;city0
+degree city18
+i city4
+d city4;city1
+graph_nodes
+shortest_d city8;city6
+d city4;city4
+graph_nodes
+graph_nodes
+setd city6;city1;33.6
+graph_nodes
+d city8;city6
+shortest_d city8;city4
+print_path city4;city8
+graph_nodes
+i city3
+i city4
+s city6
+print_path city4;city8
+graph_edges
+s city6
+i city2
+print_path city4;city1
+graph_nodes
+degree city4
+s city7
+graph_nodes
+i city6
+graph_edges
+shortest_d city17;city14
+setd city10;city1;24.5
+d city8;city13
+d city6;city6
+degree city6
+print_path city4;city8
+graph_edges
+degree city6
+degree city8
+s city11
+print_path city4;city1
+i city2
+setd city6;city4;14.7
+print_path city6;city1
+degree city14
+d city6;city6
+graph_edges
+print_path city2;city4
+d city3;city2
+graph_edges
+s city3
+s city1
+degree city4
+i city7
+graph_nodes
+s city7
+graph_nodes
+graph_nodes
+s city17
+s city5
+degree city4
+i city1
+degree city3
+graph_edges
+setd city7;city1;24.5
+shortest_d city1;city2
+print_path city19;city12
+shortest_d city6;city3
+d city6;city1
+graph_nodes
+graph_nodes
+shortest_d city6;city6
+degree city9
+i city7
+graph_edges
+graph_nodes
+i city3
+s city1
+print_path city1;city4
+d city4;city4
+degree city2
+graph_nodes
+graph_edges
+d city14;city17
+s city2
+i city5
+setd city0;city19;5.6
+i city2
+shortest_d city2;city5
+shortest_d city7;city2
+shortest_d city15;city2
+setd city2;city5;12.6
+shortest_d city7;city2
+graph_edges
+d city8;city2
+setd city3;city1;22.4
+i city8
+graph_nodes
+shortest_d city7;city8
+shortest_d city6;city5
+shortest_d city4;city2
+degree city5
+graph_edges
+graph_nodes
+setd city1;city6;28
+graph_edges
+graph_nodes
+setd city7;city1;0
+graph_edges
+graph_edges
+s city17
+i city8
+d city3;city1
+i city4
+degree city17
+setd city2;city1;9.1
+print_path city6;city3
+graph_nodes
+d city11;city5
+graph_nodes
+degree city4
+graph_nodes
+setd city15;city13;33.6
+d city4;city8
+i city6
+s city7
+s city2
+print_path city5;city7
+graph_edges
+clear
+graph_edges
+s city4
+d city9;city9
+print_path city5;city7
+degree city14
+i city4
+d city4;city4
+d city4;city4
+s city16
+print_path city4;city4
+degree city12
+print_path city12;city8
+i city5
+shortest_d city4;city4
+s city5
+i city5
+d city16;city11
+shortest_d city5;city4
+i city3
+print_path city5;city3
+graph_nodes
+shortest_d city4;city5
+setd city3;city5;13.3
+shortest_d city5;city5
+graph_nodes
+degree city3
+setd city5;city5;22.4
+setd city3;city4;23.1
+print_path city3;city3
+degree city15
+setd city3;city5;24.5
+setd city5;city5;0
+s city8
+print_path city5;city5
+degree city19
+graph_nodes
+graph_edges
+setd city13;city9;0.7
+graph_nodes
+shortest_d city4;city11
+s city5
+d city5;city5
+setd city5;city5;9.1
+graph_edges
+degree city3
+graph_nodes
+graph_nodes
+degree city5
+degree city14
+shortest_d city3;city5
+shortest_d city4;city5
+i city9
+graph_nodes
+d city4;city5
+degree city6
+print_path city4;city3
+s city3
+degree city4
+d city9;city5
+graph_nodes
+shortest_d city4;city4
+print_path city5;city5
+i city1
+s city15
+graph_edges
+graph_nodes
+d city3;city5
+shortest_d city12;city7
+i city7
+shortest_d city4;city4
+print_path city5;city3
+degree city9
+print_path city1;city1
+degree city3
+graph_edges
+degree city7
+d city7;city1
+degree city14
+setd city1;city7;18.9
+setd city4;city4;9.8
+print_path city1;city9
+s city5
+graph_edges
+d city13;city19
+graph_edges
+graph_edges
+d city3;city9
+graph_edges
+i city6
+shortest_d city7;city9
+s city6
+print_path city3;city7
+degree city9
+graph_edges
+print_path city3;city9
+print_path city3;city5
+graph_edges
+print_path city9;city3
+setd city15;city5;24.5
+print_path city4;city7
+s city5
+s city3
+degree city6
+s city1
+graph_edges
+s city9
+graph_edges
+graph_nodes
+graph_edges
+setd city14;city17;8.4
+shortest_d city5;city3
+shortest_d city5;city7
+degree city18
+i city3
+setd city9;city3;9.8
+setd city3;city5;30.8
+d city4;city6
+degree city6
+d city1;city3
+degree city5
+i city9
+d city4;city7
+degree city5
+shortest_d city7;city9
+shortest_d city5;city6
+setd city3;city5;12.6
+print_path city6;city4
+print_path city9;city6
+d city18;city4
+setd city4;city9;33.6
+setd city5;city5;16.1
+i city2
+graph_edges
+setd city9;city9;2.1
+d city5;city7
+setd city5;city6;27.3
+d city19;city2
+shortest_d city7;city3
+s city17
+graph_nodes
+graph_edges
+d city2;city5
+setd city4;city6;14
+degree city0
+setd city2;city5;24.5
+graph_nodes
+d city15;city15
+graph_nodes
+d city18;city15
+i city8
+setd city9;city2;27.3
+clear
+print_path city5;city5
+s city3
+d city2;city8
+setd city3;city16;5.6
+graph_edges
+s city3
+print_path city13;city13
+print_path city2;city6
+graph_nodes
+degree city1
+d city8;city6
+d city1;city4
+degree city6
+s city12
+d city15;city1
+shortest_d city0;city9
+degree city3
+graph_edges
+graph_edges
+setd city5;city0;2.8
+degree city0
+shortest_d city2;city9
+graph_edges
+graph_edges
+degree city7
+graph_nodes
+s city8
+s city1
+s city0
+graph_nodes
+i city8
+shortest_d city8;city8
+degree city8
+graph_nodes
+i city6
+print_path city8;city6
+setd city16;city2;19.6
+print_path city8;city8
+shortest_d city6;city6
+shortest_d city8;city8
+degree city12
+setd city8;city8;29.4
+degree city18
+i city3
+d city6;city3
+d city6;city8
+graph_edges
+graph_nodes
+graph_edges
+i city8
+graph_nodes
+graph_edges
+degree city3
+graph_nodes
+setd city6;city3;15.4
+shortest_d city8;city3
+print_path city6;city8
+graph_edges
+degree city5
+s city17
+graph_edges
+degree city3
+i city4
+setd city14;city0;11.9
+graph_edges
+print_path city10;city17
+i city5
+s city4
+print_path city5;city3
+graph_edges
+graph_edges
+d city6;city8
+print_path city8;city4
+print_path city3;city4
+i city3
+print_path city18;city16
+print_path city5;city4
+graph_nodes
+s city0
+s city8
+graph_edges
+graph_edges
+degree city8
+setd city18;city1;3.5
+d city7;city1
+setd city3;city5;12.6
+setd city8;city8;13.3
+graph_edges
+i city1
+d city8;city6
+shortest_d city3;city1
+shortest_d city4;city3
+graph_edges
+s city1
+shortest_d city3;city8
+shortest_d city8;city3
+graph_nodes
+graph_edges
+shortest_d city8;city6
+graph_nodes
+print_path city3;city6
+graph_edges
+graph_nodes
+print_path city3;city6
+s city9
+s city8
+shortest_d city3;city4
+d city8;city3
+i city1
+s city3
+i city6
+degree city4
+graph_nodes
+graph_nodes
+degree city11
+degree city7
+d city3;city6
+graph_nodes
+d city1;city1
+d city3;city3
+i city3
+s city8
+degree city8
+setd city7;city19;34.3
+d city5;city3
+setd city3;city6;28.7
+setd city8;city3;9.1
+degree city8
+degree city8
+d city1;city3
+graph_nodes
+setd city8;city3;33.6
+print_path city3;city8
+i city2
+d city8;city3
+shortest_d city3;city5
+setd city2;city3;6.3
+shortest_d city9;city2
+s city11
+setd city4;city12;32.2
+graph_nodes
+graph_nodes
+print_path city18;city18
+d city3;city6
+print_path city4;city3
+degree city17
+d city8;city6
+d city5;city3
+i city0
+print_path city1;city2
+i city6
+clear
+i city2
+shortest_d city2;city2
+print_path city2;city2
+shortest_d city2;city2
+print_path city2;city2
+s city2
+graph_nodes
+d city2;city2
+d city2;city2
+print_path city9;city18
+i city0
+graph_nodes
+print_path city0;city2
+graph_nodes
+print_path city2;city0
+graph_nodes
+i city1
+d city1;city0
+graph_nodes
+i city6
+setd city1;city0;19.6
+setd city0;city18;28.7
+degree city1
+i city2
+graph_nodes
+degree city13
+shortest_d city0;city0
+graph_nodes
+print_path city2;city1
+shortest_d city6;city2
+degree city16
+setd city14;city5;4.2
+degree city6
+i city5
+i city2
+print_path city2;city2
+print_path city5;city6
+setd city2;city6;19.6
+s city1
+graph_edges
+shortest_d city6;city1
+shortest_d city2;city0
+graph_edges
+s city11
+i city0
+shortest_d city1;city2
+degree city2
+s city2
+graph_nodes
+s city6
+graph_nodes
+d city2;city0
+shortest_d city3;city0
+graph_edges
+s city11
+print_path city5;city2
+d city2;city2
+graph_nodes
+print_path city5;city0
+d city7;city16
+d city1;city2
+d city12;city14
+shortest_d city4;city15
+degree city10
+s city2
+print_path city2;city6
+graph_edges
+setd city0;city0;27.3
+degree city0
+shortest_d city2;city0
+shortest_d city5;city1
+print_path city2;city1
+degree city5
+degree city13
+i city8
+setd city0;city12;31.5
+graph_edges
+s city2
+print_path city2;city2
+shortest_d city8;city2
+i city2
+d city12;city5
+setd city1;city0;19.6
+s city19
+setd city0;city2;11.9
+i city3
+print_path city2;city3
+print_path city18;city13
+i city2
+d city5;city5
+i city2
+d city8;city2
+graph_edges
+graph_nodes
+s city3
+setd city2;city0;25.2
+i city0
+graph_nodes
+setd city0;city0;0.7
+i city1
+s city3
+print_path city1;city5
+graph_edges
+s city2
+shortest_d city15;city9
+d city8;city2
+s city3
+print_path city0;city3
+print_path city2;city0
+setd city2;city2;18.9
+s city14
+shortest_d city0;city2
+d city0;city2
+print_path city2;city5
+s city17
+i city2
+i city5
+setd city5;city2;24.5
+s city19
+shortest_d city16;city2
+print_path city6;city3
+degree city2
+setd city11;city15;23.8
+setd city0;city2;11.9
+i city8
+graph_edges
+i city2
+graph_nodes
+s city2
+d city6;city10
+degree city2
+s city18
+degree city0
+degree city0
+degree city18
+setd city17;city9;19.6
+setd city0;city2;14.7
+i city2
+d city2;city0
+shortest_d city0;city8
+s city1
+graph_edges
+setd city2;city5;33.6
+d city2;city0
+print_path city2;city2
+graph_edges
+degree city5
+graph_nodes
+s city0
+d city2;city2
+d city6;city0
+clear
+d city0;city7
+degree city5
+i city1
+i city2
+i city3
+d city2;city1
+setd city3;city1;1.4
+setd city4;city19;0
+s city3
+shortest_d city1;city2
+degree city15
+print_path city3;city3
+graph_edges
+graph_edges
+graph_nodes
+s city7
+setd city2;city1;7
+print_path city1;city3
+i city8
+s city6
+shortest_d city2;city2
+d city4;city5
+d city8;city2
+graph_nodes
+degree city8
+shortest_d city2;city2
+d city8;city1
+d city17;city2
+shortest_d city2;city2
+d city10;city19
+degree city4
+print_path city8;city5
+graph_nodes
+i city1
+i city7
+s city3
+d city1;city1
+degree city19
+shortest_d city8;city1
+s city0
+d city1;city7
+graph_nodes
+print_path city3;city8
+i city3
+d city2;city8
+d city1;city2
+shortest_d city1;city7
+degree city3
+graph_nodes
+s city3
+d city3;city3
+graph_edges
+degree city1
+s city14
+shortest_d city1;city3
+i city4
+print_path city16;city17
+s city3
+degree city1
+print_path city3;city3
+degree city19
+print_path city1;city7
+print_path city8;city1
+i city9
+graph_nodes
+print_path city3;city4
+graph_nodes
+s city3
+graph_nodes
+graph_nodes
+print_path city7;city7
+print_path city8;city1
+graph_edges
+i city6
+graph_nodes
+s city3
+graph_edges
+setd city6;city1;25.2
+s city3
+print_path city7;city1
+shortest_d city1;city9
+graph_edges
+shortest_d city6;city8
+graph_edges
+degree city1
+s city1
+setd city1;city7;25.9
+graph_nodes
+graph_edges
+graph_nodes
+graph_nodes
+degree city6
+d city7;city2
+setd city19;city4;11.2
+print_path city6;city6
+setd city2;city3;18.2
+graph_nodes
+s city7
+graph_nodes
+graph_nodes
+graph_nodes
+i city9
+i city1
+degree city3
+shortest_d city17;city8
+setd city5;city11;4.9
+graph_nodes
+shortest_d city8;city1
+graph_nodes
+graph_nodes
+graph_edges
+d city6;city9
+i city3
+graph_nodes
+print_path city1;city7
+graph_edges
+degree city4
+print_path city1;city3
+graph_nodes
+graph_edges
+s city6
+shortest_d city3;city9
+shortest_d city7;city3
+setd city3;city8;6.3
+d city13;city2
+shortest_d city4;city2
+degree city6
+s city8
+shortest_d city2;city3
+degree city7
+graph_nodes
+setd city8;city9;31.5
+setd city6;city17;14.7
+graph_nodes
+degree city15
+degree city2
+graph_nodes
+degree city9
+shortest_d city1;city6
+d city9;city9
+shortest_d city2;city1
+d city2;city1
+graph_edges
+print_path city1;city1
+degree city3
+d city6;city1
+graph_edges
+s city8
+i city6
+d city3;city2
+graph_nodes
+clear
+setd city5;city5;21
+s city4
+d city2;city6
+degree city7
+d city0;city7
+s city10
+shortest_d city8;city7
+graph_edges
+shortest_d city5;city8
+shortest_d city6;city5
+i city1
+graph_edges
+s city1
+shortest_d city1;city1
+degree city1
+s city13
+graph_nodes
+s city1
+graph_edges
+i city4
+s city12
+i city1
+s city6
+s city3
+graph_nodes
+print_path city4;city4
+shortest_d city1;city1
+print_path city13;city7
+i city4
+degree city1
+setd city4;city4;19.6
+shortest_d city4;city1
+shortest_d city4;city4
+d city1;city4
+i city2
+i city6
+graph_nodes
+d city6;city2
+i city1
+graph_edges
+s city4
+print_path city4;city4
+print_path city4;city2
+s city2
+print_path city2;city4
+d city4;city4
+degree city1
+degree city13
+degree city6
+graph_edges
+degree city1
+graph_edges
+setd city2;city4;23.1
+print_path city4;city2
+shortest_d city1;city2
+i city7
+degree city14
+print_path city1;city1
+setd city1;city7;22.4
+degree city4
+shortest_d city2;city1
+setd city6;city1;5.6
+i city5
+graph_nodes
+s city13
+s city7
+print_path city1;city4
+graph_edges
+s city1
+degree city1
+i city5
+shortest_d city6;city3
+print_path city2;city5
+shortest_d city2;city7
+i city5
+degree city1
+print_path city1;city1
+degree city1
+graph_edges
+setd city5;city2;9.8
+s city5
+s city17
+graph_edges
+print_path city1;city4
+shortest_d city1;city4
+graph_nodes
+graph_nodes
+graph_edges
+setd city6;city1;18.2
+i city2
+d city1;city5
+print_path city12;city14
+i city6
+shortest_d city4;city6
+i city8
+i city4
+d city4;city6
+graph_nodes
+graph_edges
+setd city1;city5;0.7
+shortest_d city7;city5
+d city6;city8
+d city6;city5
+s city1
+shortest_d city1;city5
+i city0
+i city8
+i city8
+s city14
+setd city7;city0;21.7
+setd city1;city5;10.5
+s city1
+d city4;city1
+graph_nodes
+print_path city5;city8
+s city2
+print_path city7;city1
+shortest_d city5;city8
+setd city2;city2;30.8
+print_path city1;city6
+graph_edges
+setd city8;city5;3.5
+i city8
+shortest_d city5;city1
+print_path city5;city2
+degree city8
+print_path city8;city6
+shortest_d city5;city2
+i city7
+graph_nodes
+shortest_d city2;city6
+degree city5
+graph_nodes
+graph_edges
+d city2;city6
+setd city5;city5;28.7
+s city7
+degree city16
+print_path city3;city2
+shortest_d city2;city2
+s city4
+graph_edges
+d city5;city4
+graph_nodes
+graph_nodes
+print_path city4;city7
+d city6;city4
+s city3
+shortest_d city17;city15
+d city6;city8
+shortest_d city1;city8
+clear
+print_path city0;city6
+i city5
+s city5
+setd city5;city5;28
+i city6
+shortest_d city5;city6
+graph_edges
+d city5;city5
+d city5;city6
+graph_nodes
+degree city6
+print_path city4;city1
+s city5
+graph_nodes
+setd city14;city12;19.6
+print_path city6;city6
+print_path city5;city5
+s city5
+degree city5
+shortest_d city6;city5
+i city3
+degree city5
+i city1
+setd city5;city5;2.8
+degree city3
+setd city16;city10;33.6
+d city1;city6
+graph_edges
+degree city7
+s city17
+setd city1;city5;9.1
+degree city9
+setd city3;city5;30.8
+degree city8
+degree city3
+s city6
+graph_edges
+i city8
+print_path city3;city6
+graph_edges
+shortest_d city8;city8
+graph_nodes
+print_path city5;city6
+graph_nodes
+i city3
+s city9
+d city3;city6
+graph_nodes
+print_path city3;city3
+shortest_d city3;city6
+d city1;city6
+setd city6;city6;22.4
+shortest_d city1;city1
+i city9
+s city18
+d city1;city1
+s city18
+d city1;city1
+d city5;city8
+shortest_d city3;city5
+i city5
+graph_edges
+graph_edges
+setd city5;city6;30.8
+graph_edges
+graph_nodes
+print_path city3;city3
+graph_nodes
+shortest_d city1;city3
+shortest_d city1;city6
+graph_edges
+s city3
+graph_edges
+d city5;city5
+print_path city9;city5
+graph_nodes
+graph_edges
+d city3;city5
+print_path city3;city1
+i city7
+i city2
+graph_nodes
+print_path city3;city9
+graph_nodes
+shortest_d city1;city8
+print_path city6;city5
+graph_edges
+graph_nodes
+shortest_d city8;city13
+graph_edges
+print_path city6;city3
+graph_edges
+print_path city3;city6
+graph_edges
+graph_edges
+graph_nodes
+i city3
+print_path city5;city5
+graph_nodes
+degree city16
+setd city6;city1;4.9
+print_path city5;city6
+setd city5;city14;4.2
+shortest_d city7;city8
+shortest_d city16;city0
+shortest_d city3;city6
+i city0
+shortest_d city3;city3
+graph_edges
+s city12
+setd city7;city9;0.7
+s city1
+setd city1;city0;14.7
+s city5
+print_path city3;city3
+degree city1
+setd city3;city3;24.5
+setd city6;city1;26.6
+graph_nodes
+graph_nodes
+d city9;city5
+shortest_d city3;city6
+s city7
+graph_edges
+d city6;city5
+degree city3
+graph_nodes
+shortest_d city3;city1
+degree city7
+graph_nodes
+graph_nodes
+graph_nodes
+d city6;city2
+print_path city3;city5
+degree city5
+print_path city6;city17
+setd city9;city7;0.7
+degree city0
+graph_nodes
+graph_nodes
+graph_nodes
+graph_edges
+d city7;city5
+degree city3
+graph_nodes
+graph_edges
+d city14;city10
+graph_edges
+shortest_d city3;city0
+graph_nodes
+graph_edges
+clear
+setd city3;city7;18.2
+print_path city4;city8
+d city5;city11
+setd city4;city3;13.3
+setd city6;city3;25.2
+shortest_d city19;city13
+print_path city0;city1
+print_path city4;city6
+degree city4
+graph_nodes
+print_path city6;city7
+i city9
+setd city3;city11;16.8
+print_path city9;city9
+graph_nodes
+i city3
+graph_edges
+d city3;city3
+shortest_d city3;city3
+i city5
+graph_nodes
+s city6
+i city3
+print_path city8;city17
+graph_edges
+s city5
+i city4
+degree city9
+shortest_d city9;city3
+d city4;city3
+print_path city4;city3
+graph_edges
+degree city9
+degree city3
+setd city6;city2;7.7
+d city5;city3
+degree city11
+i city4
+i city1
+s city12
+degree city9
+degree city4
+d city4;city3
+d city1;city1
+graph_edges
+shortest_d city9;city4
+graph_nodes
+print_path city9;city3
+d city6;city9
+setd city14;city1;17.5
+setd city1;city4;13.3
+graph_edges
+graph_nodes
+graph_nodes
+i city5
+graph_edges
+graph_nodes
+d city3;city3
+d city1;city15
+graph_edges
+setd city13;city5;3.5
+degree city19
+d city3;city5
+shortest_d city3;city5
+graph_nodes
+i city4
+print_path city1;city3
+s city4
+print_path city5;city9
+i city1
+print_path city1;city9
+graph_nodes
+degree city8
+i city0
+graph_nodes
+d city1;city1
+graph_nodes
+print_path city5;city3
+print_path city5;city9
+degree city18
+graph_nodes
+i city0
+d city4;city1
+shortest_d city1;city3
+degree city0
+graph_edges
+shortest_d city3;city4
+setd city1;city4;18.9
+degree city17
+graph_edges
+print_path city1;city16
+s city9
+shortest_d city1;city0
+d city1;city5
+graph_edges
+setd city0;city3;11.9
+graph_edges
+print_path city1;city3
+d city4;city4
+d city4;city0
+degree city15
+setd city6;city8;4.2
+graph_nodes
+degree city3
+d city0;city1
+graph_edges
+d city3;city4
+i city2
+graph_edges
+degree city4
+print_path city1;city5
+graph_nodes
+d city4;city1
+i city2
+i city0
+degree city3
+shortest_d city4;city0
+print_path city5;city5
+s city1
+d city1;city4
+graph_edges
+s city3
+graph_nodes
+print_path city1;city2
+i city0
+setd city17;city2;29.4
+i city2
+i city5
+setd city2;city2;25.2
+s city1
+d city0;city5
+degree city6
+shortest_d city0;city0
+degree city2
+graph_nodes
+i city5
+setd city1;city4;33.6
+print_path city2;city5
+d city3;city2
+d city2;city9
+degree city3
+graph_edges
+s city0
+print_path city9;city0
+graph_edges
+degree city1
+graph_edges
+i city2
+d city0;city5
+s city13
+shortest_d city4;city5
+clear
+graph_nodes
+setd city0;city1;26.6
+i city1
+degree city1
+d city1;city1
+graph_nodes
+print_path city1;city1
+i city8
+shortest_d city1;city8
+print_path city8;city5
+degree city2
+graph_edges
+degree city17
+graph_nodes
+graph_nodes
+graph_nodes
+print_path city8;city8
+graph_edges
+d city1;city8
+graph_nodes
+setd city1;city8;6.3
+print_path city0;city6
+degree city1
+d city8;city8
+s city7
+d city1;city8
+s city8
+print_path city1;city1
+s city0
+shortest_d city8;city8
+shortest_d city1;city8
+print_path city8;city8
+graph_edges
+degree city16
+graph_nodes
+degree city1
+setd city13;city0;21.7
+d city8;city8
+i city7
+graph_nodes
+graph_nodes
+graph_nodes
+i city4
+graph_nodes
+d city8;city7
+graph_nodes
+graph_nodes
+graph_nodes
+shortest_d city8;city7
+setd city4;city7;4.9
+graph_nodes
+d city8;city1
+i city9
+graph_nodes
+print_path city8;city1
+degree city7
+shortest_d city1;city1
+s city8
+i city8
+s city1
+d city9;city1
+d city9;city8
+s city9
+d city8;city8
+s city1
+print_path city8;city7
+setd city7;city8;11.2
+print_path city8;city8
+s city4
+print_path city8;city8
+shortest_d city8;city1
+graph_nodes
+graph_edges
+degree city15
+d city7;city8
+degree city9
+shortest_d city8;city8
+shortest_d city15;city13
+print_path city9;city8
+s city4
+print_path city9;city8
+i city0
+graph_edges
+shortest_d city4;city8
+s city0
+shortest_d city8;city7
+print_path city0;city1
+graph_edges
+print_path city8;city7
+setd city7;city9;31.5
+graph_nodes
+s city0
+i city4
+print_path city7;city1
+d city4;city8
+degree city16
+i city3
+graph_edges
+d city7;city1
+degree city8
+setd city3;city6;12.6
+degree city0
+setd city4;city3;28.7
+setd city4;city4;10.5
+shortest_d city7;city8
+degree city13
+d city1;city1
+i city4
+print_path city4;city7
+d city4;city4
+degree city1
+i city0
+graph_nodes
+graph_nodes
+shortest_d city9;city4
+setd city4;city4;0.7
+i city5
+graph_edges
+i city0
+graph_edges
+s city0
+setd city5;city0;9.8
+s city14
+shortest_d city1;city7
+i city2
+i city9
+d city8;city4
+graph_nodes
+graph_edges
+graph_nodes
+graph_nodes
+print_path city1;city4
+graph_edges
+setd city0;city8;2.8
+print_path city8;city4
+shortest_d city1;city0
+d city7;city0
+setd city9;city0;14.7
+s city2
+graph_edges
+print_path city16;city3
+i city2
+degree city5
+s city11
+graph_nodes
+graph_edges
+i city8
+graph_nodes
+graph_nodes
+print_path city0;city8
+s city2
+clear
+print_path city0;city8
+graph_nodes
+graph_edges
+d city1;city4
+d city8;city8
+s city0
+d city2;city4
+graph_nodes
+i city8
+setd city8;city8;7.7
+graph_edges
+graph_edges
+i city7
+d city8;city7
+degree city7
+i city6
+degree city7
+graph_edges
+i city6
+setd city8;city16;17.5
+graph_edges
+d city6;city7
+degree city2
+i city9
+i city9
+s city8
+degree city13
+graph_nodes
+d city6;city7
+graph_edges
+setd city6;city9;19.6
+degree city1
+i city7
+setd city7;city7;14.7
+s city5
+d city6;city6
+d city9;city7
+setd city7;city9;16.8
+setd city9;city7;25.2
+d city9;city3
+d city6;city9
+i city4
+print_path city6;city6
+degree city6
+shortest_d city7;city13
+print_path city4;city9
+print_path city8;city4
+print_path city9;city9
+shortest_d city6;city7
+print_path city7;city4
+graph_nodes
+setd city7;city9;11.9
+setd city8;city9;18.9
+setd city8;city6;14
+i city4
+setd city6;city3;6.3
+graph_edges
+d city12;city16
+graph_edges
+graph_nodes
+setd city9;city8;11.2
+d city9;city9
+degree city6
+graph_edges
+d city7;city9
+setd city9;city4;14
+print_path city4;city6
+shortest_d city2;city14
+d city6;city7
+print_path city4;city8
+i city4
+degree city7
+d city7;city7
+setd city4;city7;24.5
+s city9
+i city4
+graph_nodes
+s city14
+print_path city7;city6
+shortest_d city4;city8
+i city5
+i city4
+degree city5
+s city8
+i city1
+graph_nodes
+shortest_d city5;city4
+s city4
+s city8
+print_path city9;city4
+degree city4
+i city0
+d city9;city4
+s city11
+degree city4
+degree city6
+graph_edges
+print_path city0;city9
+degree city14
+degree city7
+s city7
+print_path city6;city6
+setd city4;city4;8.4
+print_path city5;city4
+graph_nodes
+graph_edges
+graph_edges
+print_path city5;city4
+graph_edges
+setd city5;city4;25.9
+graph_edges
+degree city13
+d city7;city4
+d city9;city0
+d city9;city6
+d city6;city6
+d city10;city13
+s city5
+i city5
+degree city0
+shortest_d city6;city6
+graph_edges
+setd city8;city4;11.9
+i city4
+d city5;city4
+print_path city4;city9
+s city5
+graph_nodes
+s city4
+shortest_d city1;city4
+d city14;city1
+graph_nodes
+print_path city13;city14
+d city4;city0
+setd city7;city12;33.6
+s city19
+graph_edges
+degree city4
+setd city6;city4;34.3
+graph_nodes
+graph_edges
+shortest_d city7;city18
+setd city6;city9;16.1
+setd city5;city4;16.8
+degree city9
+degree city5
+print_path city4;city6
+graph_edges
+s city3
+setd city9;city4;4.9
+s city4
+clear
+print_path city4;city1
+d city14;city5
+s city7
+graph_edges
+d city4;city4
+graph_nodes
+setd city8;city6;24.5
+print_path city4;city3
+setd city2;city3;30.8
+shortest_d city8;city4
+print_path city0;city2
+s city9
+graph_edges
+d city8;city6
+shortest_d city5;city5
+s city9
+graph_nodes
+shortest_d city6;city8
+setd city2;city6;24.5
+setd city1;city2;30.1
+i city7
+degree city11
+shortest_d city7;city7
+d city7;city7
+graph_edges
+s city16
+shortest_d city7;city7
+graph_nodes
+i city1
+i city9
+setd city1;city9;23.8
+shortest_d city1;city1
+graph_nodes
+degree city7
+print_path city7;city9
+i city6
+graph_edges
+graph_nodes
+setd city1;city7;32.2
+setd city1;city1;33.6
+shortest_d city18;city17
+degree city1
+shortest_d city7;city7
+graph_nodes
+graph_edges
+shortest_d city6;city1
+degree city9
+graph_edges
+graph_edges
+shortest_d city6;city7
+i city3
+graph_edges
+print_path city9;city1
+shortest_d city9;city1
+degree city8
+i city2
+degree city3
+shortest_d city6;city2
+degree city1
+d city15;city16
+graph_nodes
+d city1;city1
+shortest_d city3;city9
+d city7;city6
+graph_nodes
+print_path city1;city2
+degree city1
+setd city2;city1;18.9
+i city0
+print_path city7;city0
+graph_nodes
+s city19
+shortest_d city3;city2
+graph_edges
+d city0;city2
+setd city9;city7;10.5
+shortest_d city9;city2
+degree city1
+degree city2
+print_path city6;city3
+setd city1;city1;33.6
+graph_edges
+s city2
+s city1
+s city8
+degree city0
+print_path city6;city0
+shortest_d city7;city2
+graph_edges
+setd city1;city2;9.8
+i city7
+graph_nodes
+shortest_d city9;city7
+print_path city7;city3
+i city7
+degree city7
+graph_edges
+print_path city7;city7
+s city7
+print_path city7;city3
+degree city7
+degree city9
+print_path city3;city7
+setd city0;city7;0.7
+i city2
+i city5
+d city7;city2
+graph_edges
+degree city6
+s city6
+d city6;city6
+shortest_d city2;city7
+print_path city6;city0
+i city6
+shortest_d city7;city2
+shortest_d city9;city16
+i city0
+print_path city7;city9
+graph_nodes
+i city9
+i city8
+degree city0
+shortest_d city18;city16
+graph_edges
+graph_nodes
+s city8
+setd city1;city0;20.3
+graph_edges
+graph_nodes
+degree city5
+i city6
+s city4
+i city8
+print_path city2;city7
+d city7;city1
+degree city0
+graph_edges
+shortest_d city5;city2
+setd city9;city6;7.7
+setd city7;city5;28.7
+degree city1
+degree city14
+shortest_d city16;city17
+setd city6;city6;18.2
+graph_edges
+i city8
+setd city8;city9;24.5
+d city3;city7
+graph_nodes
+graph_edges
+shortest_d city2;city19
+clear
+shortest_d city3;city8
+shortest_d city6;city7
+graph_nodes
+degree city15
+s city6
+shortest_d city0;city6
+s city6
+print_path city3;city2
+d city0;city2
+i city6
+d city6;city6
+graph_edges
+graph_edges
+setd city2;city5;24.5
+i city5
+degree city5
+s city5
+shortest_d city19;city9
+setd city1;city3;2.1
+print_path city6;city6
+degree city1
+d city6;city5
+graph_nodes
+graph_nodes
+i city9
+s city14
+i city2
+setd city9;city2;17.5
+graph_edges
+i city8
+shortest_d city9;city2
+graph_edges
+graph_nodes
+graph_edges
+d city6;city9
+i city1
+shortest_d city6;city6
+shortest_d city5;city2
+shortest_d city6;city5
+d city8;city6
+shortest_d city6;city9
+degree city5
+shortest_d city5;city5
+graph_edges
+s city11
+setd city5;city1;15.4
+print_path city8;city8
+setd city1;city2;0.7
+d city1;city1
+degree city4
+degree city2
+print_path city16;city16
+d city2;city1
+d city8;city9
+setd city6;city1;10.5
+print_path city9;city2
+i city3
+degree city1
+degree city5
+graph_edges
+shortest_d city1;city5
+shortest_d city2;city3
+d city1;city9
+d city3;city5
+shortest_d city2;city1
+graph_edges
+graph_nodes
+setd city8;city1;32.2
+d city3;city9
+graph_nodes
+setd city7;city8;31.5
+i city9
+d city8;city6
+graph_edges
+graph_edges
+d city9;city1
+s city1
+graph_nodes
+setd city8;city1;20.3
+shortest_d city3;city8
+degree city9
+print_path city16;city12
+print_path city9;city2
+i city8
+d city2;city3
+print_path city3;city3
+shortest_d city2;city9
+degree city2
+s city9
+graph_edges
+d city8;city1
+setd city9;city8;11.9
+degree city7
+print_path city2;city1
+i city3
+s city11
+print_path city3;city1
+graph_edges
+graph_nodes
+i city1
+d city5;city5
+shortest_d city1;city2
+degree city18
+d city9;city5
+setd city2;city8;29.4
+i city4
+shortest_d city1;city4
+graph_edges
+shortest_d city6;city2
+print_path city13;city14
+shortest_d city9;city1
+degree city4
+shortest_d city3;city4
+graph_edges
+i city2
+d city8;city6
+setd city5;city9;30.1
+s city19
+print_path city13;city1
+setd city11;city12;28
+s city7
+i city0
+print_path city2;city9
+s city2
+print_path city6;city3
+i city1
+degree city9
+i city0
+s city2
+degree city9
+degree city15
+graph_nodes
+graph_edges
+shortest_d city6;city1
+print_path city8;city2
+setd city1;city9;8.4
+shortest_d city5;city1
+shortest_d city9;city3
+shortest_d city3;city16
+s city8
+i city0
+i city5
+graph_nodes
+graph_nodes
+s city14
+setd city3;city0;19.6
+d city5;city2
+setd city4;city2;2.1
+i city5
+s city3
+graph_nodes
+clear
+d city4;city2
+setd city3;city9;7
+d city8;city8
+graph_edges
+shortest_d city6;city2
+shortest_d city4;city7
+graph_nodes
+d city2;city7
+print_path city0;city8
+shortest_d city4;city7
+shortest_d city3;city0
+setd city5;city8;14
+graph_edges
+shortest_d city1;city5
+setd city1;city3;24.5
+setd city7;city2;3.5
+d city6;city6
+d city16;city5
+graph_nodes
+print_path city0;city9
+d city19;city6
+degree city17
+s city8
+graph_edges
+graph_nodes
+setd city17;city2;30.1
+d city8;city2
+s city5
+graph_edges
+degree city9
+print_path city18;city3
+setd city1;city3;14
+shortest_d city8;city8
+i city9
+setd city9;city9;10.5
+graph_nodes
+setd city9;city9;0
+graph_edges
+graph_nodes
+shortest_d city9;city9
+i city3
+shortest_d city14;city16
+degree city6
+print_path city3;city3
+graph_edges
+shortest_d city3;city3
+shortest_d city3;city3
+shortest_d city3;city3
+degree city9
+shortest_d city9;city3
+graph_nodes
+shortest_d city9;city9
+graph_edges
+setd city9;city9;30.1
+shortest_d city3;city3
+s city3
+print_path city9;city3
+degree city3
+graph_nodes
+shortest_d city13;city10
+i city1
+s city5
+graph_nodes
+shortest_d city9;city9
+setd city17;city1;11.9
+print_path city3;city9
+graph_nodes
+s city15
+d city3;city1
+shortest_d city3;city1
+s city1
+graph_nodes
+s city3
+graph_edges
+d city13;city17
+print_path city4;city10
+graph_edges
+degree city2
+degree city10
+shortest_d city3;city3
+i city8
+degree city3
+setd city3;city3;21
+setd city9;city1;29.4
+shortest_d city8;city1
+d city8;city8
+i city9
+shortest_d city9;city1
+setd city3;city9;13.3
+i city0
+degree city3
+graph_nodes
+print_path city3;city0
+s city18
+setd city4;city5;25.2
+print_path city9;city0
+graph_edges
+setd city0;city1;14
+degree city11
+degree city9
+setd city0;city3;7
+setd city9;city1;30.1
+graph_edges
+setd city1;city1;9.1
+i city8
+graph_nodes
+graph_edges
+print_path city3;city9
+shortest_d city0;city0
+degree city3
+graph_nodes
+s city4
+setd city1;city9;33.6
+shortest_d city9;city9
+shortest_d city6;city19
+s city8
+setd city18;city13;23.8
+shortest_d city8;city9
+shortest_d city9;city3
+d city1;city0
+graph_nodes
+s city1
+shortest_d city9;city8
+degree city13
+graph_edges
+graph_nodes
+shortest_d city19;city9
+graph_nodes
+graph_edges
+graph_nodes
+print_path city0;city3
+graph_edges
+graph_edges
+graph_edges
+i city6
+graph_edges
+d city6;city6
+i city7
+setd city0;city1;24.5
+graph_nodes
+print_path city1;city1
+degree city9
+print_path city9;city0
+s city17
+graph_edges
+graph_edges
+i city8
+print_path city7;city9
+setd city7;city8;18.2
+i city7
+setd city8;city9;5.6
+clear
+s city18
+graph_nodes
+i city9
+print_path city9;city9
+degree city9
+s city9
+graph_nodes
+print_path city9;city9
+s city9
+s city9
+graph_edges
+i city9
+i city8
+setd city8;city9;24.5
+graph_nodes
+graph_nodes
+degree city6
+d city8;city8
+graph_edges
+degree city9
+shortest_d city9;city8
+i city6
+graph_edges
+shortest_d city6;city6
+shortest_d city8;city9
+i city6
+s city8
+degree city8
+setd city9;city9;17.5
+graph_edges
+shortest_d city8;city9
+setd city9;city9;10.5
+setd city4;city6;21.7
+graph_edges
+graph_nodes
+graph_edges
+graph_edges
+setd city9;city6;21.7
+s city8
+d city16;city4
+graph_edges
+print_path city9;city6
+print_path city6;city9
+s city11
+i city2
+d city6;city5
+shortest_d city9;city6
+graph_nodes
+shortest_d city6;city2
+s city3
+i city2
+shortest_d city6;city2
+shortest_d city9;city9
+degree city17
+setd city8;city8;15.4
+degree city11
+s city9
+i city1
+setd city3;city1;4.9
+s city5
+print_path city6;city6
+i city1
+degree city2
+print_path city1;city9
+graph_nodes
+degree city0
+setd city1;city8;27.3
+d city1;city1
+d city5;city9
+print_path city8;city1
+i city6
+print_path city6;city8
+setd city8;city2;20.3
+graph_nodes
+graph_edges
+degree city3
+setd city8;city6;9.8
+degree city1
+s city17
+setd city1;city9;0
+shortest_d city2;city6
+s city6
+degree city2
+graph_edges
+d city2;city1
+graph_edges
+d city7;city4
+degree city6
+graph_edges
+degree city18
+print_path city9;city6
+graph_nodes
+s city6
+degree city5
+d city11;city12
+graph_nodes
+graph_nodes
+setd city6;city6;16.8
+i city5
+s city1
+print_path city6;city2
+degree city19
+print_path city6;city8
+graph_nodes
+degree city16
+print_path city19;city6
+degree city9
+s city1
+s city9
+s city0
+print_path city4;city12
+degree city3
+i city1
+shortest_d city2;city2
+print_path city1;city2
+setd city1;city1;28
+print_path city5;city8
+s city1
+shortest_d city5;city6
+degree city3
+d city6;city9
+i city0
+i city4
+d city6;city1
+i city9
+setd city2;city5;5.6
+print_path city1;city9
+i city2
+shortest_d city1;city1
+graph_nodes
+print_path city0;city4
+d city1;city1
+graph_edges
+degree city8
+graph_edges
+d city14;city9
+print_path city1;city6
+i city1
+i city1
+setd city9;city5;30.1
+s city5
+shortest_d city18;city14
+setd city1;city1;16.1
+shortest_d city1;city1
+shortest_d city1;city6
+s city1
+s city2
+s city10
+degree city16
+print_path city6;city0
+degree city8
+clear

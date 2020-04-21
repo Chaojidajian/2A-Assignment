@@ -2,7 +2,6 @@
 #include <iostream>
 #include "undirectedGraphtest.h"
 #include <string>
-//Bingjian Du 20706578
 using namespace std;
 graph mygraph;
 int main(){
