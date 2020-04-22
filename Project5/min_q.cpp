@@ -38,6 +38,6 @@ node* min_q::extractMin(){
     } 
     node* root = this->vertices[0]; 
     this->vertices[0]= this->vertices.back(); 
-    this->vertices.pop_back(); 
+    this->vertices.pop_back();
     return root; 
 }

@@ -211,8 +211,20 @@ void graph::print_path(string name1,string name2){
     
 }
 void graph::clear(){
+    for(auto i=this->matrix.begin();i!=this->matrix.end();i++){
+        for(auto j=(*i).begin();j!=(*i).end();j++){
+            delete *j;
+        }
+        (*i).clear();
+    }
     this->matrix.clear();
+    for(auto i=this->cities.begin();i!=this->cities.end();i++){
+        delete *i;
+    }
     this->cities.clear();
     this->edge_count=0;
     this->node_count=0;
+}
+graph::~graph(){
+    this->clear();
 }
